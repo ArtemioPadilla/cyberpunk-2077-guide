@@ -24,7 +24,7 @@ pills:
     }
 ---
 
-**The Pickup** es la misión más ramificada del Acto 1. Dex te manda a recuperar el **Flathead**, el robot-araña de Militech que **Maelstrom** robó de un convoy. La banda, liderada por **Royce**, lo tiene en la **All Foods Factory** (Talbot Place, Northside, Watson). Antes puedes contactar con **Meredith Stout**, agente de asuntos internos de Militech, que te ofrece un chip de crédito para pagarle a Maelstrom… con trampa. Lo que hagas aquí decide quién sale vivo de la fábrica, quién te espera en la puerta, qué misiones y armas se abren y cómo te recibe Maelstrom en el **Acto 2** (Second Conflict). IGN recomienda **nivel 3**. Puedes hacerla antes o después de **The Information**; las dos son necesarias para **The Heist**.
+**The Pickup** es la misión más ramificada del Acto 1. Dex te manda a recuperar el **Flathead**, el robot-araña de Militech que **Maelstrom** robó de un convoy. La banda, liderada por **Royce**, lo tiene en la **All Foods Factory** (Talbot Place, Northside, Watson). Antes puedes contactar con **Meredith Stout**, agente de asuntos internos de Militech, que te ofrece un chip de crédito para pagarle a Maelstrom… con trampa. Lo que hagas aquí decide quién sale vivo de la fábrica, quién te espera en la puerta, qué misiones y armas se abren y cómo te recibe Maelstrom en el **Acto 2** (en **Second Conflict**, de la cadena de Kerry). IGN recomienda **nivel 3**. Puedes hacerla antes o después de **The Information**; las dos son necesarias para **The Heist**.
 
 > **Orden:** (opcional) llamar a Meredith Stout y verla en el canal pluvial bajo el paso elevado → reunirte con Jackie en All Foods → usar el interfono y hablar con Dum Dum → llegar a la planta de producción → subir en el ascensor → sentarte y hacer que Jackie se siente → hablar con Royce y pagar (o pelear) → salir por una de las tres rutas → seguir a Jackie y hablar con él → llamar a Dex.
 
@@ -36,12 +36,13 @@ La wiki numera los desenlaces como «rutas». La ruta 1 es solo la muerte instan
 
 - **Ruta 2, trato en paz:** **no** ves a Meredith, no amenazas a nadie, haces que Jackie se siente y pagas a Royce con **€$10,000 tuyos**. Es la **única** forma de desbloquear el **vendedor de armas de Maelstrom** y mantiene vivo a **Dum Dum** (en el Acto 2 lleva su arma icónica, **Doom Doom**). Pierdes el botín de la fábrica.
 - **Ruta 3, pelear contra Militech:** ves a Meredith, no hay hostilidad y pagas con el chip limpio, con el chip avisando a Royce (**solo Corpo**) o con tus €$10,000. Militech asalta la fábrica y tú peleas junto a Maelstrom. Al final te espera **Anthony Gilchrist**. Un V **Nómada** puede ganar aquí una **caja de equipo Militech**.
-- **Ruta 4, pelear contra Maelstrom:** cualquier hostilidad (sacar un arma, tocar las cámaras o torretas, no sentarte, pagar con el chip infectado sin avisar, o derribar o matar a Royce en la reunión). Peleas contra la banda y contra **Royce** en su exotraje. Si viste a Meredith, ella te espera a la salida: es la vía hacia **Venus in Furs**.
+- **Ruta 4, pelear contra Maelstrom:** cualquier hostilidad (sacar un arma, tocar las cámaras o torretas, no sentarte, pagar con el chip infectado sin avisar, o derribar o matar a Royce en la reunión). Peleas contra la banda y contra **Royce** en su exotraje. Si viste a Meredith, ella te espera a la salida (salvo si derribas a Royce con la opción de Cuerpo): es la vía hacia **Venus in Furs**.
 
 **Por objetivo:**
 
 - **Chaos (pistola icónica de Royce):** Royce tiene que morir. Ruta 4, o ruta 3 dejando que Royce pelee solo contra Militech.
-- **Vendedor de armas de Maelstrom y Doom Doom:** solo ruta 2 (Dum Dum también puede sobrevivir en la ruta 3, ver «Brick y el Acto 2»).
+- **Vendedor de armas de Maelstrom:** solo ruta 2.
+- **Doom Doom (revólver icónico de Dum Dum, en Second Conflict):** Royce tiene que seguir vivo. Ruta 2 (lo garantiza) o ruta 3 si Royce sobrevive al asalto de Militech. Choca con Chaos: no puedes tener los dos.
 - **Venus in Furs (Meredith):** acepta el chip y vuelve hostil a Maelstrom después de ver a Dum Dum en persona, **sin** usar el derribo de Cuerpo contra Royce.
 - **Brick:** solo rutas 3 y 4, y solo te sirve si Royce muere (ver «Brick y el Acto 2»).
 - **Caja de Militech (solo Nómada):** lee el mensaje de Gilchrist dentro de la fábrica y menciónalo en la conversación de la salida.
@@ -155,7 +156,7 @@ Si empiezas a pelear antes del ascensor, los objetivos cambian a **derrotar a Ma
 3. **Cuidado:** **usar el detonador para activarla mata a Brick** y te da **€$5,000** (su recompensa de la NCPD).
 4. Si lo liberas, dile **«You owe us»**.
 
-**Consecuencias en Second Conflict (Acto 2):**
+**Consecuencias en Second Conflict (cadena de Kerry, Acto 2):**
 
 - **Royce vivo:** Dum Dum te recibe en el Totentanz; te reúnes con Royce y robas los datos.
 - **Royce muerto y Brick liberado:** Patricia te lleva con Brick, que te deja salir en paz con Bes Isis.

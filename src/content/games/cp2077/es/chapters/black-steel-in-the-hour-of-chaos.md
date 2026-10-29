@@ -36,7 +36,7 @@ Cuando tengas los datos, **envíale un mensaje a Reed** con los detalles y **esp
 
 ## El hotel abandonado
 
-1. **Reúnete con Reed en el hotel abandonado** (West Wind Estate), con vista a un puente peatonal. Puedes hablar con Johnny (opcional).
+1. **Reúnete con Reed en el hotel abandonado** de Pacifica, con vista a un puente peatonal. Puedes hablar con Johnny (opcional).
 2. Habla con Reed y con la gente de la **6th Street**. Su líder, **Will Gunner**, te reconoce si hiciste **Stadium Love**: si lo resolviste **sin violencia**, comenta bien tu puntería; si fue violento, tiene cosas menos amables que decir.
 3. **Revisar el plan (opcional):** un soldado de la 6th Street repasa la emboscada. Toma el fragmento y elige:
    - **Torretas o minas** para la zona del ataque.

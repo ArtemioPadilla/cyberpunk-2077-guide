@@ -15,7 +15,7 @@ pills:
   - { type: save, label: 'Guarda antes de desconectar al netrunner' }
 ---
 
-La da **Takemura**. Durante el desfile por la muerte de Saburo Arasaka en **Japantown**, Takemura va a saltar a la carroza de **Hanako** para secuestrarla. Tu trabajo: cubrirlo eliminando a **tres francotiradores** de Arasaka y desconectando al **netrunner** que vigila la zona. Ahí te espera **Sandayu Oda**, el guardaespaldas de Hanako, en el jefe más técnico del acto. Según la wiki, para que Takemura te llame tienes que haber terminado **Gimme Danger y Life During Wartime**.
+La da **Takemura**. Durante el desfile por la muerte de Saburo Arasaka en **Japantown**, Takemura va a saltar a la carroza de **Hanako** para secuestrarla. Tu trabajo: cubrirlo eliminando a **tres francotiradores** de Arasaka y desconectando al **netrunner** que vigila la zona. Ahí te espera **Sandayu Oda**, el guardaespaldas de Hanako, en el jefe más técnico del acto. La wiki lista **Gimme Danger y Life During Wartime** como misiones previas: si Takemura no te llama tras Gimme Danger, avanza la línea de Hellman.
 
 > **Orden:** ve al bazar de Japantown → habla con Takemura (toma su fragmento) → elimina a los 3 francotiradores → habla con Takemura → llega al netrunner → desconéctalo → derrota a Oda → decide su destino → habla con Takemura → conéctate al punto de acceso → desactiva la torreta → espera el movimiento de Takemura → escapa del desfile.
 

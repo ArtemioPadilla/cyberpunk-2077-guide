@@ -15,7 +15,7 @@ pills:
 
 **River Ward** is the NCPD detective you meet in **I Fought the Law**, the job from **Elizabeth Peralez** that opens when you finish **Life During Wartime**. Two branches grow from it: the **Peralez** one (**Dream On**, a conspiracy around their campaign) and **River**'s (**The Hunt**, the search for his nephew Randy, and **Following the River**, the family dinner and the romance). The Hunt does not depend on Dream On; do them in any order.
 
-> **For the ending:** River **opens and closes no ending**. His romance needs a **feminine body, any voice** (Fandom's Following the River page says "feminine voice and body", but the Romance page and game8 say voice doesn't matter). A feminine V can hold River and **Judy** at the same time with no penalty, but on the rooftop you call only one partner. River waits for V in **The Sun** and **The Devil**; The Tower ends the romance. What ruins it all: **picking Poppy Farm** in The Hunt, **leaving Edgewood Farm** during the rescue, or saying **"count me out"** at the end of The Hunt.
+> **For the ending:** River **opens and closes no ending**. His romance needs a **feminine body, any voice** (Fandom's Following the River page says "feminine voice and body", but the Romance page and game8 say voice doesn't matter). A feminine V can hold River and **Judy** at the same time with no penalty, but on the rooftop you call only one partner. River waits for V in **The Sun** and **The Devil** (if V refuses the contract and goes back to Earth); The Tower ends the romance. What ruins it all: **picking Poppy Farm** in The Hunt, **leaving Edgewood Farm** during the rescue, or saying **"count me out"** at the end of The Hunt.
 
 > **Order:** **I Fought the Law:** City Hall braindance → River at Chubby Buffalo's → Neil White (Max-imum Pleasure) and Christine Markov (Cherry Blossom Market) → Tyger Claws at River's car → Red Queen's Race → Han → the Peralezes → **Dream On:** Peralez apartment → rooftop → van chase → Elizabeth → Jefferson → **The Hunt:** news clip → NCPD lab → Joss's trailer → three braindances → **Edgewood Farm** → **Following the River:** dinner with the family → water tower.
 
@@ -76,7 +76,7 @@ If you've visited **Edgewood Farm** before, scanning the skyline or the towers l
 **Edgewood Farm.**
 
 1. There are **mines**, **four turrets** and **cameras**.
-2. In the house, the **switch under the desk** opens a **hidden room**; its computer shuts down the turrets and cameras. The **Tinker Bell** is nearby (Fandom's weapon page puts it in the "control room"; it is the same spot or very close).
+2. In the house, the **switch under the desk** opens a **hidden room**; its computer shuts down the turrets and cameras. The **Tinker Bell** is nearby (Fandom's weapon page puts it in the farm's "control room": look around that area).
 3. Climb the **ladder on the left side of the barn** to the roof opening and **switch off the braindance machine**.
 4. Help the other victims: two survive.
 5. **Don't leave the area**: if you do, **River and Randy die**.
@@ -100,11 +100,11 @@ Later, Joss texts you a photo of the family at the hospital with Randy.
 - **I Fought the Law — Tyger Claws at the car** → keeping quiet or "jumping" sends them off without a fight; River appreciates non-lethal or quiet handling.
 - **I Fought the Law — tell the Peralezes or not** → they pay either way; Johnny prefers you keep quiet.
 - **Dream On — losing the van** → the job ends early and you get paid less.
-- **Dream On — tell Jefferson the truth** → he plays along with his manipulators while trying to expose them. **Lie (blame Holt)** → he focuses on winning first.
+- **Dream On — tell Jefferson the truth** → he plays along with his manipulators while trying to expose them. **Lie (blame Holt)** → he focuses on winning first. This choice also changes Peralez's credits call: paranoid about his wife if you told him the truth, asking you for a job if you hid it.
 - **The Hunt — Poppy Farm** → Randy dies, River goes after Harris alone and ends up in jail; **Following the River locked, no romance. Permanent.**
 - **The Hunt — leaving Edgewood Farm** → **River and Randy die. Permanent.**
 - **The Hunt — "count me out"** → you lose the romance.
-- **Following the River — romance or friendship** (feminine V) → with romance, River waits for you in The Sun and The Devil and gives you his tank top; either way, the **Kutcher home** unlocks as an apartment.
+- **Following the River — romance or friendship** (feminine V) → with romance, River waits for you in The Sun and in The Devil (if you go back to Earth) and gives you his tank top; either way, the **Kutcher home** unlocks as an apartment.
 
 > **Don't leave without:** the **Tinker Bell** at Edgewood Farm (by the hidden room; if you miss it, Herold Lowe sells it in Phantom Liberty), switching off the barn machine, helping the victims and, in Following the River, **Crash** on the water tower.
 

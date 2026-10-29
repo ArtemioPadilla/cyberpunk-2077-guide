@@ -32,7 +32,7 @@ Judy asks you to come to her apartment (Charter street, Northside) as soon as po
 2. **Carry Evelyn's body** to the bedroom and leave Judy alone with her.
 3. **Talk to Judy on the roof.** You give her a cigarette from **Evelyn's cigarette case** and Judy lets you keep it.
 
-Judy tells you what she found: **Woodman** (Oswald Forrest, the Clouds manager) kept Evelyn for three days and then sold her to the **Scavengers**. Judy needs time to think and promises to call. The next day she texts that she buried Evelyn at the **Columbarium**.
+Judy tells you what she found: **Woodman** (Oswald Forrest, the Clouds manager) kept Evelyn for three days, left her with the ripperdoc **Fingers** as payment, and Fingers sold her to the **Scavengers**. Judy needs time to think and promises to call. The next day she texts that she buried Evelyn at the **Columbarium**.
 
 ## Ex-Factor
 

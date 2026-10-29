@@ -88,7 +88,7 @@ Aquí se decide todo. Hay dos momentos.
 - **Matar a Reed** → **King of Wands**: Songbird se va a la Luna; ganas la **Pariah**. **Sin cura y sin The Tower**; Reed muere. Siguiente página: **Unfinished Sympathy** (con From Her to Eternity).
 - **Entregarle Songbird a Reed** → **King of Swords**: Songbird vuelve con la NUSA y Reed te consigue la cura. Siguiente página: **Through Pain to Heaven** y luego **Who Wants to Live Forever** (The Tower). Para no arriesgar, usa «you'll help me live on».
 
-> **No te vayas sin:** la maleta del código **930604** si vas por la ruta de la recogida de equipaje y, si matas a Reed, su pistola **Pariah** (no hay otra ocasión). Las dos decisiones son permanentes para esta partida: guarda antes del tren.
+> **No te vayas sin:** la maleta del código **930604** si vas por la ruta de la recogida de equipaje y, si matas a Reed, su pistola **Pariah** (se pierde si no la recoges). Las dos decisiones son permanentes para esta partida: guarda antes del tren.
 
 ## Recompensas
 

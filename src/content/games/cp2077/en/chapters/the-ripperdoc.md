@@ -40,7 +40,7 @@ pills:
 4. **Scan Viktor.** It is your first use of the **scanner**, linked to the NCPD database.
 5. **Talk to Viktor** and head back to Misty's Esoterica. **The Ride** continues there.
 
-**The cyberware you get.** The wiki lists three pieces: **Basic Kiroshi Optics** (eyes), **Ballistic Coprocessor** (hands) and **Subdermal Armor**; the Subdermal Armor and Ballistic Coprocessor pages both say they are obtained here. Sources disagree: PowerPyx names only the Kiroshi optics and the Ballistic Coprocessor, and IGN has you pick the ocular system and the hands. Subdermal Armor is probably a 2.0 addition; check your cyberware screen afterwards to see what 2.5 installed.
+**The cyberware you get.** The wiki lists three pieces: **Basic Kiroshi Optics** (eyes), **Ballistic Coprocessor** (hands) and **Subdermal Armor**; the Subdermal Armor and Ballistic Coprocessor pages both say they are obtained here, and Paid in Full names the same three pieces as the €$21,000 debt. Sources disagree: PowerPyx names only the Kiroshi optics and the Ballistic Coprocessor, and IGN has you pick the ocular system and the hands. Subdermal Armor is probably a 2.0 addition; check your cyberware screen afterwards to see what 2.5 installed.
 
 **A known bug.** game8 reports that you can get stuck on "Talk to Viktor" with only the "How's biz?" option. If it happens, save and reload.
 

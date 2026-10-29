@@ -18,14 +18,20 @@ pills:
 
 > **Orden:** buscar a Kirk en el segundo piso de El Coyote Cojo → hablar con Kirk → salir del bar → hablar con Padre y subir a su coche → viajar con él a Embers → tomar el ascensor al garaje → encontrar el Rayfield (opcional: encontrar a Rick) → quitar el bloqueo con el dispositivo de Kirk → subir al coche y «robar» el Rayfield → hablar con el ladrón (Jackie) → hablar con la policía → hablar con Jackie.
 
-> **Prepárate (creación de V):** la **dificultad** (Fácil, Normal, Difícil, Muy difícil) se puede cambiar cuando quieras; desde la 2.1 está en la pestaña de Accesibilidad. Cada atributo empieza en 3 y repartes **7 puntos libres** (máximo 6 por atributo al crear; luego llegan hasta 20). Cada nivel da +1 punto de atributo y +1 de perk. **Los puntos de atributo son permanentes**, pero los perks se pueden devolver uno a uno gratis. Los romances dependen del cuerpo y la voz: **Judy** pide cuerpo y voz femeninos, **River** cuerpo femenino, **Panam** cuerpo masculino y **Kerry** cuerpo y voz masculinos (el origen no influye). El origen solo cambia el prólogo y algunos diálogos; **ninguno es mejor en lo mecánico**. Si tienes Phantom Liberty, la creación ofrece **empezar directamente en Phantom Liberty**: eso completa solo el prólogo y todas las misiones principales hasta Transmission, así que te saltas todo el Acto 1 y sus decisiones.
+> **Prepárate (creación de V):**
+>
+> - **Dificultad** (Fácil, Normal, Difícil, Muy difícil): se cambia cuando quieras; desde la 2.1 está en la pestaña de Accesibilidad.
+> - **Atributos:** cada uno empieza en 3 y repartes **7 puntos libres** (máximo 6 por atributo al crear; luego llegan hasta 20). Cada nivel da +1 punto de atributo y +1 de perk. **Los puntos de atributo son permanentes**; los perks se devuelven uno a uno gratis.
+> - **Romances** (dependen del cuerpo y la voz, no del origen): **Judy** pide cuerpo y voz femeninos, **River** cuerpo femenino, **Panam** cuerpo masculino y **Kerry** cuerpo y voz masculinos.
+> - **Origen:** solo cambia el prólogo y algunos diálogos; **ninguno es mejor en lo mecánico**.
+> - **Phantom Liberty:** la creación ofrece **empezar directamente en Phantom Liberty**. Eso completa solo el prólogo y todas las misiones principales hasta Transmission: te saltas todo el Acto 1 y sus decisiones.
 
 ## El Coyote Cojo
 
 V empieza en la barra de El Coyote Cojo, recolocándose la nariz rota. Pepe te cuenta su problema con Kirk y te pide que lo convenzas de olvidar la deuda o de saldarla de otra forma.
 
 1. **Busca a Kirk en el segundo piso** del bar.
-2. **Habla con Kirk.** En la mesa se le unen Kirk Sawyer y **Big Joe**. Kirk no perdona la deuda, pero propone un trato: si robas un **Rayfield Aerondight** de un corporativo de Arasaka, olvida lo que le debe Pepe y además te da una parte. Te entrega un **dispositivo** (una llave de servicio de Rayfield) para abrir el coche sin que salte la alarma.
+2. **Habla con Kirk.** Kirk y **Big Joe** se sientan contigo en el reservado. Kirk no perdona la deuda, pero propone un trato: si robas un **Rayfield Aerondight** de un corporativo de Arasaka, olvida lo que le debe Pepe y además te da una parte. Te entrega un **dispositivo** (una llave de servicio de Rayfield) para abrir el coche sin que salte la alarma.
 3. **Sal del bar.**
 
 ## El viaje con Padre

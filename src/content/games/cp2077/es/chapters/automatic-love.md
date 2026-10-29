@@ -35,7 +35,7 @@ Ve al **Megabuilding H8** y sube en ascensor hasta Clouds. Abre **al anochecer**
 2. Elige muñeca: **Angel** (cabina 6) o **Skye** (cabina 9).
 3. En la cabina, puedes cortar la sesión con la **palabra de seguridad** o dejar que la muñeca haga su "búsqueda del alma". Si usas la palabra de seguridad, puedes preguntarle por Evelyn: te manda a **Tom**, en la zona VIP.
 
-**Cabina 11 (opcional).** Es la de Evelyn. Examina el **puerto que falta** en la pared junto a la cama, la **sangre** en la pared de enfrente y **revisa la grabación de seguridad**: muestra que el cliente no le hizo daño; Evelyn se colgó en lo que parece un hackeo remoto de un netrunner. Hay comentarios de Johnny aquí.
+**Cabina 11 (opcional).** Es la de Evelyn. Examina el **puerto que falta** en la pared junto a la cama, la **sangre** en la pared de enfrente y **revisa la grabación de seguridad**: muestra que el cliente no le hizo daño; Evelyn sufrió un fallo por lo que parece un hackeo remoto de un netrunner. Hay comentarios de Johnny aquí.
 
 ## Entrar en la zona VIP
 

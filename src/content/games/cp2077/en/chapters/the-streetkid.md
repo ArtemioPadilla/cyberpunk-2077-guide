@@ -18,14 +18,20 @@ pills:
 
 > **Order:** find Kirk on the second floor of El Coyote Cojo → talk to Kirk → leave the bar → talk to Padre and get in his car → ride with him to Embers → take the elevator to the garage → find the Rayfield (optional: find Rick) → disable the lock with Kirk's device → get in and "steal" the Rayfield → talk to the thief (Jackie) → talk to the police → talk to Jackie.
 
-> **Get ready (creating V):** **difficulty** (Easy, Normal, Hard, Very Hard) can be changed whenever you like; since 2.1 it lives in the Accessibility tab. Every attribute starts at 3 and you spend **7 free points** (maximum 6 per attribute at creation; later they go up to 20). Each level gives +1 Attribute point and +1 Perk point. **Attribute points are permanent**, but perks can be refunded one by one for free. Romances depend on body and voice: **Judy** needs a feminine body and voice, **River** a feminine body, **Panam** a masculine body and **Kerry** a masculine body and voice (lifepath doesn't matter). The lifepath only changes the prologue and some dialogue; **none is mechanically better**. If you own Phantom Liberty, creation offers to **skip ahead to Phantom Liberty**: that auto-completes the prologue and every main job through Transmission, so you skip all of Act 1 and its choices.
+> **Get ready (creating V):**
+>
+> - **Difficulty** (Easy, Normal, Hard, Very Hard): change it whenever you like; since 2.1 it lives in the Accessibility tab.
+> - **Attributes:** each starts at 3 and you spend **7 free points** (maximum 6 per attribute at creation; later they go up to 20). Each level gives +1 Attribute point and +1 Perk point. **Attribute points are permanent**; perks can be refunded one by one for free.
+> - **Romances** (body and voice matter, lifepath doesn't): **Judy** needs a feminine body and voice, **River** a feminine body, **Panam** a masculine body and **Kerry** a masculine body and voice.
+> - **Lifepath:** it only changes the prologue and some dialogue; **none is mechanically better**.
+> - **Phantom Liberty:** creation offers to **skip ahead to Phantom Liberty**. That auto-completes the prologue and every main job through Transmission: you skip all of Act 1 and its choices.
 
 ## El Coyote Cojo
 
 V starts at the bar of El Coyote Cojo, setting their broken nose. Pepe tells you about his trouble with Kirk and asks you to talk Kirk into forgetting the debt or settling it some other way.
 
 1. **Find Kirk on the second floor** of the bar.
-2. **Talk to Kirk.** Kirk Sawyer and **Big Joe** join you at the booth. Kirk won't forgive the debt, but he offers a deal: steal a **Rayfield Aerondight** belonging to an Arasaka corpo and he forgets what Pepe owes and gives you a cut on top. He hands you a **device** (a Rayfield service key) to open the car without tripping the alarm.
+2. **Talk to Kirk.** Kirk and **Big Joe** join you at the booth. Kirk won't forgive the debt, but he offers a deal: steal a **Rayfield Aerondight** belonging to an Arasaka corpo and he forgets what Pepe owes and gives you a cut on top. He hands you a **device** (a Rayfield service key) to open the car without tripping the alarm.
 3. **Leave the bar.**
 
 ## The ride with Padre

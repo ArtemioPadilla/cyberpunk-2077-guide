@@ -21,7 +21,7 @@ pills:
     }
 ---
 
-**The Pickup** is Act 1's most branching job. Dex sends you to get back the **Flathead**, the Militech spider-bot **Maelstrom** stole from a convoy. The gang, led by **Royce**, holds it at the **All Foods Factory** (Talbot Place, Northside, Watson). Beforehand you can contact **Meredith Stout**, a Militech internal affairs agent, who offers you a credchip to pay Maelstrom with… and it's rigged. What you do here decides who walks out of the factory alive, who waits for you at the gate, which jobs and weapons open up, and how Maelstrom greets you in **Act 2** (Second Conflict). IGN recommends **level 3**. You can do it before or after **The Information**; both are needed for **The Heist**.
+**The Pickup** is Act 1's most branching job. Dex sends you to get back the **Flathead**, the Militech spider-bot **Maelstrom** stole from a convoy. The gang, led by **Royce**, holds it at the **All Foods Factory** (Talbot Place, Northside, Watson). Beforehand you can contact **Meredith Stout**, a Militech internal affairs agent, who offers you a credchip to pay Maelstrom with… and it's rigged. What you do here decides who walks out of the factory alive, who waits for you at the gate, which jobs and weapons open up, and how Maelstrom greets you in **Act 2** (in **Second Conflict**, part of Kerry's chain). IGN recommends **level 3**. You can do it before or after **The Information**; both are needed for **The Heist**.
 
 > **Order:** (optional) call Meredith Stout and meet her in the storm channel under the overpass → meet Jackie at All Foods → use the intercom and talk to Dum Dum → reach the main production floor → ride the elevator up → sit and get Jackie to sit → talk to Royce and pay (or fight) → leave by one of three paths → follow Jackie and talk to him → call Dex.
 
@@ -33,12 +33,13 @@ The wiki numbers the outcomes as "paths". Path 1 is just the instant death (taki
 
 - **Path 2, peaceful deal:** you **don't** meet Meredith, threaten nobody, get Jackie to sit and pay Royce **€$10,000 of your own**. It is the **only** way to unlock the **Maelstrom Weapon Vendor** and it keeps **Dum Dum** alive (in Act 2 he carries his iconic gun, **Doom Doom**). You miss out on looting the factory.
 - **Path 3, fight Militech:** you meet Meredith, there is no hostility, and you pay with the cleaned chip, with the chip while warning Royce (**Corpo only**), or with your €$10,000. Militech storms the factory and you fight alongside Maelstrom. **Anthony Gilchrist** waits at the end. A **Nomad** V can earn a **Militech gear crate** here.
-- **Path 4, fight Maelstrom:** any hostility (drawing a weapon, touching the cameras or turrets, not sitting, paying with the infected chip without a warning, or taking down or killing Royce in the meeting). You fight the gang and **Royce** in his exosuit. If you met Meredith, she waits at the gate: that is the road to **Venus in Furs**.
+- **Path 4, fight Maelstrom:** any hostility (drawing a weapon, touching the cameras or turrets, not sitting, paying with the infected chip without a warning, or taking down or killing Royce in the meeting). You fight the gang and **Royce** in his exosuit. If you met Meredith, she waits at the gate (unless you take Royce down with the Body option): that is the road to **Venus in Furs**.
 
 **By goal:**
 
 - **Chaos (Royce's iconic pistol):** Royce must die. Path 4, or path 3 letting Royce fight Militech alone.
-- **Maelstrom Weapon Vendor and Doom Doom:** path 2 only (Dum Dum can also survive path 3, see "Brick and Act 2").
+- **Maelstrom Weapon Vendor:** path 2 only.
+- **Doom Doom (Dum Dum's iconic revolver, in Second Conflict):** Royce must stay alive. Path 2 (guaranteed) or path 3 if Royce survives the Militech assault. It clashes with Chaos: you can't have both.
 - **Venus in Furs (Meredith):** take the chip and turn Maelstrom hostile after meeting Dum Dum in person, **without** using the Body takedown on Royce.
 - **Brick:** paths 3 and 4 only, and he only pays off if Royce dies (see "Brick and Act 2").
 - **Militech crate (Nomad only):** read Gilchrist's message inside the factory and bring it up in the conversation at the gate.
@@ -152,7 +153,7 @@ If you start fighting before the elevator, the objectives switch to **defeat Mae
 3. **Careful:** **using the detonator to set it off kills Brick** and pays **€$5,000** (his NCPD bounty).
 4. If you free him, tell him **"You owe us"**.
 
-**Consequences in Second Conflict (Act 2):**
+**Consequences in Second Conflict (Kerry's chain, Act 2):**
 
 - **Royce alive:** Dum Dum greets you at the Totentanz; you meet Royce and steal the data.
 - **Royce dead and Brick freed:** Patricia leads you to Brick, who lets you leave peacefully with Bes Isis.

@@ -19,7 +19,7 @@ pills:
 
 ## Arrival: apartment 303
 
-At **Redwood Market** you can run into **Gillean Jordan** of N54 News recording a piece on the parade attack (optional).
+Before you leave **Redwood Market**, where the parade ended, you can run into **Gillean Jordan** of N54 News recording a piece on the attack (optional).
 
 Go to the Vine Street safe house and head up to **apartment 303** on the third floor. **Knock exactly four times.** The door is rigged with explosives: knock **once or three times and it blows up, killing V**.
 

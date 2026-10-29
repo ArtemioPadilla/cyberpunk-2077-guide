@@ -68,11 +68,11 @@ His computer has a message hinting the gang had a run-in with Viktor, the ripper
 5. **Carry her to the terrace.**
 6. **Wait for Trauma Team by the terrace door.** **If you stand too close, the AV won't land:** step back to the door.
 7. **Place Sandra on the stretcher** and wait for Trauma Team to take her.
-8. **Talk to Jackie**, **take the other elevator** and **call Wakako** to confirm the job.
+8. **Talk to Jackie**, **take the other elevator** and **call Wakako** to confirm the job. The elevator ride down advances the clock to 10 PM.
 
 ## The ride back: the Scavenger van
 
-1. **Get into the passenger seat** and **ride back with Jackie.** The elevator ride advances the clock to 10 PM.
+1. **Get into the passenger seat** and **ride back with Jackie.**
 2. **Defeat the Scavengers** in the van that attacks you. There are **four**: two shoot from the **rear doors**, one later opens the **side door**, and the fourth is the **driver**. **Shoot the driver** to end it fast. Even if you don't kill them all, the van eventually crashes and they die anyway.
 3. Jackie talks your way through an NCPD checkpoint at the Watson border and, shortly after, you watch a **MaxTac** team wipe out some gangoons.
 4. **Exit the car** when Jackie drops you off at Megabuilding H10.

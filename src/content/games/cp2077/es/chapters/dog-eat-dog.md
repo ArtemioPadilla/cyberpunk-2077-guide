@@ -67,12 +67,12 @@ Songbird te guía a la entrada del **viejo estacionamiento** bajo el **EBM Petro
 
 Antes de bajar en el ascensor del estacionamiento puedes **escanear un mapa** del Stadium Parking: marca tres sectores (**3A, 3B y 6B**) y lleva el dibujo de un insecto. Cada sector esconde un alijo de mercancía de contrabando, y hay un cuarto en el sector 1A. **No hay forma de volver a esta zona** al salir, así que recógelos todos ahora:
 
-- **Sector 1A:** un Villefort Alvarado abandonado guarda una **Perk Shard** en el maletero. Está nada más bajar en el ascensor (probablemente el sector «3A» del mapa).
+- **Sector 1A:** un Villefort Alvarado abandonado guarda una **Perk Shard** en el maletero. El mapa no marca este sector; según la wiki, seguramente debía ser el «3A».
 - **Sector 3A:** junto a un Villefort Columbus azul destrozado hay un botiquín improvisado y equipo menor.
 - **Sector 3B:** dentro de un Villefort Columbus destrozado, con señales de un tiroteo, hay un **casco BARGHEST** único y un fragmento con una conversación archivada (Foz Dawkins y Dylan Rea).
 - **Sector 6B:** dentro de un Villefort Columbus **cerrado con llave** hay una **Cyberware Capacity Shard**. Su calidad depende de tu nivel: es de **nivel IV a partir del nivel 25**.
 
-La Cyberware Capacity Shard es la que más importa: sube la capacidad de ciberequipo de forma permanente y es una de las pocas que añade Phantom Liberty.
+La Cyberware Capacity Shard es la que más importa: sube la capacidad de ciberequipo de forma permanente.
 
 ## Mercado negro, obra y conducto
 

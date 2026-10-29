@@ -105,7 +105,7 @@ Mueren **Rogue**, **Weyland** (según el desarrollo), muchos empleados de Arasak
 - **Mama Welles** (con Heroes): se divierte con tu nueva fama.
 - **Judy:** si es tu pareja, te deja y se va de Night City; si hiciste su cadena sin romance, te da las gracias.
 - **Panam:** si es tu pareja, novedades de las Badlands y la promesa de un largo paseo; si hiciste su cadena sin romance, te da las gracias.
-- **Saul y Mitch** (con la cadena de Panam): Saul sigue vivo y dice que eres Aldecaldo; Mitch te invita al campamento.
+- **Saul y Mitch:** con la cadena de Panam, Saul sigue vivo y dice que eres Aldecaldo, y Mitch te invita al campamento; sin ella, Saul te agradece que salvaras a un Aldecaldo y Mitch, que le salvaras el pellejo.
 - **Kerry y River** (si son tu pareja): Kerry quiere pasar más tiempo contigo; River te invita al cumpleaños de Randy.
 - **Takemura** (si lo salvaste): «púdrete en el infierno».
 - **Reed** (Phantom Liberty): te reprocha rechazar la cura (King of Swords o Pentacles) o te llama desde Dayton (King of Cups).

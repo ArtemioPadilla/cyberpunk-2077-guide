@@ -19,13 +19,13 @@ pills:
 
 > **Orden:** Who Wants to Live Forever: esperar un día la llamada de Reed → aceptar → azotea de Misty's Esoterica → sentarte → hablar con Johnny → escribir a tus amigos (opcional) → esperar a la FIA → subir al AV → Things Done Changed: despertar en el Edward Kernaghan Military Medical Center → hablar con Reed → llamar a tus amigos → salir de la clínica → cab de Delamain → clínica de Viktor → los matones del callejón → Misty.
 
-> **Prepárate:** **guarda a mano antes de aceptar.** Este final funciona como **un segundo punto sin retorno**: al aceptar la oferta, la historia de V termina. Termina antes todo lo que quieras hacer (encargos, misiones de Dogtown, romances, historia principal). Las fuentes no dicen de forma explícita a qué partida te devuelve el juego tras los créditos de The Tower, así que **no dependas de eso**: ten tu propia partida de respaldo.
+> **Prepárate:** **guarda a mano antes de aceptar.** Este final funciona como **un segundo punto sin retorno**: al aceptar la oferta, la historia de V termina. Termina antes todo lo que quieras hacer (encargos, misiones de Dogtown, romances, historia principal). Según la wiki, al terminar Things Done Changed el juego te devuelve al estado de «punto sin retorno», como en los finales del juego base, pero no detalla a qué momento exacto: **no dependas de eso** y ten tu propia partida de respaldo.
 
 ## Cómo se abre
 
 - **Por Who Wants to Live Forever:** más o menos **un día** después de Through Pain to Heaven (King of Swords) o de Four Score and Seven (King of Pentacles), Reed te **llama o te escribe**.
 - **Desde Nocturne Op55N1:** si llegas al final del juego base sin haber aceptado, en la azotea aparece la opción de **llamar a Reed** junto a las demás.
-- **Rechazar** la oferta de Reed termina esta misión y vuelves a la historia principal. En King of Swords, la wiki dice que la cura se te ofrece **digas lo que digas** después de entregar a Songbird; game8 avisa de que la línea «Don't want nothin' in return» de The Killing Moon la cerraría. Por eso las páginas anteriores recomiendan pedir ayuda a cambio.
+- **Rechazar** la oferta de Reed termina esta misión y vuelves a la historia principal. En King of Swords, la wiki dice que la cura se te ofrece **digas lo que digas** después de entregar a Songbird; game8 avisa de que la línea «Don't want nothin' in return» de The Killing Moon la cerraría. En King of Pentacles, game8 aconseja elegir «What now? What about the help I was promised» al hablar con Reed en Leave in Silence. Por eso las páginas anteriores recomiendan pedir ayuda a cambio.
 
 ## Who Wants to Live Forever
 

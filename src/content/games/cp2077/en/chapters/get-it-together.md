@@ -8,7 +8,7 @@ pills:
   - { type: info, label: 'Needs at least 3 Mr. Hands gigs' }
   - { type: info, label: 'Heavy Hearts terminal code: 2589' }
   - { type: collectible, label: "Her Majesty (Alex's iconic pistol)" }
-  - { type: shop, label: 'Mr. Hands: Tier 3 gigs open' }
+  - { type: info, label: 'Mr. Hands: Tier 3 gigs open' }
 ---
 
 **Get It Together** is the bridge job into the Black Sapphire. Getting into Kurt Hansen's hotel takes its plans, and the man who has them is Dogtown's fixer, **Mr. Hands**. First you have to earn his trust by doing gigs; then he receives you at his club, **Heavy Hearts**, tells you about his plan against Hansen and how Dogtown came to be, and hands over the plans. The job ends in Alex's hideout under **The Moth**, where Reed and Alex explain how you're getting in.

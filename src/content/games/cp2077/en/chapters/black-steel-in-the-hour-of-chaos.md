@@ -36,7 +36,7 @@ Once you have the data, **send Reed a message** with the details and **wait for 
 
 ## The abandoned hotel
 
-1. **Meet Reed at the abandoned hotel** (West Wind Estate), overlooking a skybridge. You can talk to Johnny (optional).
+1. **Meet Reed at the abandoned hotel** in Pacifica, overlooking a skybridge. You can talk to Johnny (optional).
 2. Talk to Reed and the **6th Street** crew. Their leader, **Will Gunner**, recognizes you if you did **Stadium Love**: if you solved it **without violence**, he compliments your gun handling; if it was violent, he has less kind things to say.
 3. **Review the plan (optional):** a 6th Street soldier goes over the ambush. Take the shard and choose:
    - **Turrets or mines** for the kill zone.

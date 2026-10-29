@@ -62,8 +62,8 @@ En **Batty's Hotel**, **habla con Placide** y luego con **Brigitte**. Según tu 
 ## Decisiones
 
 - **Trato con Mosley (tomar el fragmento)** → el fragmento **te quita el malware de Placide**, pero instala un **rastreador de NetWatch**. En **Transmission**, cuando contacten a Alt, ella cree que los Voodoo Boys son de NetWatch y **mata a Brigitte y a todos los conectados**; tendrás que **pelear contra Placide** para salir de la iglesia. Si además **perdonaste a Sasquatch**, los Animals te dejan salir del GIM en paz; si **la mataste**, te guardan rencor y serán hostiles.
-- **Dejar inconsciente a Mosley (quedarte con los Voodoo Boys)** → el virus de Placide **arrasa muchas instalaciones de NetWatch** y casi te mata a ti también (el Relic te salva). En Transmission, los netrunners de Brigitte cruzan el Blackwall con ayuda de Alt y después **eliges si te vas en paz o ajustas cuentas**. game8 dice que esta opción da "menos recompensas" pero te deja golpear a Placide (no confirmado).
-- **Si Mosley muere** (sea cual sea el caso) → los Animals que quedan **pelean contigo a la salida**.
+- **Dejar inconsciente a Mosley (quedarte con los Voodoo Boys)** → el virus de Placide **arrasa muchas instalaciones de NetWatch**, **mata a Mosley** y casi te mata a ti también (el Relic te salva). En Transmission, los netrunners de Brigitte cruzan el Blackwall con ayuda de Alt y después **eliges si te vas en paz o ajustas cuentas**. game8 dice que esta opción da "menos recompensas" pero te deja golpear a Placide (no confirmado).
+- **Mosley muerto (rama de los Voodoo Boys)** → los Animals que quedan **pelean contigo a la salida**, hayas perdonado o no a Sasquatch.
 - **Sasquatch viva o muerta** → solo cambia cómo te despiden los Animals (ver arriba). Si la derrotas, podrás mencionarla en la misión secundaria **No Easy Way Out** para intimidar a Angie.
 
 ## Jefe — Sasquatch

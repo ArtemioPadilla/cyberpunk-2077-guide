@@ -21,7 +21,13 @@ pills:
 
 > **Orden:** salir del baño → ir a la oficina de Jenkins (opcional: hablar con tu viejo conocido) → sentarte y ver la votación → hablar con Jenkins y tomar el fragmento de datos y el dinero → ir al garaje de AV y hablar con Jackie (opcional: leer el informe en tu terminal) → volar en el AV de Jenkins a Lizzie's → ocuparte de los locales → hablar con el portero → sentarte con Jackie → hablar con los agentes y entregar el fragmento → hablar con Jackie.
 
-> **Prepárate (creación de V):** la **dificultad** (Fácil, Normal, Difícil, Muy difícil) se puede cambiar cuando quieras; desde la 2.1 está en la pestaña de Accesibilidad. Cada atributo empieza en 3 y repartes **7 puntos libres** (máximo 6 por atributo al crear; luego llegan hasta 20). Cada nivel da +1 punto de atributo y +1 de perk. **Los puntos de atributo son permanentes**, pero los perks se pueden devolver uno a uno gratis. Los romances dependen del cuerpo y la voz: **Judy** pide cuerpo y voz femeninos, **River** cuerpo femenino, **Panam** cuerpo masculino y **Kerry** cuerpo y voz masculinos (el origen no influye). El origen solo cambia el prólogo y algunos diálogos; **ninguno es mejor en lo mecánico**. Si tienes Phantom Liberty, la creación ofrece **empezar directamente en Phantom Liberty**: eso completa solo el prólogo y todas las misiones principales hasta Transmission, así que te saltas todo el Acto 1 y sus decisiones.
+> **Prepárate (creación de V):**
+>
+> - **Dificultad** (Fácil, Normal, Difícil, Muy difícil): se cambia cuando quieras; desde la 2.1 está en la pestaña de Accesibilidad.
+> - **Atributos:** cada uno empieza en 3 y repartes **7 puntos libres** (máximo 6 por atributo al crear; luego llegan hasta 20). Cada nivel da +1 punto de atributo y +1 de perk. **Los puntos de atributo son permanentes**; los perks se devuelven uno a uno gratis.
+> - **Romances** (dependen del cuerpo y la voz, no del origen): **Judy** pide cuerpo y voz femeninos, **River** cuerpo femenino, **Panam** cuerpo masculino y **Kerry** cuerpo y voz masculinos.
+> - **Origen:** solo cambia el prólogo y algunos diálogos; **ninguno es mejor en lo mecánico**.
+> - **Phantom Liberty:** la creación ofrece **empezar directamente en Phantom Liberty**. Eso completa solo el prólogo y todas las misiones principales hasta Transmission: te saltas todo el Acto 1 y sus decisiones.
 
 ## Arasaka Tower
 

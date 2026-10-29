@@ -43,7 +43,7 @@ pills:
 4. **Escanea a Viktor.** Es tu primer uso del **escáner**, enlazado con la base de datos de la NCPD.
 5. **Habla con Viktor** y vuelve a Misty's Esoterica. Allí sigue **The Ride**.
 
-**El ciberequipo que recibes.** La wiki lista tres piezas: **Basic Kiroshi Optics** (ojos), **Ballistic Coprocessor** (manos) y **Subdermal Armor**; las páginas de Subdermal Armor y de Ballistic Coprocessor dicen que se obtienen aquí. Las fuentes no coinciden: PowerPyx solo nombra los ópticos Kiroshi y el Ballistic Coprocessor, e IGN te hace elegir el sistema ocular y las manos. La Subdermal Armor probablemente llegó con la 2.0; revisa tu pantalla de ciberequipo al terminar para ver qué te instaló la 2.5.
+**El ciberequipo que recibes.** La wiki lista tres piezas: **Basic Kiroshi Optics** (ojos), **Ballistic Coprocessor** (manos) y **Subdermal Armor**; las páginas de Subdermal Armor y de Ballistic Coprocessor dicen que se obtienen aquí, y Paid in Full nombra las mismas tres piezas como la deuda de €$21,000. Las fuentes no coinciden: PowerPyx solo nombra los ópticos Kiroshi y el Ballistic Coprocessor, e IGN te hace elegir el sistema ocular y las manos. La Subdermal Armor probablemente llegó con la 2.0; revisa tu pantalla de ciberequipo al terminar para ver qué te instaló la 2.5.
 
 **Un error conocido.** game8 informa que a veces te quedas atascado en «Habla con Viktor» con solo la opción «How's biz?». Si te pasa, guarda y vuelve a cargar.
 

@@ -24,7 +24,7 @@ After The Killing Moon, **Alex** messages you: she wants to meet up.
 
 1. Talk to Alex and **meet her at The Moth**.
 2. **Sit at the bar** and talk to her.
-3. **The toast:** you can drink to one of the story's dead: **Solomon Reed**, **Jackie Welles**, **Johnny Silverhand**, **T-Bug**, **Evelyn Parker**, **Scorpion** or **Goro Takemura** (only if he died in your playthrough).
+3. **The toast:** you can drink to one of the story's dead: **Solomon Reed**, **Jackie Welles**, **Johnny Silverhand**, **T-Bug**, **Evelyn Parker**, **Scorpion** or **Goro Takemura** (depending on your playthrough).
    - If you don't toast Reed, you'll get the chance when Alex toasts him.
    - If you toast **Jackie**, Johnny gets jealous.
    - If you toast **Johnny**, he's grateful and toasts you back.

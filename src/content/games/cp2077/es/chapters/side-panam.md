@@ -39,7 +39,7 @@ En el **campamento Aldecaldo**, Panam te cuenta que los **Wraiths** se llevaron 
 
 **Romance (cuerpo masculino).** En la discusión de Panam con Saul sobre venderse, **ponte del lado de Panam**. Esa noche, en el sofá, **tócale el muslo**: te rechaza por ahora. A la mañana siguiente (o al preguntarle por la noche anterior), V masculina recibe un **beso**. game8 dice que ir con ella en el coche hasta el campamento también ayuda (solo lo dice esa fuente).
 
-Por la mañana, Mitch te da **Overwatch**, su rifle de francotirador.
+Por la mañana, Panam te da **Overwatch**, el rifle de francotirador de Mitch que te había prometido.
 
 ## I'll Fly Away
 

@@ -36,7 +36,7 @@ At the **Aldecaldo camp**, Panam tells you the **Wraiths** have taken **Saul**.
 
 **Romance (masculine body).** In Panam's argument with Saul about selling out, **side with Panam**. That night, on the couch, **touch her thigh**: she turns you down for now. The next morning (or when asking about the previous evening), a masculine V gets a **kiss**. game8 says riding with her to the camp also helps (only that source says so).
 
-In the morning, Mitch gives you **Overwatch**, his sniper rifle.
+In the morning, Panam gives you **Overwatch**, Mitch's sniper rifle she promised you.
 
 ## I'll Fly Away
 

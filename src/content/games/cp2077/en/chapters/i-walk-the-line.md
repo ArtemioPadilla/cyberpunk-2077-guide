@@ -62,8 +62,8 @@ At **Batty's Hotel**, **talk to Placide**, then **Brigitte**. Depending on your 
 ## Choices
 
 - **Deal with Mosley (take the shard)** → the shard **removes Placide's malware from you**, but installs a **NetWatch tracker**. In **Transmission**, when they contact Alt, she takes the Voodoo Boys for NetWatch and **kills Brigitte and everyone connected**; you'll have to **fight Placide** to get out of the church. If you also **spared Sasquatch**, the Animals let you leave the GIM in peace; if you **killed her**, they hold a grudge and turn hostile.
-- **Knock Mosley out (stay with the Voodoo Boys)** → Placide's virus **wipes out many NetWatch facilities** and nearly kills you too (the Relic saves you). In Transmission, Brigitte's netrunners cross the Blackwall with Alt's help and afterwards **you choose to leave peacefully or settle the score**. game8 says this option gives "less rewards" but lets you punch Placide (unconfirmed).
-- **If Mosley dies** (either way) → the remaining Animals **fight you on the way out**.
+- **Knock Mosley out (stay with the Voodoo Boys)** → Placide's virus **wipes out many NetWatch facilities**, **kills Mosley** and nearly kills you too (the Relic saves you). In Transmission, Brigitte's netrunners cross the Blackwall with Alt's help and afterwards **you choose to leave peacefully or settle the score**. game8 says this option gives "less rewards" but lets you punch Placide (unconfirmed).
+- **Mosley dead (Voodoo Boys branch)** → the remaining Animals **fight you on the way out**, whether or not you spared Sasquatch.
 - **Sasquatch alive or dead** → only changes how the Animals see you off (see above). If you defeat her, you can mention her in the side job **No Easy Way Out** to intimidate Angie.
 
 ## Boss — Sasquatch

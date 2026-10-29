@@ -113,7 +113,7 @@ You start **unarmed**.
 1. **Head to the lobby**:
    - **Stealth:** **hug the left wall** to the garage elevator (PowerPyx).
    - **Loud:** four guards, then **an Arasaka mech drops in**. Use grenades and target the already damaged limbs, or **just run for the elevator**.
-2. **Take the garage elevator** and **sprint to the Delamain**; it's under fire, ignore the enemies and **get in**.
+2. **Save manually** if you're not in combat: the choice about Jackie's body comes right after the chase. **Take the garage elevator** and **sprint to the Delamain**; it's under fire, ignore the enemies and **get in**.
 3. **Get rid of the drones:** **one Octant and two Griffins**, sent along with Adam Smasher. **Take down the small ones first** (about two shots each), then the big one.
 4. **Talk to Jackie** and **escape.**
 
@@ -137,7 +137,7 @@ Jackie doesn't make it. Before dying he hands you the Relic. **Delamain** asks w
 - **"Something I gotta take care of first" or "Let's go"** → the first lets you leave before the point of no return. **Once you get in the Delamain there is no going back until Act 2.**
 - **Reception:** staying silent (T-Bug covers) or, as Corpo, bullying → same result.
 - **Visiting the bar** → dialogue only; Jackie goes up alone.
-- **The AV detour** → **Satori**; skip it and you miss it this playthrough.
+- **The AV detour** → **Satori**; skip it and your only later option is buying it from Herold Lowe (Phantom Liberty).
 - **Jackie's body — to his family or "wait for me here":** per the wiki, the body goes to **Mama Welles** and the full version of **Heroes** opens up (Act 2): the ofrenda at El Coyote Cojo, the **Key to Jackie's Stash** (it opens **Jackie's Garage** in The Glen, near El Coyote Cojo), Misty, the **Jackie's ARCH** motorcycle, the **La Chingona Dorada** pistols (looted from the ofrenda altar **24 hours after** leaving El Coyote Cojo; 2.5 changed their iconic modifier to Crit Chance) and Jackie's pin-up posters as memorabilia if you scan them. IGN agrees that "wait for me here" gives the full version. Sources don't fully agree: game8 says leaving him in the car means missing Heroes and the ARCH; the wiki and IGN outweigh it. **The safest option is "Take him home, to his family".**
 - **Jackie's body — to Viktor's clinic:** short version of **Heroes**: Mama Welles mails the ARCH key to your apartment. Arasaka takes the body and makes an engram of Jackie (Secure Your Soul), which shows up in some endings (IGN says Totalimmortal, PowerPyx The Devil ending, the wiki "several endings").
 - **Dex in room 204** → nothing changes.

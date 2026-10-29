@@ -21,7 +21,13 @@ pills:
 
 > **Order:** talk to the mechanic → fix the engine and start it → talk to the sheriff → leave the garage → climb the telecom tower and call McCoy → drive to Dry Creek's Farm and meet Jackie → open the trunk → drive to the border → deposit your weapons, go to room 2 and talk to the guard → collect your weapons and leave → fight off the pursuers → hide with Jackie and talk to him.
 
-> **Get ready (creating V):** **difficulty** (Easy, Normal, Hard, Very Hard) can be changed whenever you like; since 2.1 it lives in the Accessibility tab. Every attribute starts at 3 and you spend **7 free points** (maximum 6 per attribute at creation; later they go up to 20). Each level gives +1 Attribute point and +1 Perk point. **Attribute points are permanent**, but perks can be refunded one by one for free. Romances depend on body and voice: **Judy** needs a feminine body and voice, **River** a feminine body, **Panam** a masculine body and **Kerry** a masculine body and voice (lifepath doesn't matter). The lifepath only changes the prologue and some dialogue; **none is mechanically better**. If you own Phantom Liberty, creation offers to **skip ahead to Phantom Liberty**: that auto-completes the prologue and every main job through Transmission, so you skip all of Act 1 and its choices.
+> **Get ready (creating V):**
+>
+> - **Difficulty** (Easy, Normal, Hard, Very Hard): change it whenever you like; since 2.1 it lives in the Accessibility tab.
+> - **Attributes:** each starts at 3 and you spend **7 free points** (maximum 6 per attribute at creation; later they go up to 20). Each level gives +1 Attribute point and +1 Perk point. **Attribute points are permanent**; perks can be refunded one by one for free.
+> - **Romances** (body and voice matter, lifepath doesn't): **Judy** needs a feminine body and voice, **River** a feminine body, **Panam** a masculine body and **Kerry** a masculine body and voice.
+> - **Lifepath:** it only changes the prologue and some dialogue; **none is mechanically better**.
+> - **Phantom Liberty:** creation offers to **skip ahead to Phantom Liberty**. That auto-completes the prologue and every main job through Transmission: you skip all of Act 1 and its choices.
 
 ## Yucca garage
 

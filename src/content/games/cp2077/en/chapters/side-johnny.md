@@ -126,7 +126,7 @@ Johnny has an affinity meter that rises with Tapeworm, A Cool Metal Fire (30%), 
 - **Grave: the three right answers** → **Blistering Love** and the **secret ending** stay open; afterwards Johnny sends you to Kerry anyway. **Permanent.**
 - **Grave: anything else** → straight to **Holdin' On**; **you lose Blistering Love, The Sun with Rogue and the secret ending**. Temperance stays open only if you do Panam's chain. **Permanent.**
 - **Blistering Love: kiss Rogue or say he has little to offer** → same result; the Johnny–Rogue romance continues briefly in For Whom the Bell Tolls (The Sun route).
-- **Secret ending** → on Misty's rooftop (Nocturne Op55N1), wait about **5 minutes** (5:08) for Johnny to suggest the plan; pick "Let's hear this plan" → "[Attack Arasaka Tower] Means goin' out with a bang – I like it". In that version of The Sun, **Rogue survives**. You cannot save during that ending; sources disagree on whether there are checkpoints, so keep a rooftop save.
+- **Secret ending** → on Misty's rooftop (Nocturne Op55N1), wait about **5 minutes** (5:08) for Johnny to suggest the plan; pick "Let's hear this plan" → "[Attack Arasaka Tower] Means goin' out with a bang – I like it". Rogue **survives** whether it ends in The Sun or in Temperance. You cannot save manually during that ending: there are only three autosaves (at the start, after descending to the mainframe level and before Smasher), so keep a rooftop save too.
 
 > **Don't leave without:** the **Samurai jacket** (Rogue's trunk), the **Malorian Arms 3516** (Grayson), the **Porsche 911 Turbo (930)** (ship container, via the crane on the right side) and the **aviators** (A Cool Metal Fire). If you want the Smasher lore, scan the Kang Tao crates and the recordings before the fight.
 

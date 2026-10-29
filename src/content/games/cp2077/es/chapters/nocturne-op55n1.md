@@ -24,6 +24,8 @@ pills:
     }
 ---
 
+**Nocturne Op55N1** es la única misión del acto 3 que comparten todas las rutas. Se activa al terminar **Tapeworm** (Game8 la pide tras Transmission y Search and Destroy) y la da **Hanako Arasaka**, que te cita en **Embers**, en The Glen (Heywood). Después pasas por la clínica de Viktor y acabas en la azotea encima de **Misty's Esoterica**, donde decides con quién entrar en Mikoshi. La misión en sí no da recompensa: lo que importa es la decisión del final.
+
 > **Antes de Embers:** al acercarte a la entrada principal de **Embers** el juego avisa de que es el **punto de no retorno**: a partir de ahí ya no hay mundo abierto hasta los créditos. Repasa esta lista y haz un **guardado manual** antes de cruzar la puerta. Al terminar cualquier final vuelves a ese momento, así que nada de lo que dejes pendiente se pierde para siempre, pero lo que decide **qué finales tienes** se cierra aquí.
 >
 > **Finales que se desbloquean (o no) antes de este punto:**
@@ -34,7 +36,7 @@ pills:
 > - **The Sun (Rogue):** termina **Blistering Love**. Solo aparece si en la tumba de Johnny, al final de Chippin' In, elegiste las respuestas correctas (las del final secreto, abajo, o «A hard road, but looks like we made it.» → «Johnny, no need to bare your soul to me.», esta última solo según la wiki). Con otras respuestas Johnny te manda con Kerry (Holdin' On) y la ruta de Rogue queda cerrada.
 > - **Final secreto ((Don't Fear) The Reaper):** en la tumba de Chippin' In responde «Nah, fucked that up too.» → «What do you want from me?» → «OK. But as second chances go, this is your last.». **No depende de la afinidad con Johnny** (lo del 70 % es un mito). Las fuentes no se ponen de acuerdo sobre si además hace falta Blistering Love: hazla igualmente, que esas mismas respuestas la desbloquean.
 > - **Temperance:** necesita tener abierta la ruta de Panam, la de Rogue o la secreta; se decide dentro de Mikoshi.
-> - **The Tower (Phantom Liberty):** termina Phantom Liberty **entregando a Songbird** al NUSA (King of Swords o King of Pentacles). Game8 aconseja además confirmar con Reed que los cirujanos están listos antes de venir aquí. Detalles en [PL 17 · Who Wants to Live Forever](../who-wants-to-live-forever/).
+> - **The Tower (Phantom Liberty):** termina Phantom Liberty **entregando a Songbird** al NUSA (King of Swords o King of Pentacles) y **acepta después la oferta de Reed** (la cura). Game8 aconseja además confirmar con Reed que los cirujanos están listos antes de venir aquí. Detalles en [PL 17 · Who Wants to Live Forever](../who-wants-to-live-forever/).
 >
 > **Lo que cambia los epílogos y las llamadas de los créditos:**
 >
@@ -50,8 +52,6 @@ pills:
 > - Ninguna fuente lista misiones secundarias o gigs que fallen por cruzar este punto; aun así, las de Phantom Liberty con plazo conviene cerrarlas antes.
 >
 > **Guardados:** en Switch 2, la 2.5 arregló el error «Save failed - insufficient space» y agrupa los guardados por partida. Deja un guardado manual **antes de Embers** y no lo sobrescribas: es el que te deja jugar los demás finales.
-
-**Nocturne Op55N1** es la única misión del acto 3 que comparten todas las rutas. Se activa al terminar **Tapeworm** (Game8 la pide tras Transmission y Search and Destroy) y la da **Hanako Arasaka**, que te cita en **Embers**, en The Glen (Heywood). Después pasas por la clínica de Viktor y acabas en la azotea encima de **Misty's Esoterica**, donde decides con quién entrar en Mikoshi. La misión en sí no da recompensa: lo que importa es la decisión del final.
 
 > **Orden:** Embers → seguridad y ascensor al piso 13 → hablar con Hanako → salir del restaurante → Johnny en el ascensor (fallo del Relic) → clínica de Viktor → pastillas y pistola Unity → Misty → ascensor al 9.º piso y escaleras a la azotea → **guardar** → sentarte junto a Misty → Johnny → llamada de despedida (opcional) → **decidir qué viene después**.
 
@@ -96,6 +96,6 @@ Cada opción de la azotea lleva a una página de esta guía. Todas son **definit
 
 ## Después de los créditos
 
-Al acabar cualquier final, el juego te ofrece volver antes del punto de no retorno («Sure, Just One More Gig»): regresas al **último guardado antes de Nocturne Op55N1**, en mundo abierto, con las misiones anteriores tal como estaban. **No hay Nueva partida+.** Las recompensas del final (Gorilla Arms y Militech Berserk legendarios, las cartas del tarot, algunos fragmentos, los icónicos de la ruta y el Access Token si lo tomaste) se añaden a ese guardado. La ropa que consigas durante los epílogos no vuelve contigo.
+Al acabar cualquier final, el juego te ofrece volver antes del punto de no retorno («One More Gig»): regresas al **último guardado antes de Nocturne Op55N1**, en mundo abierto, con las misiones anteriores tal como estaban. **No hay Nueva partida+.** Las recompensas del final (Gorilla Arms y Militech Berserk legendarios, las cartas del tarot, algunos fragmentos, los icónicos de la ruta y el Access Token si lo tomaste) se añaden a ese guardado. La ropa que consigas durante los epílogos no vuelve contigo.
 
 > **No te vayas sin:** las últimas pastillas y la pistola **Unity** de la mesa de Viktor, y un **guardado manual en la azotea antes de sentarte junto a Misty** (más el de antes de Embers). Con esos dos guardados puedes jugar todos los finales que tengas abiertos sin repetir nada.

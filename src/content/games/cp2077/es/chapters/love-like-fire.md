@@ -51,7 +51,7 @@ pills:
 3. **Conéctate al punto de acceso** y **espera a que el virus suba**, guiado por Spider.
 4. **Vuelve a la azotea** y **llega al helicóptero**.
 
-Lo que sigue es escena: Adam Smasher embosca a Johnny, hay un hueco en sus recuerdos y Johnny vuelve a la azotea, donde el helicóptero ya despega. Después de que lo derriben, Johnny despierta en un interrogatorio de Arasaka (ver **Decisiones**), al que se une **Saburo Arasaka**.
+Lo que sigue es escena: Adam Smasher embosca a Johnny, hay un hueco en sus recuerdos y Johnny vuelve a la azotea cuando el helicóptero ya despega. Una explosión lo deja atrás, Smasher le dispara y Johnny despierta en un interrogatorio de Arasaka (ver **Decisiones**), al que se une **Saburo Arasaka**.
 
 ## Decisiones
 

@@ -15,7 +15,7 @@ Empieza sola en cuanto termina **Love Like Fire**. El que "da" el trabajo es **J
 
 > **Orden:** acércate al desconocido (ciberespacio) → arrástrate fuera del vertedero → usa el air hypo → derriba a los motociclistas → llama a Delamain → habla con el desconocido → diagnóstico de Viktor → pastillas de Misty → Johnny en tu apartamento → arrástrate a las pastillas y tómalas → levántate → sal del apartamento (opcionales: comer, vestirte, munición, correo) → llamada de Takemura → Tom's Diner → habla con Johnny.
 
-> **Prepárate:** no puedes prepararte: el inventario no se abre hasta la ducha. Lo que sí puedes hacer es **guardar en cuanto recuperes el control en tu apartamento**, antes de salir: a partir de ahí el Acto 2 es abierto y conviene tener un punto limpio. Si te sobra tiempo, la pelea del auto es casi toda guionizada, así que no te preocupes por tu equipo.
+> **Prepárate:** no puedes prepararte: el inventario no se abre hasta la ducha. Lo que sí puedes hacer es **guardar en cuanto recuperes el control en tu apartamento**, antes de salir: a partir de ahí el Acto 2 es abierto y conviene tener un punto limpio. La pelea del auto es casi toda guionizada, así que no te preocupes por tu equipo.
 
 ## Ciberespacio y el vertedero
 
@@ -110,8 +110,8 @@ Lo que decide finales y lo que se cierra para siempre está repartido por todo e
 - **Queen of the Highway** (cadena de Panam) desbloquea el final **The Star**. **Riders on the Storm** falla si te alejas demasiado o saltas tiempo: Saul muere y pierdes toda la cadena.
 - **Chippin' In** (tras Tapeworm) decide **The Sun** y el final secreto según tus respuestas en la tumba. Guarda antes.
 - **Love Rollercoaster** desaparece al terminar **Double Life**.
-- **I'll Fly Away** se pierde si abandonas a Panam en Life During Wartime o si no la haces justo después de Riders on the Storm.
+- **I'll Fly Away** se pierde si abandonas a Panam en Life During Wartime, y también caduca en cuanto avanzas la cadena de Panam (With a Little Help from My Friends): hazla justo después de Riders on the Storm.
 - **Ex-Factor, Pisces, The Hunt, Rebel! Rebel!** y **Epistrophy** tienen decisiones que cortan su cadena.
 - El **punto de no retorno** llega en **Nocturne Op55N1**, al acercarte a la entrada de Embers. Todo lo anterior debe estar hecho antes (o se recupera con la partida previa que te ofrece el juego tras los créditos).
 
-> **No te vayas sin:** volver cuando quieras al **Municipal Landfill** por **Plan B**, la Liberty icónica de Dex: está en su cadáver en cualquier momento después del Acto 1. Gasta **€$1 por disparo** en lugar de balas, lleva 20 balas por cargador y tiene más probabilidad de Bleeding. Si se te pasa, en Phantom Liberty te la vende **Herold Lowe**. Recoge también la caja Nomad si te toca y cobra a Wakako.
+> **No te vayas sin:** volver cuando quieras al **Municipal Landfill** por **Plan B**, la Liberty icónica de Dex: está en su cadáver en cualquier momento después del Acto 1. Gasta **€$1 por disparo** en lugar de balas, lleva 20 balas por cargador y tiene un 10 % de probabilidad de Bleeding. Si se te pasa, en Phantom Liberty te la vende **Herold Lowe**. Recoge también la caja Nomad si te toca y cobra a Wakako.

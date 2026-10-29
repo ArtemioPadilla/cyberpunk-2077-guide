@@ -7,7 +7,7 @@ summary: "On Misty's rooftop V throws away the pills and decides to end it all; 
 pills:
   - { type: info, label: 'Always available on the rooftop' }
   - { type: save, label: 'Save before sitting next to Misty' }
-  - { type: missable, label: 'No rewards and no achievement' }
+  - { type: info, label: 'No rewards and no achievement' }
 ---
 
 The **suicide ending**, which the wiki and Game8 call **Path of Least Resistance** ("the easy way out"). It is not a job: it is a dialogue option on the [Nocturne Op55N1](../nocturne-op55n1/) rooftop, **always available**, that ends the playthrough within minutes. V refuses to ask anyone for help so as not to drag more people to their deaths, throws away the pills and shoots themselves. It is here so you know which option to avoid if you don't want it, and what to expect if you choose it on purpose.
