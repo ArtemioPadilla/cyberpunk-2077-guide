@@ -796,3 +796,43 @@ Sources: [W:Firestarter] [G8:Firestarter] [G8:PL-Endings] [PP:dlc-walkthrough].
 5. Pull the Relic perk effects (wiki pages per perk).
 6. Find what sparing or killing Smasher actually does.
 7. Confirm what point the game returns you to after the Tower credits.
+
+## 5. Additions while drafting the Act 3 pages (2026-10-29, wiki API)
+
+- Prejudice: "Found at the Afterlife when gearing up" in For Whom the Bell Tolls; granted again on return to the PONR save after an ending [W:Prejudice] https://cyberpunk.fandom.com/api.php?action=parse&page=Prejudice&prop=wikitext&format=json
+- Pride: collected after the Adam Smasher fight in Knockin' on Heaven's Door (the Endings page: "near the entrance gate"); carried over to the PONR save [W:Pride] https://cyberpunk.fandom.com/api.php?action=parse&page=Pride&prop=wikitext&format=json
+- Caretaker's Spade: leaning against rocks in the central area of the Arasaka Tower jungle floor, near the conference table; granted again on return to PONR [W:Caretaker's_Spade] https://cyberpunk.fandom.com/api.php?action=parse&page=Caretaker%27s_Spade&prop=wikitext&format=json
+- Genjiroh at the Arasaka Estate: "on a desk" [W:Genjiroh] https://cyberpunk.fandom.com/api.php?action=parse&page=Genjiroh&prop=wikitext&format=json
+- Amnesty: hit at least 12 of the 16 bottles in 15 seconds in Cassidy's minigame [W:Amnesty] https://cyberpunk.fandom.com/api.php?action=parse&page=Amnesty&prop=wikitext&format=json
+- Access Token: also granted on return to PONR after Things Done Changed [W:Access_Token] https://cyberpunk.fandom.com/api.php?action=parse&page=Access_Token&prop=wikitext&format=json
+- Changes: Jackie's talk (body to Viktor) or picking up the necklace (Mama Welles / left in the Delamain) opens it; on the Rogue path, "Enter the well to return to V's body" (Temperance) vs "Cross the bridge" (Sun). With PL finished, extra dialogue about Cynosure / Songbird [W:Changes] https://cyberpunk.fandom.com/api.php?action=parse&page=Changes&prop=wikitext&format=json
+- Path of Glory: Rogue sits by V at the Afterlife bar only after the Reaper path; V's computer has messages about the job [W:Path_of_Glory]
+- New Dawn Fades: guitar €$5000 at Time Machine, two columbarium niches €$4000; the Pride/Rogue niche is conditional on coming from Knockin' on Heaven's Door; bug noted on PC 2.31 where Steve keeps driving in circles (skip the ride or reload) [W:New_Dawn_Fades] https://cyberpunk.fandom.com/api.php?action=parse&page=New_Dawn_Fades&prop=wikitext&format=json
+- Reaper: Rogue is alive "in both" outcomes (Sun and Temperance) [W:(Don't_Fear)_The_Reaper]
+- Endings credits table, per character (Viktor 6 variants, Mama Welles 4, Judy 7, Panam 7, Saul 2, Mitch 4, Rogue 4, Kerry 6, River 7, Takemura 2, Hanako 1, Peralez 2, Misty 5 with tarot draws per ending, Reed 4) [W:Cyberpunk_2077_Endings] https://cyberpunk.fandom.com/api.php?action=parse&page=Cyberpunk_2077_Endings&prop=wikitext&format=json
+  - Misty's draws: Devil = Fool, Moon, High Priestess; Sun = Strength, Emperor, World; Star = Chariot, Lovers, Sun; Temperance = Hanged Man, Magician, Star; death = crying.
+  - Romance rule: Panam and Judy always leave Night City; River and Kerry always stay. Continue with Panam/Judy via the Star; with River/Kerry via the Sun or by going back to Earth in the Devil.
+- Spanish wiki (cyberpunk.fandom.com/es) has no pages for the Act 3 quests (query for each English title returned missing; search empty), so no Latin-American quest names were verified.
+
+---
+
+## 5. Additions from the PL job writer (wiki API, 2026-10-29)
+
+Read through `https://cyberpunk.fandom.com/api.php?action=parse&page=<PAGE>&prop=wikitext&format=json&redirects=1`.
+
+- **NUSA suit** (Hole in the Sky): looted from a suitcase in Space Force One [W:NUSA_suit].
+- **Hawk** (Lucretia My Reflection): left behind by Myers after she departs the Kress Street Hideout [W:Hawk].
+- **Kress Street Hideout**: Rindo Hotel, floor 08, Elizabeth Kress St.; after Lucretia My Reflection it is a V apartment with bed, bathroom, wardrobe and stash [W:Kress_Street_Hideout].
+- **Active Chimera Core**: ingredient for one of Firecracker, Wallpuncher, Hackatomy or Severance; crafting leaves an Inactive Chimera Core; can be displayed in V's apartment (H10) [W:Active_Chimera_Core].
+- **Gris-Gris** (The Damned, dependent): in the locked room of Slider's Hideout, needs Slider's hideout storage room key from Gig: Treating Symptoms [W:Gris-Gris].
+- **Her Majesty**: small weapon case on the table next to the diving gear, end of Get It Together [W:Her_Majesty].
+- **Rasetsu** (You Know My Name): obtained automatically after the Black Sapphire sniper gauntlet; it starts on a pintle mount [W:Tsunami_Rasetsu].
+- **Nokota NDI Osprey** (Birds with Broken Wings): an iconic Power sniper rifle (explosive rounds), in a weapon case in the armory of Alex's safehouse; if missed, re-enter later via the back entrance (camera scan opens it); Herold Lowe at EBM Petrochem Stadium sells it if not looted [W:Nokota_NDI_Osprey].
+- **Voodoo Treasure**: Blind_n_Dead gives code **941229**; keypad machine by The Needle (George Washington St.); duffel bag with the **Rook** handgun, a text log and €$8,000; entering the code beforehand skips the quest [W:Voodoo_Treasure].
+- **Murphy's Law**: Herold Lowe (EBM Petrochem Stadium) sells it if not looted from Murphy (Songbird path only) [W:Murphy's_Law].
+- **Pariah**: dropped by Reed in The Killing Moon [W:Pariah].
+- **Crowbar (iconic)**: before the jump into Cynosure there are two locked doors with a 20 Body check (only one needs opening); the crowbar is in a box inside [W:Crowbar_(iconic)].
+- **Dirty Second Hands**: only appears if V did not pick up their gear during Firestarter; Mr. Hands returns it for **€$20,000**, delivered to the Kress Street Hideout locker [W:Dirty_Second_Hands]. (Section 3.4 lists it under the Reed path only; the wiki page states the gear condition, no path.)
+- **Kurt Hansen, Reed path**: if Hansen is spared, Mr. Hands later reports he was assassinated in hospital; if V slips out of the stadium unnoticed (skipping the fight), Mr. Hands reports he "caught the proverbial stray bullet" [W:Kurt_Hansen].
+- **Somewhat Damaged extras**: Site Map shards (next to the first Songbird/Hansen memory, by the computers before the first floor exit, on a bed in Living Quarters, first room of Security); an office computer at the bottom of the elevator shows three AI messages if you keep looking at the screen; Johnny comments on Bree's videos if Shot by Both Sides is done [W:Somewhat_Damaged].
+- **Spanish wiki** (`cyberpunk.fandom.com/es`): has no pages for the PL main jobs, so no Latin-American quest names could be verified; the guide keeps the English names.
