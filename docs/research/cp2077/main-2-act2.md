@@ -958,3 +958,56 @@ Notes on the secret ending:
 9. The Timeworn Trench Coat drop.
 10. Exact 2.x attribute thresholds. IGN's numbers look like 1.x.
 11. The Switch 2 release date of 2.5 (Oct 26 vs Oct 27).
+
+---
+
+## 15. Additions for the side-chain pages (read 2026-10-29 through the Fandom API)
+
+Source form: `https://cyberpunk.fandom.com/api.php?action=parse&page=<Page>&prop=wikitext&format=json&redirects=1`.
+
+- **Human Nature** `[F:Human_Nature]`: reading the H10 Administration message is an optional objective of Playing for Time. If you fetch the car before finishing Playing for Time, Johnny is more hostile. Next job: Tune Up.
+- **Tune Up** `[F:Tune_Up]`: Delamain HQ is on Pajaro street, Vista del Rey (Heywood). Cutting the queue: a client calls V out; a Body-gated reply appears only with enough Body. Delamain pays €$4,900, then Epistrophy starts.
+- **Epistrophy** `[F:Epistrophy]` and its seven sub-pages `[F:Epistrophy:_<District>]`:
+  - Follow the Bombus drone through the factory, take Delamain's Scanner, leave the garage. Damaging a cab triggers a warning text; destroying one fails Epistrophy and the rest of the chain.
+  - Wellsprings: the cab that wrecked V's car ("Beep-beep, motherfucker!") turns hostile; **damage it until it surrenders** (deactivate, not destroy). €$1,640.
+  - North Oak: roundabout near the North Oak Sign. The anxious cab lets V drive it back to HQ; **Auto Drive is disabled**, drive slowly; too much damage fails this and Epistrophy. €$1,640.
+  - Coastview: patrols near the Grand Imperial Mall / Pacifica Serenity Bible Church; stay within signal range; a Maelstrom ambush at the underpass near the Dogtown border. €$1,640.
+  - Rancho Coronado: "Clarice" asks V to destroy 8 flamingos in the neighbourhood; stay within signal range.
+  - Northside: corrupted location on Eisenhower street; the cab hides in a small storage facility near Eisenhower / Longshore North and flees; follow it until it crashes into a shack.
+  - The Glen: intersection of Hanford and McBride; the cab tries to drive off the viewpoint; talk it down. Pushing it off the edge with your own car also counts as a success.
+  - Badlands: Municipal Landfill, Red Peaks. Get in the cab, listen, get out.
+  - After all seven: return to HQ, put the scanner in the box, receive €$4,900.
+- **Don't Lose Your Mind** `[F:Don't_Lose_Your_Mind]`: the radio can mention the Corpo Plaza traffic jam (three cabs blocking a Kaukaz truck). In the control room each divergent cab pleads to be freed and the original asks for a reset. Reset: Delamain loses his memory and gives V a cab from the fleet. Hack (Intelligence 20): a single entity leaves NC and leaves "Junior". Destroy: the cabs flee and "Excelsior" stays behind in the hangar. A Cerberus-chip AI (Militech Canto / Erebus) comments if installed.
+- **Heroes** `[F:Heroes]`: giver Mama Welles (Guadalupe Alejandra Welles) by call after V recovers. Jackie's garage is in the alley behind El Coyote Cojo. The blue door needs the Key to Jackie's Room (on the desk). Several gig characters attend (Gustavo Orta and Martha Young, the Fuscinos, Ernesto Muñoz). Optional talks: bartender Pepe Najarro, Viktor, the Valentinos, Padre. Reward 300 XP, 446 Street Cred, Jackie's ARCH; posters for V's apartment by scanning the pin-ups.
+- **Second Conflict** `[F:Second_Conflict_(quest)]`: Nancy Hartley is Bes Isis. The Totentanz club entrance is on the third floor. With Royce alive the objectives include "Steal the data". After Totentanz, drive with Nancy to N54 News, call Kerry, then Denny's mansion: the gate is locked and the intercom unanswered, so trespass. Choosing Denny: Henry leaves. Choosing Henry: Denny kicks everyone out.
+- **Holdin' On** `[F:Holdin'_On]`: Johnny heard Kerry is depressed and attempted suicide. Kerry is in the shower when V enters the villa. Nancy has been missing for two days.
+- **Both Sides, Now** `[F:Both_Sides,_Now]`: Judy's building is on Charter street, Northside. Judy calls the NCPD, who won't come.
+- **Ex-Factor** `[F:Ex-Factor]`: Clouds is in Megabuilding H8; the balcony is on the 12th floor; let Judy do the talking. If Woodman was killed in Automatic Love, Judy decides to call Maiko the next day instead. Judy recruits former dolls afterwards.
+- **Rebel! Rebel!** `[F:Rebel!_Rebel!]`: Foodscape at Manzanita / Mallagra, Rancho Coronado; outside 12:30–3:30 AM V waits on a chair. Kerry drives a borrowed Thorton Galena. After the escape, drop Kerry on Montenegro street (dialogue says Carnitas) and accept coffee at Capitán Caliente to get the €$21,470 text; declining means he "will send the payment later". Escaping then leaving: Kerry goes home alone and stays in contact.
+- **Off the Leash** `[F:Off_the_Leash_(quest)]`: the elevator bouncer lets V in as Kerry's guest. In the promo version Kerry introduces V as his "right hand" and introduces Spector Cheng (a "friends and family" discount). Feminine V's kiss attempt is politely declined.
+- **Following the River** `[F:Following_the_River]`: fetch the rice (Joss is inside), option to halt the talk about his parents, AR game with Monique and Dorian; Crash on the water tower. Not romanced: drinks and a hangover in the trailer. Joss later texts a photo from the hospital.
+- **The Hunt** `[F:The_Hunt]`: River calls, then picks V up in his truck. Randy Kutcher is River's nephew; Joss Kutcher is his sister. Anthony Harris ("Peter Pan") is comatose after the NCPD shot him, hence the braindance of his dreams.
+
+## 16. Additions checked by the Act 2 main-job writer (Fandom API, 2026-10-29)
+
+Read through `https://cyberpunk.fandom.com/api.php?action=parse&page=<Page>&prop=wikitext&format=json&redirects=1`:
+
+- `[F:Automatic Love]`: Woodman's office is reached through a restricted part of Clouds; Evelyn's jacket in the dressing room is only a scannable prop (Johnny comments). The backroom reached from the exterior walkway (or the Body door by the bathroom) holds one Tyger Claw with an access card and an elevator to the VIP backroom. Guards spot V if V lingers in front of the glass window.
+- `[F:Oswald Forrest]`: Woodman tells V he sold Evelyn to the ripperdoc Fingers (Finn Gerstatt) when he could not help her.
+- `[F:Double Life]`: if V has advanced the Transmission line first, V smokes automatically. BD1 also shows vévé markings around the altar (Pacifica clue).
+- `[F:M'ap Tann Pèlen]`: the contact at the altar is Alexandre Batisma; the butcher-shop vendor is John Milard. Mr. Hands says the Voodoo Boys are not interested in V but have a job; doing it earns an audience with Brigitte.
+- `[F:I Walk the Line]`: garage has about three Animals at the entry and five further in (two leave, three grouped in the left corner). Atrium: about six Animals on the upper gallery, 12–18 on the lower floor, plus a turret. The van sits roughly in the middle of the far side, lower floor; a side room holds a server cabled to the van; three alert Animals stand by the van. If V fought in the atrium, Placide opens a route to the cinema. The film on screen is _One-Eyed Jacks_.
+- `[F:Sasquatch]`: €$15,000 bounty. If defeated, V can mention her to Angie in the side job _No Easy Way Out_.
+- `[F:Placide]`: immune to the System Collapse quickhack. His equipment table lists the Timeworn trench coat (clothing), a M2038 Tactician, a Machete and the Chapel Access Token (supports game8's Timeworn Trench Coat claim for the NetWatch branch).
+- `[F:Never Fade Away (quest)]`: full objective list (Grab the microphone → … → Talk to Thompson); at the Atlantis an optional "Ask around for Rogue"; in the Tower, destroy two turrets, open the mainframe door, arm explosives, find Alt, defeat agents, check on Alt. The memory is stated to be inaccurate (Johnny's version).
+- `[F:Akira]`: Arasaka bodyguard in the 2013 memory, guarding Toshiro and Alt at the mainframe.
+- `[F:Omega blocker]`: V takes the Omega blockers after completing Transmission.
+- `[F:Sandayu Oda]`: at the docks (Down on the Street) Oda comes alone by car, tells V to stop talking once he realises V saw Konpeki, and warns he will show no leniency at a second meeting. Smasher's lines in the endings: spared → "Mercy is disgusting"; killed → "You killed Oda? Good! He was useless."
+- `[F:Nash]`: the Raffen Shiv hideout of the Ghost Town branch is the Corp-Bud Mine. Abilities: Combat Stim, Sandevistan Mk.2, Kerenzikov, Charge Jump, Biohazard Grenades. If spared, he dies attacking the nomad camp in Queen of the Highway.
+- `[F:Ghost Town]`: Panam's car is the Thorton Mackinaw "Warhorse"; the 6th Street client is Boz; the cargo is Betahaloperidol; bartender Noah at the Sunset Motel. Objective "Collect €$15,000" appears if V lacks the money.
+- `[F:Lightning Breaks]`: enemies listed: Kang Tao, drones, Kang Tao robots. Panam fires a Techtronika T40 Uragan.
+- `[F:Life During Wartime]`: the AV is a Zetatech Surveyor; the gas station is the SovOil Fuel Station (Highway 101); the crash is near the Jackson Plains Regional Airport. Optional objective "Defeat the Kang Tao Operatives on the Airstrip" on the tracks branch.
+- `[F:Hotel Pistis Sophia]`: West Wind Estate, Pacifica, Santa Maria St.; Johnny hid his army dog tags in the room in 2003.
+- `[F:Plan B]`: magazine 20, headshot multiplier 200%, 10% Bleeding chance; €$1 per shot.
+- `[F:Search and Destroy]`: Gillean Jordan (N54 News) can be met at Redwood Market recording a piece on the parade attack.
+- Spanish wiki (`https://cyberpunk.fandom.com/es/api.php`): no Act 2 quest pages exist, so no Latin-American quest names could be verified.
