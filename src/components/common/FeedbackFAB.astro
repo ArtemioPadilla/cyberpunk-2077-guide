@@ -1,0 +1,402 @@
+---
+/**
+ * FeedbackFAB — Floating Action Button for reporting issues to GitHub.
+ *
+ * Adapted from Rastrum's ReportIssueButton.astro.
+ * Features:
+ *   - Modal with type/title/description fields
+ *   - Bug-specific fields: steps to reproduce + expected behavior
+ *   - Auto telemetry: captures console errors, network failures, unhandled exceptions
+ *   - Red badge on FAB when errors are detected
+ *   - Diagnostics accordion: env, console, network info
+ *   - Copy diagnostics to clipboard
+ *   - Duplicate detection: queries GitHub API for similar open issues before submit
+ *   - Opens pre-filled GitHub Issue
+ *   - i18n es/en
+ */
+
+import { SITE } from '@/lib/site-meta';
+import { withBase } from '@/lib/href';
+
+interface Props {
+  lang?: 'es' | 'en';
+}
+
+const { lang = 'es' } = Astro.props;
+
+// site-meta.ts is the single source for the repo slug.
+const repoSlug = SITE.repoSlug;
+const buildSha = import.meta.env.PUBLIC_BUILD_SHA || 'dev';
+const appVersion = import.meta.env.PUBLIC_VERSION || 'dev';
+
+const tr = {
+  es: {
+    button_label: 'Reportar un problema',
+    modal_title: 'Reportar un problema',
+    type_label: 'Tipo',
+    type_bug: 'Error',
+    type_feature: 'Solicitud de funcionalidad',
+    type_question: 'Pregunta',
+    type_translation: 'Problema de traducción',
+    title_label: 'Título',
+    title_placeholder: 'Resumen corto del problema',
+    description_label: 'Descripción',
+    description_placeholder: '¿Qué pasó? ¿Qué esperabas?',
+    steps_label: 'Pasos para reproducir',
+    steps_placeholder: '1. Ir a…\n2. Hacer clic en…\n3. Ver error',
+    expected_label: 'Comportamiento esperado',
+    expected_placeholder: '¿Qué esperabas que pasara?',
+    diagnostics_toggle: 'Mostrar diagnósticos',
+    diagnostics_env: 'Entorno',
+    diagnostics_console: 'Errores de consola',
+    diagnostics_network: 'Peticiones fallidas',
+    diagnostics_none: 'Ninguno capturado',
+    copy_diagnostics: 'Copiar diagnósticos',
+    copied: '¡Copiado!',
+    cancel: 'Cancelar',
+    open_on_github: 'Abrir en GitHub',
+    badge_errors_label: 'errores detectados',
+    similar_issues: 'Problemas similares',
+    file_anyway: 'Reportar de todas formas',
+    checking_dupes: 'Buscando similares…',
+  },
+  en: {
+    button_label: 'Report an issue',
+    modal_title: 'Report an issue',
+    type_label: 'Type',
+    type_bug: 'Bug',
+    type_feature: 'Feature request',
+    type_question: 'Question',
+    type_translation: 'Translation issue',
+    title_label: 'Title',
+    title_placeholder: 'Short summary of the issue',
+    description_label: 'Description',
+    description_placeholder: 'What happened? What did you expect?',
+    steps_label: 'Steps to reproduce',
+    steps_placeholder: '1. Go to…\n2. Click on…\n3. See error',
+    expected_label: 'Expected behavior',
+    expected_placeholder: 'What did you expect to happen?',
+    diagnostics_toggle: 'Show diagnostics',
+    diagnostics_env: 'Environment',
+    diagnostics_console: 'Console errors',
+    diagnostics_network: 'Failed requests',
+    diagnostics_none: 'None captured',
+    copy_diagnostics: 'Copy diagnostics',
+    copied: 'Copied!',
+    cancel: 'Cancel',
+    open_on_github: 'Open on GitHub',
+    badge_errors_label: 'errors detected',
+    similar_issues: 'Similar issues',
+    file_anyway: 'File anyway',
+    checking_dupes: 'Checking for similar issues…',
+  },
+}[lang];
+---
+
+<!-- FAB button -->
+<div
+  class="fixed bottom-[calc(5rem+env(safe-area-inset-bottom))] sm:bottom-6 right-5 z-50 w-12 h-12"
+>
+  <button
+    id="cp-guide-report-btn"
+    type="button"
+    aria-label={tr.button_label}
+    title={tr.button_label}
+    class="relative w-12 h-12 rounded-full flex items-center justify-center shadow-lg
+           bg-white text-primary ring-1 ring-primary/20
+           hover:bg-primary/5 hover:ring-primary/40
+           dark:bg-gray-800 dark:hover:bg-gray-700
+           transition-all hover:scale-105 hover:shadow-xl
+           focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+  >
+    <svg
+      class="w-5 h-5"
+      fill="none"
+      viewBox="0 0 24 24"
+      stroke="currentColor"
+      stroke-width="1.8"
+      aria-hidden="true"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M7.5 8.25h9m-9 3.75h6m-7.5 4.5L4.5 19V5.25A1.25 1.25 0 0 1 5.75 4h12.5A1.25 1.25 0 0 1 19.5 5.25v9.5A1.25 1.25 0 0 1 18.25 16h-9.5L6 18l-1.5-1.5z"
+      ></path>
+    </svg>
+    <span class="sr-only">{tr.button_label}</span>
+    <!-- Error badge -->
+    <span
+      id="cp-guide-report-badge"
+      aria-label={tr.badge_errors_label}
+      class="hidden absolute -top-1 -right-1 min-w-[18px] h-[18px] px-1 rounded-full
+             bg-red-600 text-white text-[10px] font-bold
+             flex items-center justify-center
+             ring-2 ring-white dark:ring-gray-800 pointer-events-none"
+    ></span>
+  </button>
+</div>
+
+<!-- Modal dialog — centered via the native <dialog> top-layer behavior
+     (`inset: 0; margin: auto` from the UA stylesheet, kept explicit with
+     m-auto). Don't try to corner-pin it with fixed/bottom/right: the UA's
+     inset:0 wins on the unset sides and the panel ends up stretched to the
+     top-left (the bug this comment replaces).
+     max-h + overflow-auto ensure it stays scrollable on small viewports. -->
+<dialog
+  id="cp-guide-report-modal"
+  aria-labelledby="cp-guide-report-heading"
+  data-repo={repoSlug}
+  data-lang={lang}
+  data-build-sha={buildSha}
+  data-app-version={appVersion}
+  data-l-steps-label={tr.steps_label}
+  data-l-steps-placeholder={tr.steps_placeholder}
+  data-l-expected-label={tr.expected_label}
+  data-l-expected-placeholder={tr.expected_placeholder}
+  data-l-diagnostics-toggle={tr.diagnostics_toggle}
+  data-l-diagnostics-env={tr.diagnostics_env}
+  data-l-diagnostics-console={tr.diagnostics_console}
+  data-l-diagnostics-network={tr.diagnostics_network}
+  data-l-diagnostics-none={tr.diagnostics_none}
+  data-l-copy={tr.copy_diagnostics}
+  data-l-copied={tr.copied}
+  data-l-similar-issues={tr.similar_issues}
+  data-l-file-anyway={tr.file_anyway}
+  data-l-checking-dupes={tr.checking_dupes}
+  class="rounded-xl backdrop:bg-black/60 p-0 w-[min(92vw,540px)] max-h-[80vh] overflow-hidden
+         bg-white text-gray-900 dark:bg-gray-800 dark:text-gray-100
+         shadow-2xl border border-gray-200 dark:border-gray-700
+         m-auto"
+>
+  <form method="dialog" class="flex flex-col max-h-[88vh]">
+    <!-- Header -->
+    <header
+      class="flex items-center justify-between px-5 py-3 border-b border-gray-200 dark:border-gray-700 sticky top-0 bg-white dark:bg-gray-800 z-10"
+    >
+      <h2 id="cp-guide-report-heading" class="text-base font-semibold">{tr.modal_title}</h2>
+      <button
+        type="button"
+        id="cp-guide-report-close"
+        aria-label={tr.cancel}
+        class="p-1.5 rounded hover:bg-gray-100 dark:hover:bg-gray-700 min-w-[44px] min-h-[44px] flex items-center justify-center transition-colors"
+      >
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+    </header>
+
+    <!-- Body -->
+    <div class="px-5 py-4 space-y-4 overflow-y-auto flex-1">
+      <!-- Type -->
+      <div>
+        <label for="cp-guide-report-type" class="block text-sm font-medium mb-1"
+          >{tr.type_label}</label
+        >
+        <select
+          id="cp-guide-report-type"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600
+                 bg-white dark:bg-gray-700 px-3 py-2 text-sm
+                 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+        >
+          <option value="bug">{tr.type_bug}</option>
+          <option value="feature">{tr.type_feature}</option>
+          <option value="question">{tr.type_question}</option>
+          <option value="translation">{tr.type_translation}</option>
+        </select>
+      </div>
+
+      <!-- Title -->
+      <div>
+        <label for="cp-guide-report-title" class="block text-sm font-medium mb-1"
+          >{tr.title_label}</label
+        >
+        <input
+          type="text"
+          id="cp-guide-report-title"
+          maxlength="120"
+          placeholder={tr.title_placeholder}
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600
+                 bg-white dark:bg-gray-700 px-3 py-2 text-sm
+                 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+        />
+      </div>
+
+      <!-- Similar issues panel — hidden by default, shown after dedupe check -->
+      <div
+        id="cp-guide-report-similar"
+        class="hidden rounded-lg border border-amber-300 dark:border-amber-600 bg-amber-50 dark:bg-amber-900/20 p-3 space-y-2"
+      >
+        <p
+          id="cp-guide-report-similar-label"
+          class="text-xs font-semibold text-amber-700 dark:text-amber-300"
+        >
+          {tr.similar_issues}
+        </p>
+        <ul id="cp-guide-report-similar-list" class="space-y-1 text-xs"></ul>
+        <button
+          type="button"
+          id="cp-guide-report-file-anyway"
+          class="mt-1 text-xs font-medium text-amber-700 dark:text-amber-300 underline hover:no-underline"
+        >
+          {tr.file_anyway}
+        </button>
+      </div>
+
+      <!-- Description -->
+      <div>
+        <label for="cp-guide-report-description" class="block text-sm font-medium mb-1"
+          >{tr.description_label}</label
+        >
+        <textarea
+          id="cp-guide-report-description"
+          rows="4"
+          placeholder={tr.description_placeholder}
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600
+                 bg-white dark:bg-gray-700 px-3 py-2 text-sm resize-y
+                 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+        ></textarea>
+      </div>
+
+      <!-- Bug-only fields -->
+      <div id="cp-guide-report-bug-fields" class="space-y-4">
+        <div>
+          <label for="cp-guide-report-steps" class="block text-sm font-medium mb-1"
+            >{tr.steps_label}</label
+          >
+          <textarea
+            id="cp-guide-report-steps"
+            rows="3"
+            placeholder={tr.steps_placeholder}
+            class="w-full rounded-lg border border-gray-300 dark:border-gray-600
+                   bg-white dark:bg-gray-700 px-3 py-2 text-sm resize-y
+                   focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+          ></textarea>
+        </div>
+        <div>
+          <label for="cp-guide-report-expected" class="block text-sm font-medium mb-1"
+            >{tr.expected_label}</label
+          >
+          <textarea
+            id="cp-guide-report-expected"
+            rows="2"
+            placeholder={tr.expected_placeholder}
+            class="w-full rounded-lg border border-gray-300 dark:border-gray-600
+                   bg-white dark:bg-gray-700 px-3 py-2 text-sm resize-y
+                   focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+          ></textarea>
+        </div>
+      </div>
+
+      <!-- Diagnostics accordion -->
+      <details id="cp-guide-report-diagnostics" class="group">
+        <summary
+          class="flex items-center gap-2 cursor-pointer text-xs font-medium text-gray-500 dark:text-gray-400 select-none py-1"
+        >
+          <svg
+            class="w-3.5 h-3.5 transition-transform group-open:rotate-90"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="2.5"
+            aria-hidden="true"
+          >
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"></path>
+          </svg>
+          {tr.diagnostics_toggle}
+          <span
+            id="cp-guide-report-diag-count"
+            class="hidden inline-flex items-center justify-center rounded-full
+                   bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-300
+                   text-[10px] font-bold min-w-[18px] h-[18px] px-1"
+            >0</span
+          >
+        </summary>
+        <div class="mt-2 space-y-3">
+          <div>
+            <p class="text-[11px] font-semibold text-gray-400 uppercase tracking-wide mb-1">
+              {tr.diagnostics_env}
+            </p>
+            <pre
+              id="cp-guide-report-env"
+              class="text-xs bg-gray-50 dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700
+                     rounded-lg p-2 whitespace-pre-wrap break-all max-h-28 overflow-auto">
+            </pre>
+          </div>
+          <div>
+            <p class="text-[11px] font-semibold text-gray-400 uppercase tracking-wide mb-1">
+              {tr.diagnostics_console}
+            </p>
+            <pre
+              id="cp-guide-report-console"
+              class="text-xs bg-gray-50 dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700
+                     rounded-lg p-2 whitespace-pre-wrap break-all max-h-32 overflow-auto">
+            </pre>
+          </div>
+          <div>
+            <p class="text-[11px] font-semibold text-gray-400 uppercase tracking-wide mb-1">
+              {tr.diagnostics_network}
+            </p>
+            <pre
+              id="cp-guide-report-network"
+              class="text-xs bg-gray-50 dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700
+                     rounded-lg p-2 whitespace-pre-wrap break-all max-h-32 overflow-auto">
+            </pre>
+          </div>
+        </div>
+      </details>
+    </div>
+
+    <!-- Footer -->
+    <footer
+      class="sticky bottom-0 flex items-center justify-between gap-2 px-5 py-3
+                   border-t border-gray-200 dark:border-gray-700
+                   bg-white dark:bg-gray-800 z-10"
+    >
+      <button
+        type="button"
+        id="cp-guide-report-copy"
+        title={tr.copy_diagnostics}
+        class="min-h-[44px] px-3 py-2 rounded-lg text-sm font-medium
+               text-gray-600 dark:text-gray-400
+               hover:bg-gray-100 dark:hover:bg-gray-700
+               inline-flex items-center gap-1.5 transition-colors"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="2"
+          aria-hidden="true"
+        >
+          <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+          <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+        </svg>
+        <span id="cp-guide-report-copy-label">{tr.copy_diagnostics}</span>
+      </button>
+      <div class="flex items-center gap-2">
+        <button
+          type="button"
+          id="cp-guide-report-cancel"
+          class="min-h-[44px] px-4 py-2 rounded-lg text-sm font-medium
+                 border border-gray-300 dark:border-gray-600
+                 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+        >
+          {tr.cancel}
+        </button>
+        <button
+          type="button"
+          id="cp-guide-report-submit"
+          class="min-h-[44px] px-4 py-2 rounded-lg text-sm font-semibold
+                 bg-primary hover:bg-primary/90 text-primary-foreground
+                 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring transition-colors"
+        >
+          {tr.open_on_github}
+        </button>
+      </div>
+    </footer>
+  </form>
+</dialog>
+
+<script is:inline src={withBase('/feedback.js')}></script>
