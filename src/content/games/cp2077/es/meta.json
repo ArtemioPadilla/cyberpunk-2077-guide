@@ -1,0 +1,8 @@
+[
+  {"id": "prologue", "kind": "part", "label": "Prólogo"},
+  {"id": "act1", "kind": "part", "label": "Acto 1"},
+  {"id": "act2", "kind": "part", "label": "Acto 2"},
+  {"id": "act3", "kind": "part", "label": "Acto 3"},
+  {"id": "pl", "kind": "part", "label": "Phantom Liberty"},
+  {"id": "side", "kind": "part", "label": "Misiones secundarias"}
+]

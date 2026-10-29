@@ -1,0 +1,4 @@
+[
+  {"id": "rule-manual-save", "section": "rules", "title": "Guarda a mano antes de cada decisión", "body": "El juego guarda solo con frecuencia, pero el autoguardado puede quedar después de la elección. Haz una **partida manual** antes de una conversación importante o de empezar un trabajo: si el resultado no te convence, cargas y pruebas otra opción.\n\nSe puede guardar desde el menú casi siempre que no estés en combate."},
+  {"id": "rule-respec", "section": "rules", "title": "Tus atributos se pueden redistribuir", "body": "Una build no es definitiva: desde el menú de personaje puedes **devolver los perks** y **reiniciar los atributos** para repartirlos de nuevo.\n\nPrueba sin miedo lo que te apetezca y ajusta cuando encuentres armas o ciberware que te gusten más."}
+]

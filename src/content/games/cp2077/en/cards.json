@@ -1,0 +1,4 @@
+[
+  {"id": "rule-manual-save", "section": "rules", "title": "Save manually before every choice", "body": "The game autosaves often, but the autosave can land after the choice. Make a **manual save** before an important conversation or before starting a job: if you don't like the outcome, reload and try another option.\n\nYou can save from the menu almost any time you are not in combat."},
+  {"id": "rule-respec", "section": "rules", "title": "Your attributes can be redistributed", "body": "A build is not final: from the character menu you can **refund perks** and **reset attributes** to spend them again.\n\nTry whatever you like and adjust once you find weapons or cyberware you prefer."}
+]
