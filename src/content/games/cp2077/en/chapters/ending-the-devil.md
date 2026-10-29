@@ -26,7 +26,7 @@ As you come down from the rooftop, Misty offers a reading, but leaves angry when
 1. **Deal with the guards** at the entrance. Game8 mentions a Body option to do it yourself; if you don't have it, Hellman handles it.
 2. Talk to Hellman and to Hanako, and head to the estate.
 3. **Neutralize the elite guards.** If you (or Goro, if he is with you) are detected, more show up and you have to kill them too: stealth saves you the fight.
-4. **Genjiroh:** before finding Hanako, search the estate's rooms. The iconic smart pistol **Genjiroh** is on a desk in one of them. If you already had it (from Play It Safe, code 2906), you get another after finishing the game.
+4. **Genjiroh:** before finding Hanako, search the estate's rooms. The iconic smart pistol **Genjiroh** is on a desk in one of them. If you had already taken it, you get another after finishing the game (the wiki doesn't say whether the Play It Safe one, code 2906, counts or only this estate's).
 5. Find Hanako, talk to her and follow her to the **AV**. Fly to Arasaka Tower.
 
 ## Totalimmortal: the board and the coup
@@ -96,9 +96,9 @@ Most of the Arasaka board and many employees die, plus **Adam Smasher** (your ca
 - **Mama Welles** (with Heroes): amused by your new fame, asks you not to forget where you started.
 - **Judy:** if she is your partner, she dumps you and leaves Night City; if you did her chain without romance, she thanks you by a campfire; if you didn't do her chain, she says she's thinking of leaving.
 - **Panam:** if she is your partner, news from the Badlands and the promise of a long ride; if you did her chain without romance, she thanks you; if not, she asks for work.
-- **Saul and Mitch** (with Panam's chain): Saul says you're an Aldecaldo; Mitch says you're welcome at camp.
+- **Saul and Mitch:** with Panam's chain, Saul says you're an Aldecaldo and Mitch says you're welcome at camp; without it, Saul thanks you for saving an Aldecaldo and Mitch for saving his ass.
 - **Rogue:** with her chain done, she asks you to pass a message to Johnny; without it, she's impressed by your work with Hellman.
-- **Kerry and River** (with their chains): if they are your partner, Kerry wishes you could hang out more and River invites you to Randy's birthday.
+- **Kerry and River** (with their chains): if they are your partner, Kerry wishes you could hang out more and River invites you to Randy's birthday. If Kerry is not your partner and he reached an agreement with Us Cracks in I Don't Wanna Hear It, he tells you he's going on tour with them.
 - **Hanako:** only if you refused the contract.
 - **Peralez** (with Dream On): paranoid if you told him about the brainwashing; if you hid it, he asks for help with a job.
 

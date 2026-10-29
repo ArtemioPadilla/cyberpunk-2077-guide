@@ -105,7 +105,7 @@ On this route he starts 20% down thanks to Rogue's grenade. Since 2.1 he uses a 
 - **Mama Welles** (with Heroes): amused by your new fame.
 - **Judy:** if she is your partner, she dumps you and leaves Night City; if you did her chain without romance, she thanks you.
 - **Panam:** if she is your partner, news from the Badlands and the promise of a long ride; if you did her chain without romance, she thanks you.
-- **Saul and Mitch** (with Panam's chain): Saul is still alive and says you're an Aldecaldo; Mitch invites you to camp.
+- **Saul and Mitch:** with Panam's chain, Saul is still alive and says you're an Aldecaldo, and Mitch invites you to camp; without it, Saul thanks you for saving an Aldecaldo and Mitch for saving his ass.
 - **Kerry and River** (if they are your partner): Kerry wishes you could hang out more; River invites you to Randy's birthday.
 - **Takemura** (if you saved him): "rot in hell".
 - **Reed** (Phantom Liberty): berates you for refusing the cure (King of Swords or Pentacles) or calls from Dayton (King of Cups).

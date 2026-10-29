@@ -21,6 +21,8 @@ pills:
     }
 ---
 
+**Nocturne Op55N1** is the only Act 3 job every route shares. It unlocks after **Tapeworm** (Game8 lists Transmission and Search and Destroy) and is given by **Hanako Arasaka**, who meets you at **Embers**, in The Glen (Heywood). Then you go through Viktor's clinic and end up on the rooftop above **Misty's Esoterica**, where you decide who you go into Mikoshi with. The job itself has no reward: what matters is the ending choice.
+
 > **Before Embers:** as you approach the main entrance of **Embers** the game warns you that this is the **point of no return**: from there on there is no free roam until the credits. Go through this list and make a **manual save** before you walk in. After any ending you come back to this moment, so nothing you leave unfinished is lost for good, but what decides **which endings you have** is locked here.
 >
 > **Endings that are unlocked (or not) before this point:**
@@ -31,7 +33,7 @@ pills:
 > - **The Sun (Rogue):** finish **Blistering Love**. It only appears if at Johnny's grave, at the end of Chippin' In, you picked the right answers (the secret-ending set, below, or "A hard road, but looks like we made it." → "Johnny, no need to bare your soul to me.", the latter per the wiki only). With other answers Johnny sends you to Kerry (Holdin' On) and the Rogue path is closed.
 > - **Secret ending ((Don't Fear) The Reaper):** at the Chippin' In grave answer "Nah, fucked that up too." → "What do you want from me?" → "OK. But as second chances go, this is your last.". **It does not depend on Johnny affinity** (the 70% claim is a myth). Sources disagree on whether Blistering Love is also needed: do it anyway, since those same answers unlock it.
 > - **Temperance:** needs the Panam, Rogue or secret path open; it is decided inside Mikoshi.
-> - **The Tower (Phantom Liberty):** finish Phantom Liberty **surrendering Songbird** to the NUSA (King of Swords or King of Pentacles). Game8 also advises confirming with Reed that the surgeons are ready before coming here. Details in [PL 17 · Who Wants to Live Forever](../who-wants-to-live-forever/).
+> - **The Tower (Phantom Liberty):** finish Phantom Liberty **surrendering Songbird** to the NUSA (King of Swords or King of Pentacles) and **then accept Reed's offer** (the cure). Game8 also advises confirming with Reed that the surgeons are ready before coming here. Details in [PL 17 · Who Wants to Live Forever](../who-wants-to-live-forever/).
 >
 > **What changes the epilogues and the credits calls:**
 >
@@ -47,8 +49,6 @@ pills:
 > - No source lists side jobs or gigs that fail because you cross this point; still, Phantom Liberty jobs with a deadline are best closed first.
 >
 > **Saves:** on Switch 2, 2.5 fixed the "Save failed - insufficient space" error and groups saves by playthrough. Keep a manual save **before Embers** and don't overwrite it: it is the one that lets you play the other endings.
-
-**Nocturne Op55N1** is the only Act 3 job every route shares. It unlocks after **Tapeworm** (Game8 lists Transmission and Search and Destroy) and is given by **Hanako Arasaka**, who meets you at **Embers**, in The Glen (Heywood). Then you go through Viktor's clinic and end up on the rooftop above **Misty's Esoterica**, where you decide who you go into Mikoshi with. The job itself has no reward: what matters is the ending choice.
 
 > **Order:** Embers → security and elevator to the 13th floor → talk to Hanako → leave the restaurant → Johnny in the elevator (Relic malfunction) → Viktor's clinic → pills and Unity handgun → Misty → elevator to the 9th floor and stairs to the roof → **save** → sit by Misty → Johnny → goodbye call (optional) → **decide what comes next**.
 
@@ -93,6 +93,6 @@ Each rooftop option leads to a page of this guide. All are **final for this play
 
 ## After the credits
 
-After any ending the game offers to take you back before the point of no return ("Sure, Just One More Gig"): you return to the **last save before Nocturne Op55N1**, in free roam, with earlier jobs as they were. **There is no New Game+.** The ending's rewards (Legendary Gorilla Arms and Militech Berserk, tarot cards, some shards, the route's iconics and the Access Token if you took it) are added to that save. Clothing you get during the epilogues does not come back with you.
+After any ending the game offers to take you back before the point of no return ("One More Gig"): you return to the **last save before Nocturne Op55N1**, in free roam, with earlier jobs as they were. **There is no New Game+.** The ending's rewards (Legendary Gorilla Arms and Militech Berserk, tarot cards, some shards, the route's iconics and the Access Token if you took it) are added to that save. Clothing you get during the epilogues does not come back with you.
 
 > **Don't leave without:** the last pills and the **Unity** handgun from Viktor's table, and a **manual save on the rooftop before sitting next to Misty** (plus the one before Embers). With those two saves you can play every ending you have open without repeating anything.

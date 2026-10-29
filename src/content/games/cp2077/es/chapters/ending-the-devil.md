@@ -29,7 +29,7 @@ Al bajar de la azotea, Misty te ofrece una lectura, pero se va enfadada al saber
 1. **Ocúpate de los guardias** de la entrada. Game8 menciona una opción de Cuerpo para hacerlo tú mismo; si no la tienes, Hellman se encarga.
 2. Habla con Hellman y con Hanako, y dirígete a la finca.
 3. **Neutraliza a los guardias de élite.** Si te detectan (a V o a Goro, si viene contigo), aparecen más y tendrás que eliminarlos también: el sigilo ahorra la pelea.
-4. **Genjiroh:** antes de encontrar a Hanako, revisa las habitaciones de la finca. La pistola inteligente icónica **Genjiroh** está sobre un escritorio en una de ellas. Si ya la tenías (de Play It Safe, código 2906), recibes otra al terminar el juego.
+4. **Genjiroh:** antes de encontrar a Hanako, revisa las habitaciones de la finca. La pistola inteligente icónica **Genjiroh** está sobre un escritorio en una de ellas. Si ya la habías tomado antes, recibes otra al terminar el juego (la wiki no aclara si cuenta la de Play It Safe, código 2906, o solo la de esta finca).
 5. Encuentra a Hanako, habla con ella y síguela hasta el **AV**. Vuela a Arasaka Tower.
 
 ## Totalimmortal: la junta y el golpe
@@ -99,9 +99,9 @@ Mueren la mayor parte de la junta de Arasaka y muchos empleados, **Adam Smasher*
 - **Mama Welles** (con Heroes): se divierte con tu nueva fama y te pide no olvidar de dónde vienes.
 - **Judy:** si es tu pareja, te deja y se va de Night City; si hiciste su cadena sin romance, te da las gracias junto a una hoguera; si no hiciste su cadena, dice que piensa irse.
 - **Panam:** si es tu pareja, novedades desde las Badlands y la promesa de un largo paseo; si hiciste su cadena sin romance, te da las gracias; si no, te pide trabajo.
-- **Saul y Mitch** (con la cadena de Panam): Saul dice que eres Aldecaldo; Mitch, que eres bienvenido en el campamento.
+- **Saul y Mitch:** con la cadena de Panam, Saul dice que eres Aldecaldo y Mitch, que eres bienvenido en el campamento; sin ella, Saul te agradece que salvaras a un Aldecaldo y Mitch, que le salvaras el pellejo.
 - **Rogue:** con su cadena hecha, te pide pasarle un mensaje a Johnny; sin ella, le impresiona tu trabajo con Hellman.
-- **Kerry y River** (con sus cadenas): si son tu pareja, Kerry quiere pasar más tiempo contigo y River te invita al cumpleaños de Randy.
+- **Kerry y River** (con sus cadenas): si son tu pareja, Kerry quiere pasar más tiempo contigo y River te invita al cumpleaños de Randy. Si Kerry no es tu pareja y en I Don't Wanna Hear It hubo acuerdo con Us Cracks, te cuenta que se va de gira con ellas.
 - **Hanako:** solo si rechazaste el contrato.
 - **Peralez** (con Dream On): paranoico si le contaste lo del lavado de cerebro; si se lo ocultaste, te pide ayuda con un trabajo.
 

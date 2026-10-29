@@ -18,7 +18,7 @@ pills:
 
 The chain of **Kerry Eurodyne**, Samurai's old guitarist, has seven jobs: **Holdin' On**, **Second Conflict**, **A Like Supreme**, **Rebel! Rebel!**, **I Don't Wanna Hear It**, **Off the Leash** and **Boat Drinks**. You always reach it through Johnny, after **Chippin' In**: if you gave Johnny his second chance at the Northern Oil Fields grave, it comes after **Blistering Love**; if not, Johnny sends you straight to Kerry. The first three are Johnny's (reuniting Samurai for one last gig); the last four are Kerry and V's, and lead to the romance.
 
-> **For the ending:** Kerry **opens and closes no ending**. His romance needs a **masculine body and masculine voice** (lifepath and genitalia don't matter); with a feminine V, Kerry kindly declines the kiss. You can hold Kerry's and **Panam**'s romances at the same time with no penalty, but on the rooftop in Nocturne Op55N1 you can call only one partner. Kerry waits for V in **The Sun** and **The Devil**; **The Tower** ends every romance except a possible Kerry reunion. The only failure that cuts the chain (and the romance) is **abandoning Kerry in Rebel! Rebel!**.
+> **For the ending:** Kerry **opens and closes no ending**. His romance needs a **masculine body and masculine voice** (lifepath and genitalia don't matter); with a feminine V, Kerry kindly declines the kiss. You can hold Kerry's and **Panam**'s romances at the same time with no penalty, but on the rooftop in Nocturne Op55N1 you can call only one partner. Kerry waits for V in **The Sun** and **The Devil** (if V refuses the contract and goes back to Earth); **The Tower** ends every romance except a possible Kerry reunion. The only failure that cuts the chain (and the romance) is **abandoning Kerry in Rebel! Rebel!**.
 
 > **Order:** **Holdin' On:** North Oak sign → Villa Eurodyne (pills by the guitars) → call Nancy → **Second Conflict:** Totentanz → Nancy's car → Denny's mansion (Denny or Henry) → **A Like Supreme:** Nancy's call → Red Dirt at night (guitar case, pills, gig) → **Rebel! Rebel!:** Rancho Coronado Foodscape (12:30–3:30 AM) → Red Peaks (trap, van) → escape the NCPD → coffee → **I Don't Wanna Hear It:** Riot, 7 PM → Us Cracks → **Off the Leash:** Dark Matter → rooftop → **Boat Drinks:** Gold Beach Marina, 7 PM → the yacht _Seamurai_.
 
@@ -91,7 +91,7 @@ Inside, find Kerry and Us Cracks. The choice: **hear them out** or **force them 
 Kerry invites you to **Dark Matter** in Japantown. The elevator bouncer says it is "out of order": tell him you are Kerry's guest.
 
 - **If you heard Us Cracks out:** a promo event is under way; Kerry and Us Cracks announce a single together. Kerry introduces you to the press as his "right hand" and then to **Spector Cheng**, who promises you a "friends and family" discount.
-- **If you forced them:** Us Cracks broke their promise and are suing Kerry; the club is empty because Kerry closed it.
+- **If you forced them:** Us Cracks broke their promise and are seeking a restraining order against Kerry; the club is empty because Kerry closed it.
 
 Go up to the **rooftop** with Kerry and hear him out: he admits what scared him wasn't selling out to the corps but living in someone's shadow again, as with Johnny in Samurai.
 
@@ -121,10 +121,10 @@ Finishing it gives the achievement **"To Bad Decisions!"** and a memorabilia ite
 - **Second Conflict — Denny or Henry** → only changes who plays and the final scene; Johnny has no preference.
 - **Rebel! Rebel! — leaving without Kerry or driving into the water** → **Kerry cuts contact: end of the chain and the romance. Permanent.**
 - **Rebel! Rebel! — accepting the coffee** → you get the **€$21,470** right away.
-- **I Don't Wanna Hear It — hearing Us Cracks out** → they become friends with Kerry; photo (selfie with Cool); a promo event in Off the Leash.
-- **I Don't Wanna Hear It — forcing them to drop the deal** → no agreement; in Off the Leash they sue Kerry and Dark Matter is empty. The romance stays available.
+- **I Don't Wanna Hear It — hearing Us Cracks out** → they become friends with Kerry; photo (selfie with Cool); a promo event in Off the Leash. In the credits, if Kerry is not your partner, he tells you he's going on tour with Us Cracks.
+- **I Don't Wanna Hear It — forcing them to drop the deal** → no agreement; in Off the Leash they seek a restraining order against Kerry and Dark Matter is empty. The romance stays available.
 - **Off the Leash — kissing Kerry** (masculine body and voice) → the romance starts; it completes in **Boat Drinks**.
-- **Boat Drinks — going home with Kerry** → closes the chain. If romanced, Kerry waits for you in The Sun and The Devil.
+- **Boat Drinks — going home with Kerry** → closes the chain. If romanced, Kerry waits for you in The Sun and in The Devil (if you go back to Earth).
 
 > **Don't leave without:** the **gold-plated baseball bat** from Denny's pool and the **Doom Doom** from Dum Dum (Second Conflict; if you miss it, Herold Lowe sells the Doom Doom in Phantom Liberty), **Archangel** (A Like Supreme) and the **coffee with Kerry** at the end of Rebel! Rebel!.
 

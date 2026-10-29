@@ -12,7 +12,7 @@ pills:
   - { type: save, label: 'Save before disconnecting the netrunner' }
 ---
 
-**Takemura** gives it. During the parade for Saburo Arasaka's death in **Japantown**, Takemura is going to jump onto **Hanako's** float to kidnap her. Your job: cover him by taking out **three Arasaka snipers** and disconnecting the **netrunner** watching the area. **Sandayu Oda**, Hanako's bodyguard, waits there for you in the act's most technical boss fight. Per the wiki, Takemura only calls once you've finished **Gimme Danger and Life During Wartime**.
+**Takemura** gives it. During the parade for Saburo Arasaka's death in **Japantown**, Takemura is going to jump onto **Hanako's** float to kidnap her. Your job: cover him by taking out **three Arasaka snipers** and disconnecting the **netrunner** watching the area. **Sandayu Oda**, Hanako's bodyguard, waits there for you in the act's most technical boss fight. The wiki lists **Gimme Danger and Life During Wartime** as the previous jobs: if Takemura doesn't call after Gimme Danger, push on with the Hellman line.
 
 > **Order:** go to the Japantown bazaar → talk to Takemura (take his shard) → neutralize the 3 snipers → talk to Takemura → reach the netrunner → disconnect him → defeat Oda → decide his fate → talk to Takemura → connect to the access point → deactivate the turret → wait for Takemura's move → escape the parade grounds.
 

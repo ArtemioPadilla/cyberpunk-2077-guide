@@ -28,7 +28,7 @@ La da **Brigitte**, la líder de los Voodoo Boys, justo después de I Walk the L
 
 ## Never Fade Away (Johnny, 2013)
 
-Controlas a Johnny Silverhand en uno de sus recuerdos. Es su versión de los hechos: **no es fiel a lo que pasó de verdad**, y Alt te lo dirá después.
+Controlas a Johnny Silverhand en uno de sus recuerdos. Es su versión de los hechos: según la wiki, **no es fiel a lo que pasó de verdad**.
 
 **El concierto y el camerino.**
 
@@ -82,9 +82,9 @@ Vuelves a Rezo Agwe. **Habla con Johnny** del recuerdo y luego con Brigitte. Ell
 
 La decisión principal (NetWatch o Voodoo Boys) ya la tomaste en **I Walk the Line**. Aquí solo hay una más, y solo en la rama de los Voodoo Boys:
 
-- **Irte en paz** → sales de la iglesia bajo la protección de Brigitte. Placide, decepcionado por no poder matarte, te escribirá más tarde para que te cuides la espalda.
+- **Irte en paz** → sales de la iglesia bajo la protección de Brigitte. Placide, decepcionado por no poder matarte, te escribirá más tarde para que te cuides la espalda. En **The Damned** (Phantom Liberty) tendrás una opción de diálogo para que los guardias de los Voodoo Boys te dejen pasar.
 - **Ajustar cuentas (violencia)** → matas a los Voodoo Boys de la iglesia. **Los Voodoo Boys genéricos dejan de aparecer por las calles** (salvo en **Dogtown**), y la misión **The Damned** de Phantom Liberty tendrá diálogos y opciones extra. Si dejas vivo a Placide, te escribirá por la red para que te cuides la espalda.
-- **Rama NetWatch: pelea con Placide** → obligatoria. Brigitte y sus netrunners mueren pase lo que pase.
+- **Rama NetWatch: pelea con Placide** → obligatoria. Brigitte y sus netrunners mueren pase lo que pase. Si después dejas vivo a Placide, te escribirá más tarde para amenazarte.
 - **Lo que le dices a Johnny al salir de la iglesia** → IGN dice que "puede afectar a tu relación con él", sin más detalle. La afinidad con Johnny no cambia ningún final (ver Tapeworm).
 
 ## Jefe — Akira

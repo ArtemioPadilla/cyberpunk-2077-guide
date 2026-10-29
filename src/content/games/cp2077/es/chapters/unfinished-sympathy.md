@@ -24,7 +24,7 @@ Después de The Killing Moon, **Alex** te escribe: quiere verte.
 
 1. Habla con Alex y **reúnete con ella en The Moth**.
 2. **Siéntate en la barra** y habla con ella.
-3. **El brindis:** puedes brindar por uno de los muertos de la historia: **Solomon Reed**, **Jackie Welles**, **Johnny Silverhand**, **T-Bug**, **Evelyn Parker**, **Scorpion** o **Goro Takemura** (solo si murió en tu partida).
+3. **El brindis:** puedes brindar por uno de los muertos de la historia: **Solomon Reed**, **Jackie Welles**, **Johnny Silverhand**, **T-Bug**, **Evelyn Parker**, **Scorpion** o **Goro Takemura** (según tu partida).
    - Si no brindas por Reed, tendrás ocasión de hacerlo cuando Alex brinde por él.
    - Si brindas por **Jackie**, Johnny se pone celoso.
    - Si brindas por **Johnny**, se lo agradece y te devuelve el brindis.

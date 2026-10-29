@@ -7,23 +7,22 @@ summary: 'Comprar el XBD de la polilla, analizarlo en la furgoneta de Judy y baj
 pills:
   - { type: missable, label: 'Errata (la forja de la central eléctrica)' }
   - { type: info, label: 'Pistas del BD: 00:10, 00:11, 00:23, 00:32, 00:38' }
-  - { type: info, label: 'Tres rutas para encontrar al vendedor de XBD' }
+  - { type: info, label: 'Dos rutas al vendedor de XBD: la red o Wakako' }
   - { type: save, label: 'Guarda antes de bajar a los subniveles' }
 ---
 
 La da **Judy Álvarez** al salir de la clínica de Fingers. Tienes que conseguir un **XBD** (braindance ilegal) concreto en **Jig-Jig Street** (Japantown), analizarlo con Judy para averiguar dónde se grabó y luego ir a esa **vieja central eléctrica** (Electric Corporation Power Plant, entre Charter Hill y Arroyo), tomada por los **Scavengers**. Allí está Evelyn. La misión no tiene decisiones de peso, pero sí una katana icónica fácil de perder y una infiltración que puedes hacer con sigilo o a tiros.
 
-> **Orden:** habla con Judy → encuentra al vendedor de XBD (red, Wakako o la sex shop) → compra **XBD: Deep-Fried Death's-Head Moth** → furgoneta de Judy → analiza el BD → habla con Judy → viaja con ella a la central → edificio principal → subniveles → nivel -1 → guía a Judy → encuentra a Evelyn → toma el cable → habla con Judy → ascensor → habla con Johnny.
+> **Orden:** habla con Judy → encuentra al vendedor de XBD (por la red, o Wakako → sex shop) → compra **XBD: Deep-Fried Death's-Head Moth** → furgoneta de Judy → analiza el BD → habla con Judy → viaja con ella a la central → edificio principal → subniveles → nivel -1 → guía a Judy → encuentra a Evelyn → toma el cable → habla con Judy → ascensor → habla con Johnny.
 
 > **Prepárate:** ten **eddies** a mano para el XBD (las fuentes no coinciden en el precio: game8 da €$4,837 e IGN €$1,000, probablemente de la versión 1.x; el precio puede depender del nivel). La central está llena de Scavengers: lleva armas con supresor o quickhacks si quieres ir en sigilo, porque Judy te sigue y puedes dejar que ella los distraiga. Guarda antes de bajar a los subniveles.
 
 ## Encontrar al vendedor de XBD
 
-Habla con Judy y, si quieres, **pregunta por los XBD en Jig-Jig Street** (opcional). Hay tres rutas, y todas llevan al mismo vendedor:
+Habla con Judy y, si quieres, **pregunta por los XBD en Jig-Jig Street** (opcional). Los objetivos de la wiki dan dos rutas, y las dos llevan al mismo vendedor:
 
 - **Ruta de la red:** busca una **terminal** y encuentra el dominio **"Pleasures of NC"**. Accede a su **gemelo clandestino** y busca allí a un vendedor de XBD.
-- **Ruta de Wakako:** **llama a Wakako** o visítala en Jig-Jig Street y pregúntale por los XBD con la polilla "Death's-head".
-- **Ruta de la tienda:** visita la **sex shop** de Jig-Jig Street y pregunta.
+- **Ruta de Wakako:** **llama a Wakako** o visítala en Jig-Jig Street y pregúntale por los XBD con la polilla "Death's-head". Ella te manda a la **sex shop** de Jig-Jig Street: visítala.
 
 Después, **encuentra al vendedor de XBD** en Jig-Jig Street. La palabra clave con él es **"Death's Head"**.
 
@@ -69,7 +68,7 @@ IGN menciona también, en una guía escrita para la versión 1.x, un **M-179e Ac
 
 ## Decisiones
 
-- **Ruta para encontrar al vendedor** (red, Wakako o sex shop) → solo cambia el camino; el vendedor es el mismo.
+- **Ruta para encontrar al vendedor** (la red o Wakako) → solo cambia el camino; el vendedor es el mismo.
 - **Pagar el XBD o matar al vendedor** → ahorras eddies si lo matas; no hay consecuencia de historia en las fuentes.
 - **Sigilo con Judy de distracción o pelea abierta** → no cambia el final de la misión.
 

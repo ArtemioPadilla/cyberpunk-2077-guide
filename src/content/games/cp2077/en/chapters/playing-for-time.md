@@ -110,8 +110,8 @@ What decides endings and what closes for good is spread across the whole act. Ke
 - **Queen of the Highway** (Panam's chain) unlocks **The Star** ending. **Riders on the Storm** fails if you wander too far or skip time: Saul dies and you lose the whole chain.
 - **Chippin' In** (after Tapeworm) decides **The Sun** and the secret ending through your answers at the grave. Save before it.
 - **Love Rollercoaster** disappears once you finish **Double Life**.
-- **I'll Fly Away** is lost if you abandon Panam in Life During Wartime or don't do it right after Riders on the Storm.
+- **I'll Fly Away** is lost if you abandon Panam in Life During Wartime, and it also expires as soon as you move Panam's chain on (With a Little Help from My Friends): do it right after Riders on the Storm.
 - **Ex-Factor, Pisces, The Hunt, Rebel! Rebel!** and **Epistrophy** have choices that cut their chain.
 - The **point of no return** comes in **Nocturne Op55N1**, when you approach the Embers entrance. Everything above must be done before (or recovered from the earlier save the game offers after the credits).
 
-> **Don't leave without:** going back to the **Municipal Landfill** whenever you like for **Plan B**, Dex's Iconic Liberty: it's on his body any time after Act 1. It spends **€$1 per shot** instead of bullets, holds 20 rounds per magazine and has a higher Bleeding chance. If you miss it, **Herold Lowe** sells it in Phantom Liberty. Also collect the Nomad crate if you earned it, and get paid by Wakako.
+> **Don't leave without:** going back to the **Municipal Landfill** whenever you like for **Plan B**, Dex's Iconic Liberty: it's on his body any time after Act 1. It spends **€$1 per shot** instead of bullets, holds 20 rounds per magazine and has a 10% Bleeding chance. If you miss it, **Herold Lowe** sells it in Phantom Liberty. Also collect the Nomad crate if you earned it, and get paid by Wakako.

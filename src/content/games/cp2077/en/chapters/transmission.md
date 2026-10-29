@@ -28,7 +28,7 @@ pills:
 
 ## Never Fade Away (Johnny, 2013)
 
-You control Johnny Silverhand in one of his memories. It's his version of events: **it isn't faithful to what really happened**, and Alt will tell you so later.
+You control Johnny Silverhand in one of his memories. It's his version of events: per the wiki, **it isn't faithful to what really happened**.
 
 **The gig and the dressing room.**
 
@@ -82,9 +82,9 @@ You return to Rezo Agwe. **Talk to Johnny** about the memory, then to Brigitte. 
 
 The main choice (NetWatch or Voodoo Boys) was already made in **I Walk the Line**. There's only one more here, and only on the Voodoo Boys branch:
 
-- **Leave in peace** → you walk out of the church under Brigitte's protection. Placide, disappointed he couldn't kill you, texts you later to watch your back.
+- **Leave in peace** → you walk out of the church under Brigitte's protection. Placide, disappointed he couldn't kill you, texts you later to watch your back. In **The Damned** (Phantom Liberty) you get a dialogue option that makes the Voodoo Boys guards let you through.
 - **Settle the score (violence)** → you kill the Voodoo Boys in the church. **Generic Voodoo Boys stop spawning on the streets** (except in **Dogtown**), and Phantom Liberty's **The Damned** gets extra dialogue and options. If you leave Placide alive, he messages you over the Net to watch your back.
-- **NetWatch branch: the Placide fight** → mandatory. Brigitte and her netrunners die no matter what.
+- **NetWatch branch: the Placide fight** → mandatory. Brigitte and her netrunners die no matter what. If you then leave Placide alive, he messages you later to threaten you.
 - **What you tell Johnny after leaving the church** → IGN says it "can impact your relationship with him", with no further detail. Johnny affinity doesn't change any ending (see Tapeworm).
 
 ## Boss — Akira

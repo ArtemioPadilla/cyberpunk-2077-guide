@@ -64,12 +64,12 @@ Songbird guides you to the entrance of the **old parking garage** under the **EB
 
 Before riding down the garage elevator you can **scan a map** of the Stadium Parking: it marks three sectors (**3A, 3B and 6B**) and has a drawing of an insect. Each sector hides a cache of smuggled goods, and there's a fourth in sector 1A. **There's no way back to this area** once you leave, so grab them all now:
 
-- **Sector 1A:** a derelict Villefort Alvarado holds a **Perk Shard** in its trunk. It's right after you ride down the elevator (probably meant to be the map's "3A").
+- **Sector 1A:** a derelict Villefort Alvarado holds a **Perk Shard** in its trunk. The map doesn't mark this sector; according to the wiki, it was likely meant to be "3A".
 - **Sector 3A:** next to a wrecked blue Villefort Columbus there's a makeshift wound dressing kit and minor gear.
 - **Sector 3B:** inside a wrecked Villefort Columbus, with signs of a firefight, there's a unique **BARGHEST helmet** and a shard with an archived conversation (Foz Dawkins and Dylan Rea).
 - **Sector 6B:** inside a **locked** Villefort Columbus there's a **Cyberware Capacity Shard**. Its quality depends on your level: it's **Tier IV from level 25**.
 
-The Cyberware Capacity Shard is the one that matters most: it raises your cyberware capacity permanently and is one of the few Phantom Liberty adds.
+The Cyberware Capacity Shard is the one that matters most: it raises your cyberware capacity permanently.
 
 ## Black market, construction site and chute
 

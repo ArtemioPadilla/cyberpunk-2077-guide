@@ -68,11 +68,11 @@ En su computadora hay un mensaje que sugiere que la banda tuvo un conflicto con 
 5. **Llévala en brazos a la terraza.**
 6. **Espera a Trauma Team junto a la puerta de la terraza.** **Si te quedas demasiado cerca, el AV no aterriza:** retrocede hasta la puerta.
 7. **Pon a Sandra en la camilla** y espera a que Trauma Team se la lleve.
-8. **Habla con Jackie**, **toma el otro ascensor** y **llama a Wakako** para confirmar el trabajo.
+8. **Habla con Jackie**, **toma el otro ascensor** y **llama a Wakako** para confirmar el trabajo. La bajada en ascensor adelanta la hora hasta las 10 de la noche.
 
 ## El regreso: la furgoneta de los Scavengers
 
-1. **Súbete al asiento del copiloto** y **viaja con Jackie.** El ascensor adelanta la hora hasta las 10 de la noche.
+1. **Súbete al asiento del copiloto** y **viaja con Jackie.**
 2. **Derrota a los Scavengers** de la furgoneta que os ataca. Son **cuatro**: dos disparan desde las **puertas traseras**, uno abre después la **puerta lateral** y el cuarto es el **conductor**. **Dispara al conductor** para acabar rápido. Aunque no los mates a todos, la furgoneta termina estrellándose y mueren igual.
 3. Jackie convence a la NCPD en un control a la entrada de Watson y, poco después, veis a un equipo de **MaxTac** acabar con unos pandilleros.
 4. **Bájate del coche** cuando Jackie te deje en el Megabuilding H10.

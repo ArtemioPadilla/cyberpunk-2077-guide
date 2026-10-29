@@ -14,7 +14,7 @@ pills:
 
 La cadena de **Delamain**, la IA que dirige la compañía de taxis autónomos, tiene cuatro misiones: **Human Nature**, **Tune Up**, **Epistrophy** y **Don't Lose Your Mind**. Empieza al abrir el Acto 2, durante **Playing for Time**, cuando te recuperas en tu apartamento tras **The Heist**: un taxi Delamain «divergente» embiste tu **Archer Hella** en el estacionamiento del **Megabuilding H10**. Es una cadena relajada, repartida por todo el mapa, que se puede hacer en paralelo al Acto 2.
 
-> **Para el final:** Delamain **no abre ni cierra ningún final** y no tiene romance. La única decisión que pesa es la del **núcleo** en Don't Lose Your Mind (qué taxi te queda y qué opina Johnny). Si empezaste con el salto directo a Phantom Liberty, esta cadena ya viene completada con el núcleo **reiniciado**.
+> **Para el final:** Delamain **no abre ni cierra ningún final** y no tiene romance. La única decisión que pesa es la del **núcleo** en Don't Lose Your Mind: qué taxi te queda, qué opina Johnny y, según la wiki, si es Delamain quien pilota tu AV en el epílogo de The Sun. Si empezaste con el salto directo a Phantom Liberty, esta cadena ya viene completada con el núcleo **reiniciado**.
 
 > **Orden:** **Human Nature:** estacionamiento del H10 → choque → hablar con Johnny → mensaje de Delamain → **Tune Up:** sede de Delamain (Vista del Rey) → recepcionista → €$4.900 → **Epistrophy:** seguir al dron por la fábrica → escáner → 7 taxis (Wellsprings, North Oak, Coastview, Rancho Coronado, Northside, Badlands, The Glen) → devolver el escáner → €$4.900 → **Don't Lose Your Mind:** atasco en Corpo Plaza o llamada a las 48 h → entrar por la puerta lateral o la trampilla → terminal (1234) → taller con drones → sala de control → núcleo.
 

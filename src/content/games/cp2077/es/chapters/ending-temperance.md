@@ -15,7 +15,7 @@ pills:
     }
   - {
       type: save,
-      label: 'Carga el guardado de tras Smasher para hacer el otro final',
+      label: 'Carga el guardado posterior a Smasher para hacer el otro final',
     }
   - {
       type: shop,

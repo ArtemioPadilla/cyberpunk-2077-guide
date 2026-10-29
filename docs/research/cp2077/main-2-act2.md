@@ -1011,3 +1011,24 @@ Read through `https://cyberpunk.fandom.com/api.php?action=parse&page=<Page>&prop
 - `[F:Plan B]`: magazine 20, headshot multiplier 200%, 10% Bleeding chance; €$1 per shot.
 - `[F:Search and Destroy]`: Gillean Jordan (N54 News) can be met at Redwood Market recording a piece on the parade attack.
 - Spanish wiki (`https://cyberpunk.fandom.com/es/api.php`): no Act 2 quest pages exist, so no Latin-American quest names could be verified.
+
+## 17. Act 2 page review (Fandom API, 2026-10-29)
+
+Read through `https://cyberpunk.fandom.com/api.php?action=parse&page=<Page>&prop=wikitext&format=json&redirects=1`:
+
+- `[F:Disasterpiece]` objectives: the XBD search has **two** branches, not three. Net: terminal → Pleasures of NC domain → underground twin → dealer on the net. Wakako: call or visit Wakako → ask about the Death's-head moth XBDs → visit the sex shop on Jig-Jig Street. Both end at "Find the XBD dealer on Jig-Jig Street". (Corrects §1.3 step 1.)
+- `[F:Bryce_Mosley]`: if V knocks Mosley out and jacks in, the NetWatch purge kills Mosley; V survives thanks to the Relic. Mosley's deal also frees Brigitte and Ti. So the Sasquatch-page branch "Mosley died" = the Voodoo Boys branch.
+- `[F:Placide]`: on the NetWatch branch, if V spares Placide after the church fight he later messages V with a threat; on the Voodoo Boys branch he messages V to watch their back after either the peaceful exit or a violent exit that spares him.
+- `[F:The_Damned]` note: having sided with and spared Placide and Brigitte in the base-game Voodoo Boys line gives a dialogue option that lets V past the Voodoo Boys guards peacefully.
+- `[F:Search_and_Destroy]` note: Gillean Jordan is met "while still at the Redwood Market", i.e. at the start, right after the parade.
+- `[F:Hotel_Pistis_Sophia]`: Robert John Linder deserted the US Army in 2003, rented a room here, adopted the Johnny Silverhand persona and hid his dog tags in the room.
+- `[F:Oswald_Forrest]`: Woodman sold Evelyn to the ripperdoc Fingers (Finn Gerstatt), not to the Scavengers; the rape is revealed in Both Sides, Now.
+- `[F:Plan_B]` (see §16): 10% Bleeding chance.
+
+## 17. Additions from the side-chain review (Fandom API, 2026-10-29)
+
+- `[F:Riders on the Storm]` / `[F:Overwatch]`: Panam promises Mitch's Overwatch at the start and **Panam** hands it to V in the morning (not Mitch). https://cyberpunk.fandom.com/api.php?action=parse&page=Overwatch&prop=wikitext&format=json
+- `[F:Off the Leash (quest)]`: if Kerry forced Us Cracks, they renege and seek a **restraining order** against Kerry; the club is empty because Kerry closed it.
+- `[F:Ex-Factor]`: note confirms that if V killed Woodman in Automatic Love, "Maiko will be more hostile towards V".
+- `[F:Doom Doom]`, `[F:Problem Solver]`, `[F:Widow Maker]`, `[F:Tinker Bell]`, `[F:Death and Taxes]`, `[F:Tsumetogi]`, `[F:La Chingona Dorada]`: each can be bought from Herold Lowe (EBM Petrochem Stadium, PL) if not looted.
+- `[F:Heroes]`: if Bring Me the Head of Gustavo Orta is done first, two Valentinos speak instead of Gustavo Orta.

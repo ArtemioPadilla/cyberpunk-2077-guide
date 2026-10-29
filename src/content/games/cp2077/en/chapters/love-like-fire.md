@@ -45,7 +45,7 @@ pills:
 3. **Connect to the Access Point** and **wait for the virus to upload**, guided by Spider.
 4. **Return to the rooftop** and **get to the chopper**.
 
-What follows is a cutscene: Adam Smasher ambushes Johnny, there is a gap in his memories, and Johnny makes it back to the roof just as the helicopter lifts off. After he goes down, Johnny wakes up in an Arasaka interrogation (see **Choices**), which **Saburo Arasaka** joins.
+What follows is a cutscene: Adam Smasher ambushes Johnny, there is a gap in his memories, and Johnny makes it back to the roof just as the helicopter lifts off. An explosion leaves him behind, Smasher shoots him, and Johnny wakes up in an Arasaka interrogation (see **Choices**), which **Saburo Arasaka** joins.
 
 ## Choices
 

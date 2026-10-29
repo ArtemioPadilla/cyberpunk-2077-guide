@@ -79,7 +79,7 @@ Tras la entrevista llega Songbird y te lleva hasta la **matriz neural**. **Habla
 
 - **The Killing Moon** (PL 11), el escape con Songbird por el NCX. Al final, en el andén, eliges:
   - **Matar a Reed** → **Unfinished Sympathy** y **From Her to Eternity** (PL 12): final **King of Wands**.
-  - **Entregarle Songbird a Reed** → **Through Pain to Heaven** (PL 13) y después **Who Wants to Live Forever** (PL 17): final **King of Swords**, con The Tower posible.
+  - **Entregarle Songbird a Reed** (o llamarlo desde el tren) → **Through Pain to Heaven** (PL 13) y después **Who Wants to Live Forever** (PL 17): final **King of Swords**, con The Tower posible.
 
 ## Ruta B — Ayudar a Reed a capturar a Songbird
 
@@ -90,7 +90,7 @@ Tras la entrevista llega Songbird y te lleva hasta la **matriz neural**. **Habla
 3. En la entrada del mercado te emboscan **Hansen y varios soldados de BARGHEST**: **jefe Kurt Hansen** (ver abajo). Al terminar, **registra a Hansen**: **Bald Eagle**, **Fang** y **Wild Dog**, más un fragmento de seguridad del estadio.
 4. Toma el ascensor al garaje, reúnete con Reed, sube al coche y habla con él. Ves cómo **MaxTac captura a Songbird**. Empieza **Black Steel In The Hour of Chaos**.
 
-**Si Hansen no muere a tus manos:** si lo **perdonas**, Mr. Hands te avisa luego de que alguien lo asesinó en el hospital. Si **logras escabullirte del estadio sin que te vean** y te saltas la pelea, Mr. Hands te cuenta más tarde que Hansen «se comió una bala perdida». En ambos casos te quedas sin su botín.
+**Si Hansen no muere a tus manos:** si lo **perdonas**, Mr. Hands te avisa luego de que alguien lo asesinó en el hospital. Si **logras escabullirte del estadio sin que te vean** y te saltas la pelea, Mr. Hands te cuenta más tarde que Hansen «se comió una bala perdida». Si te escabulles, te quedas sin su botín.
 
 **Lo que conservas:** Bald Eagle, Wild Dog y **Fang**; la línea de Reed completa (convoy de MaxTac, Cynosure, Crowbar, especificaciones de Erebus y Canto, This Corrosion, MaxTac Mantis Blades si mandas las coordenadas a Mr. Hands, NUSA distinction si perdonas a Songbird).
 
@@ -106,11 +106,11 @@ Tras la entrevista llega Songbird y te lleva hasta la **matriz neural**. **Habla
 ## Los cuatro finales de un vistazo
 
 - **King of Wands** («llevar a Songbird a las estrellas»): ruta de Songbird y **matas a Reed** en The Killing Moon. Mueren Hansen, Reed, Murphy (si lo matas), personal y civiles del NCX y comandos de la NUSA. Botín: Bald Eagle, Wild Dog, Murphy's Law, **Pariah**, la postal, **Quantum Tuner** y **Metal pin**. **Sin cura ni The Tower.**
-- **King of Swords** («llevar a Songbird a casa»): ruta de Songbird y **le entregas Songbird a Reed**. Mueren Hansen, Murphy (si lo matas) y víctimas del NCX. Botín: Bald Eagle, Wild Dog, Murphy's Law y la **matriz neural (la cura)**. **The Tower disponible.**
+- **King of Swords** («llevar a Songbird a casa»): ruta de Songbird y **le entregas Songbird a Reed**. Mueren Hansen, Murphy (si lo matas), víctimas del NCX y comandos de la NUSA. Botín: Bald Eagle, Wild Dog, Murphy's Law y la **matriz neural (la cura)**. **The Tower disponible.**
 - **King of Cups** («cumplir la petición de Songbird»): ruta de Reed y **matas a Songbird** en Somewhat Damaged. Mueren Alex, Hansen, algunos agentes de la NCPD y una unidad de MaxTac, y **Song So Mi**. Botín: Bald Eagle, Wild Dog, Fang, Crowbar, especificaciones de Erebus y Canto, componente del Cerberus, MaxTac Mantis Blades (si te corresponden). **Sin cura ni The Tower.**
 - **King of Pentacles** («rechazar la petición de Songbird»): ruta de Reed y **perdonas a Songbird**. Mueren Alex, Hansen y los mismos de la NCPD y MaxTac. Botín: lo mismo que Cups, más la **NUSA distinction** y la **matriz neural**. **The Tower disponible.**
 
-Cada final da su **logro** (King of Wands, Swords, Cups y Pentacles). **The Tower** es un final más del juego base: solo se abre tras **Swords** o **Pentacles**, aceptando la oferta de Reed (en Who Wants to Live Forever o con la llamada a Reed desde la azotea de Nocturne Op55N1).
+Cada final da su **logro** (King of Wands, Swords, Cups y Pentacles). **The Tower** es un final más del juego base: solo se abre tras **Swords** o **Pentacles**, aceptando la oferta de Reed (en Who Wants to Live Forever o con la llamada a Reed desde la azotea de Nocturne Op55N1). Las fuentes no coinciden en si ciertas frases la cierran: para ir sobre seguro, elige «you'll help me live on» en The Killing Moon y «What about the help I was promised» en Leave in Silence.
 
 ## Jefe — Kurt Hansen (solo ruta de Reed)
 
@@ -132,7 +132,7 @@ Cada final da su **logro** (King of Wands, Swords, Cups y Pentacles). **The Towe
 - **Respuestas de la entrevista** → dos fallos = game over. Una respuesta falsa se puede rescatar con un buen seguimiento o 20 de Temple.
 - **Ayudar a Songbird a escapar** → Alex mata a Hansen y vive; Murphy aparece; sigues a **The Killing Moon**. Pierdes toda la línea de Reed (Cynosure, Cerberus, Crowbar, Erebus, Canto, This Corrosion, MaxTac Mantis Blades, NUSA distinction, Fang). Finales posibles: **King of Wands** o **King of Swords** (Tower). **Permanente.**
 - **Ayudar a Reed a capturar a Songbird** → Hansen mata a Alex; jefe Hansen; sigues a **Black Steel In The Hour of Chaos**. Pierdes la línea de Songbird (NCX, Pariah, Murphy's Law, Quantum Tuner, Metal pin, postal). Finales posibles: **King of Cups** o **King of Pentacles** (Tower). **Permanente.**
-- **Perdonar a Hansen o escabullirte** (ruta de Reed) → Hansen muere igual después, y te quedas sin su botín.
+- **Perdonar a Hansen o escabullirte** (ruta de Reed) → Hansen muere igual después. Si te escabulles, te saltas la pelea y su botín.
 - **Olvidar tu equipo en la taquilla** → **Dirty Second Hands**: pagas €$20,000 a Mr. Hands para recuperarlo.
 
 > **No te vayas sin:** las armas de Hansen (**Bald Eagle**, **Wild Dog** y, en la ruta de Reed, **Fang**), **Murphy's Law** si vas con Songbird, y **tu equipo de la taquilla**. Y conserva la partida de antes de la decisión.

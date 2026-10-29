@@ -7,7 +7,7 @@ summary: 'En la azotea de Misty V tira las pastillas y decide acabar con todo; n
 pills:
   - { type: info, label: 'Siempre disponible en la azotea' }
   - { type: save, label: 'Guarda antes de sentarte junto a Misty' }
-  - { type: missable, label: 'Sin recompensas ni logro' }
+  - { type: info, label: 'Sin recompensas ni logro' }
 ---
 
 El **final del suicidio**, al que la wiki y Game8 llaman **Path of Least Resistance** («la salida fácil»). No es una misión: es una opción de diálogo en la azotea de [Nocturne Op55N1](../nocturne-op55n1/), **siempre disponible**, que termina la partida en unos minutos. V renuncia a pedir ayuda a nadie para no arrastrar a más gente a la muerte, tira las pastillas y se pega un tiro. Está aquí para que sepas qué opción evitar si no lo buscas, y qué esperar si lo haces a propósito.

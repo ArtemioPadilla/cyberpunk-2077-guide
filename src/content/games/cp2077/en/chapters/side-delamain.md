@@ -14,7 +14,7 @@ pills:
 
 The chain of **Delamain**, the AI that runs the self-driving cab company, has four jobs: **Human Nature**, **Tune Up**, **Epistrophy** and **Don't Lose Your Mind**. It starts as Act 2 opens, during **Playing for Time**, while you recover in your apartment after **The Heist**: a "divergent" Delamain cab rams your **Archer Hella** in the **Megabuilding H10** parking lot. It is a relaxed chain, spread across the whole map, that you can do alongside Act 2.
 
-> **For the ending:** Delamain **opens and closes no ending** and has no romance. The only choice that matters is the **core** in Don't Lose Your Mind (which cab you keep and what Johnny thinks). If you started with the skip to Phantom Liberty, this chain comes already completed with the core **reset**.
+> **For the ending:** Delamain **opens and closes no ending** and has no romance. The only choice that matters is the **core** in Don't Lose Your Mind: which cab you keep, what Johnny thinks and, per the wiki, whether Delamain flies your AV in The Sun epilogue. If you started with the skip to Phantom Liberty, this chain comes already completed with the core **reset**.
 
 > **Order:** **Human Nature:** H10 parking lot → crash → talk to Johnny → Delamain's message → **Tune Up:** Delamain HQ (Vista del Rey) → receptionist → €$4,900 → **Epistrophy:** follow the drone through the factory → scanner → 7 cabs (Wellsprings, North Oak, Coastview, Rancho Coronado, Northside, Badlands, the Glen) → return the scanner → €$4,900 → **Don't Lose Your Mind:** Corpo Plaza traffic jam or a call after 48 h → in through the side door or the roof hatch → terminal (1234) → workshop with drones → control room → core.
 

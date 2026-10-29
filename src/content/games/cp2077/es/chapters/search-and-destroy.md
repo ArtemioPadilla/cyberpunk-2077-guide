@@ -19,7 +19,7 @@ La da **Takemura** justo después de escapar del desfile. Se ha llevado a **Hana
 
 ## Llegada: el apartamento 303
 
-En el **Redwood Market** puedes encontrarte a **Gillean Jordan**, de N54 News, grabando una pieza sobre el ataque al desfile (opcional).
+Antes de irte del **Redwood Market**, donde terminó el desfile, puedes encontrarte a **Gillean Jordan**, de N54 News, grabando una pieza sobre el ataque (opcional).
 
 Ve al refugio de Vine Street y sube al **apartamento 303**, en el tercer piso. **Llama exactamente cuatro veces.** La puerta tiene explosivos: si llamas **una o tres veces, explota y V muere**.
 

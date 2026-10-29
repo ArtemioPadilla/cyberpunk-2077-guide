@@ -19,13 +19,13 @@ pills:
 
 > **Order:** Who Wants to Live Forever: wait a day for Reed's call → accept → Misty's Esoterica rooftop → sit down → talk to Johnny → text your friends (optional) → wait for the FIA → get in the AV → Things Done Changed: wake at the Edward Kernaghan Military Medical Center → talk to Reed → call your friends → leave the clinic → Delamain cab → Viktor's clinic → the back-alley thugs → Misty.
 
-> **Get ready:** **make a manual save before accepting.** This ending works as **a second point of no return**: once you accept the offer, V's story ends. Finish everything you want to do first (gigs, Dogtown jobs, romances, main story). The sources don't say explicitly which save the game returns you to after The Tower credits, so **don't rely on it**: keep your own backup save.
+> **Get ready:** **make a manual save before accepting.** This ending works as **a second point of no return**: once you accept the offer, V's story ends. Finish everything you want to do first (gigs, Dogtown jobs, romances, main story). According to the wiki, finishing Things Done Changed returns you to the "point of no return" state, as with the base-game endings, but it doesn't say exactly which moment that is: **don't rely on it** and keep your own backup save.
 
 ## How it opens
 
 - **Through Who Wants to Live Forever:** about **a day** after Through Pain to Heaven (King of Swords) or Four Score and Seven (King of Pentacles), Reed **calls or texts** you.
 - **From Nocturne Op55N1:** if you reach the base game's finale without having accepted, the rooftop offers the option to **call Reed** alongside the others.
-- **Declining** Reed's offer ends this job and you go back to the main story. On King of Swords, the wiki says the cure is offered **no matter what you say** after surrendering Songbird; game8 warns that The Killing Moon line "Don't want nothin' in return" would close it. That's why the earlier pages recommend asking for help in return.
+- **Declining** Reed's offer ends this job and you go back to the main story. On King of Swords, the wiki says the cure is offered **no matter what you say** after surrendering Songbird; game8 warns that The Killing Moon line "Don't want nothin' in return" would close it. On King of Pentacles, game8 advises picking "What now? What about the help I was promised" when you talk to Reed in Leave in Silence. That's why the earlier pages recommend asking for help in return.
 
 ## Who Wants to Live Forever
 

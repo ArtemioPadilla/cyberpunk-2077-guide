@@ -15,7 +15,7 @@ pills:
 
 **River Ward** es el detective de la NCPD que conoces en **I Fought the Law**, el encargo de **Elizabeth Peralez** que se abre al terminar **Life During Wartime**. De ahí salen dos ramas: la de los **Peralez** (**Dream On**, una conspiración en torno a su campaña) y la de **River** (**The Hunt**, la búsqueda de su sobrino Randy, y **Following the River**, la cena familiar y el romance). The Hunt no depende de Dream On; puedes hacerlas en cualquier orden.
 
-> **Para el final:** River **no abre ni cierra ningún final**. Su romance pide **cuerpo femenino, cualquier voz** (la página de Following the River en Fandom dice «voz y cuerpo femeninos», pero la página de romances y game8 dicen que la voz no importa). Con V femenina puedes tener a la vez a River y a **Judy** sin penalización, pero en la azotea solo llamas a una pareja. River espera a V en **The Sun** y en **The Devil**; The Tower termina el romance. Lo que lo corta todo: **elegir Poppy Farm** en The Hunt, **irte de Edgewood Farm** durante el rescate, o decir **«count me out»** al final de The Hunt.
+> **Para el final:** River **no abre ni cierra ningún final**. Su romance pide **cuerpo femenino, cualquier voz** (la página de Following the River en Fandom dice «voz y cuerpo femeninos», pero la página de romances y game8 dicen que la voz no importa). Con V femenina puedes tener a la vez a River y a **Judy** sin penalización, pero en la azotea solo llamas a una pareja. River espera a V en **The Sun** y en **The Devil** (si V rechaza el contrato y vuelve a la Tierra); The Tower termina el romance. Lo que lo corta todo: **elegir Poppy Farm** en The Hunt, **irte de Edgewood Farm** durante el rescate, o decir **«count me out»** al final de The Hunt.
 
 > **Orden:** **I Fought the Law:** danza cerebral del Ayuntamiento → River en Chubby Buffalo's → Neil White (Max-imum Pleasure) y Christine Markov (Cherry Blossom Market) → Tyger Claws en el coche de River → Red Queen's Race → Han → los Peralez → **Dream On:** apartamento de los Peralez → azotea → persecución de la furgoneta → Elizabeth → Jefferson → **The Hunt:** noticiero → laboratorio de la NCPD → caravana de Joss → tres danzas cerebrales → **Edgewood Farm** → **Following the River:** cena con la familia → torre de agua.
 
@@ -76,7 +76,7 @@ Si ya visitaste **Edgewood Farm**, al escanear el horizonte o las torres V lo re
 **Edgewood Farm.**
 
 1. Hay **minas**, **cuatro torretas** y **cámaras**.
-2. En la casa, el **interruptor bajo el escritorio** abre una **habitación oculta**; su ordenador apaga las torretas y las cámaras. La **Tinker Bell** está cerca (la página del arma en Fandom la sitúa en la «sala de control»; es el mismo sitio o muy cerca).
+2. En la casa, el **interruptor bajo el escritorio** abre una **habitación oculta**; su ordenador apaga las torretas y las cámaras. La **Tinker Bell** está cerca (la página del arma en Fandom la sitúa en la «sala de control» de la granja: búscala en esa zona).
 3. Sube por la **escalera del lado izquierdo del granero** hasta la abertura del techo y **apaga la máquina de danza cerebral**.
 4. Ayuda a las otras víctimas: dos sobreviven.
 5. **No salgas de la zona**: si te vas, **River y Randy mueren**.
@@ -100,11 +100,11 @@ Después, Joss te escribe con una foto de la familia en el hospital con Randy.
 - **I Fought the Law — Tyger Claws en el coche** → callar o «saltar» los aleja sin pelea; River aprecia lo no letal o silencioso.
 - **I Fought the Law — contarles o no a los Peralez** → te pagan igual; Johnny prefiere que calles.
 - **Dream On — perder la furgoneta** → la misión termina antes y cobras menos.
-- **Dream On — contarle la verdad a Jefferson** → sigue el juego a quienes lo manipulan mientras intenta exponerlos. **Mentir (culpar a Holt)** → se centra en ganar primero.
+- **Dream On — contarle la verdad a Jefferson** → sigue el juego a quienes lo manipulan mientras intenta exponerlos. **Mentir (culpar a Holt)** → se centra en ganar primero. Esta decisión también cambia la llamada de Peralez en los créditos: paranoico con su mujer si le contaste la verdad, pidiéndote un trabajo si se la ocultaste.
 - **The Hunt — Poppy Farm** → Randy muere, River va solo a por Harris y termina en la cárcel; **Following the River cerrada, sin romance. Permanente.**
 - **The Hunt — irte de Edgewood Farm** → **River y Randy mueren. Permanente.**
 - **The Hunt — «count me out»** → pierdes el romance.
-- **Following the River — romance o amistad** (V femenina) → con romance, River te espera en The Sun y The Devil y te da su camiseta de tirantes; en los dos casos, la **casa de los Kutcher** queda como apartamento.
+- **Following the River — romance o amistad** (V femenina) → con romance, River te espera en The Sun y en The Devil (si vuelves a la Tierra) y te da su camiseta de tirantes; en los dos casos, la **casa de los Kutcher** queda como apartamento.
 
 > **No te vayas sin:** la **Tinker Bell** de Edgewood Farm (junto a la habitación oculta; si se te pasa, Herold Lowe la vende en Phantom Liberty), apagar la máquina del granero, ayudar a las víctimas y, en Following the River, **Crash** en la torre de agua.
 

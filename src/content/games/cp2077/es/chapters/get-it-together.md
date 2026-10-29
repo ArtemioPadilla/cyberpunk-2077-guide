@@ -8,7 +8,7 @@ pills:
   - { type: info, label: 'Requiere al menos 3 encargos de Mr. Hands' }
   - { type: info, label: 'Código de la terminal de Heavy Hearts: 2589' }
   - { type: collectible, label: 'Her Majesty (pistola icónica de Alex)' }
-  - { type: shop, label: 'Mr. Hands: se abren los encargos de nivel 3' }
+  - { type: info, label: 'Mr. Hands: se abren los encargos de nivel 3' }
 ---
 
 **Get It Together** es la misión puente hacia el Black Sapphire. Para entrar en el hotel de Kurt Hansen hacen falta sus planos, y quien los tiene es el fixer de Dogtown, **Mr. Hands**. Primero tienes que ganarte su confianza haciendo encargos; después te recibe en su club, **Heavy Hearts**, te habla de su plan contra Hansen y del origen de Dogtown, y te entrega los planos. La misión termina en el refugio de Alex, bajo **The Moth**, donde Reed y Alex te explican cómo van a entrar.

@@ -32,7 +32,7 @@ Judy te pide ir a su apartamento (calle Charter, Northside) cuanto antes.
 2. **Carga el cuerpo de Evelyn** hasta el dormitorio y deja a Judy a solas con ella.
 3. **Habla con Judy en la azotea.** Le das un cigarro de la **pitillera de Evelyn** y Judy te deja quedártela.
 
-Judy te cuenta lo que descubrió: **Woodman** (Oswald Forrest, el encargado de Clouds) retuvo a Evelyn tres días y luego la vendió a los **Scavengers**. Judy necesita pensar y promete llamarte. Al día siguiente te escribe que enterró a Evelyn en el **Columbario**.
+Judy te cuenta lo que descubrió: **Woodman** (Oswald Forrest, el encargado de Clouds) retuvo a Evelyn tres días, la dejó con el matasanos **Fingers** como pago y Fingers la vendió a los **Scavengers**. Judy necesita pensar y promete llamarte. Al día siguiente te escribe que enterró a Evelyn en el **Columbario**.
 
 ## Ex-Factor
 

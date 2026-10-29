@@ -76,7 +76,7 @@ After the interview Songbird arrives and leads you to the **neural matrix**. **T
 
 - **The Killing Moon** (PL 11), the escape with Songbird through NCX. At the end, on the platform, you choose:
   - **Kill Reed** → **Unfinished Sympathy** and **From Her to Eternity** (PL 12): the **King of Wands** ending.
-  - **Hand Songbird over to Reed** → **Through Pain to Heaven** (PL 13) and then **Who Wants to Live Forever** (PL 17): the **King of Swords** ending, with The Tower possible.
+  - **Hand Songbird over to Reed** (or call him from the train) → **Through Pain to Heaven** (PL 13) and then **Who Wants to Live Forever** (PL 17): the **King of Swords** ending, with The Tower possible.
 
 ## Path B — Help Reed capture Songbird
 
@@ -87,7 +87,7 @@ After the interview Songbird arrives and leads you to the **neural matrix**. **T
 3. At the market entrance **Hansen and several BARGHEST soldiers** ambush you: **Kurt Hansen boss** (see below). Afterwards, **search Hansen**: **Bald Eagle**, **Fang** and **Wild Dog**, plus a stadium security shard.
 4. Take the elevator to the garage, meet Reed, get in the car and talk to him. You watch **MaxTac capture Songbird**. **Black Steel In The Hour of Chaos** begins.
 
-**If Hansen doesn't die by your hand:** if you **spare** him, Mr. Hands later tells you someone assassinated him in the hospital. If you **slip out of the stadium unnoticed** and skip the fight, Mr. Hands later tells you Hansen "caught the proverbial stray bullet". Either way you miss his loot.
+**If Hansen doesn't die by your hand:** if you **spare** him, Mr. Hands later tells you someone assassinated him in the hospital. If you **slip out of the stadium unnoticed** and skip the fight, Mr. Hands later tells you Hansen "caught the proverbial stray bullet". If you slip away, you miss his loot.
 
 **What you keep:** Bald Eagle, Wild Dog and **Fang**; Reed's whole line (MaxTac convoy, Cynosure, Crowbar, Erebus and Canto specs, This Corrosion, MaxTac Mantis Blades if you send Mr. Hands the coordinates, NUSA distinction if you spare Songbird).
 
@@ -103,11 +103,11 @@ After the interview Songbird arrives and leads you to the **neural matrix**. **T
 ## The four endings at a glance
 
 - **King of Wands** ("take Songbird to the stars"): Songbird path and you **kill Reed** in The Killing Moon. Hansen, Reed, Murphy (if you kill him), NCX staff and civilians and NUSA black ops die. Loot: Bald Eagle, Wild Dog, Murphy's Law, **Pariah**, the postcard, **Quantum Tuner** and **Metal pin**. **No cure and no Tower.**
-- **King of Swords** ("take Songbird home"): Songbird path and you **hand Songbird to Reed**. Hansen, Murphy (if you kill him) and NCX casualties die. Loot: Bald Eagle, Wild Dog, Murphy's Law and the **neural matrix (the cure)**. **The Tower available.**
+- **King of Swords** ("take Songbird home"): Songbird path and you **hand Songbird to Reed**. Hansen, Murphy (if you kill him), NCX casualties and NUSA black ops die. Loot: Bald Eagle, Wild Dog, Murphy's Law and the **neural matrix (the cure)**. **The Tower available.**
 - **King of Cups** ("fulfill Songbird's request"): Reed path and you **kill Songbird** in Somewhat Damaged. Alex, Hansen, a few NCPD officers and one MaxTac unit, and **Song So Mi** die. Loot: Bald Eagle, Wild Dog, Fang, Crowbar, Erebus and Canto specs, the Cerberus component, MaxTac Mantis Blades (if you qualify). **No cure and no Tower.**
 - **King of Pentacles** ("refuse Songbird's request"): Reed path and you **spare Songbird**. Alex, Hansen and the same NCPD and MaxTac die. Loot: the same as Cups, plus the **NUSA distinction** and the **neural matrix**. **The Tower available.**
 
-Each ending gives its **achievement** (King of Wands, Swords, Cups and Pentacles). **The Tower** is an extra ending of the base game: it only opens after **Swords** or **Pentacles**, by accepting Reed's offer (in Who Wants to Live Forever or with the call to Reed from the Nocturne Op55N1 rooftop).
+Each ending gives its **achievement** (King of Wands, Swords, Cups and Pentacles). **The Tower** is an extra ending of the base game: it only opens after **Swords** or **Pentacles**, by accepting Reed's offer (in Who Wants to Live Forever or with the call to Reed from the Nocturne Op55N1 rooftop). Sources disagree on whether certain lines close it: to be safe, pick "you'll help me live on" in The Killing Moon and "What about the help I was promised" in Leave in Silence.
 
 ## Boss — Kurt Hansen (Reed path only)
 
@@ -129,7 +129,7 @@ Each ending gives its **achievement** (King of Wands, Swords, Cups and Pentacles
 - **Interview answers** → two mistakes = game over. A wrong answer can be rescued with a good follow-up or 20 Cool.
 - **Help Songbird escape** → Alex kills Hansen and lives; Murphy shows up; you go on to **The Killing Moon**. You lose Reed's whole line (Cynosure, Cerberus, Crowbar, Erebus, Canto, This Corrosion, MaxTac Mantis Blades, NUSA distinction, Fang). Possible endings: **King of Wands** or **King of Swords** (Tower). **Permanent.**
 - **Help Reed capture Songbird** → Hansen kills Alex; Hansen boss; you go on to **Black Steel In The Hour of Chaos**. You lose Songbird's line (NCX, Pariah, Murphy's Law, Quantum Tuner, Metal pin, postcard). Possible endings: **King of Cups** or **King of Pentacles** (Tower). **Permanent.**
-- **Sparing Hansen or slipping away** (Reed path) → Hansen dies later anyway, and you miss his loot.
+- **Sparing Hansen or slipping away** (Reed path) → Hansen dies later anyway. If you slip away, you skip the fight and his loot.
 - **Forgetting your gear in the locker** → **Dirty Second Hands**: you pay Mr. Hands €$20,000 to get it back.
 
 > **Don't leave without:** Hansen's weapons (**Bald Eagle**, **Wild Dog** and, on Reed's path, **Fang**), **Murphy's Law** if you side with Songbird, and **your gear from the locker**. And keep the save from before the choice.

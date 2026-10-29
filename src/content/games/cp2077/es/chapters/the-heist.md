@@ -116,7 +116,7 @@ Empiezas **desarmado**.
 1. **Ve al vestíbulo**:
    - **En sigilo:** **pégate a la pared izquierda** hasta el ascensor del garaje (PowerPyx).
    - **A tiros:** cuatro guardias y luego **cae un mecha de Arasaka**. Usa granadas y apunta a las extremidades ya dañadas, o **corre directo al ascensor**.
-2. **Toma el ascensor del garaje** y **corre al Delamain**; está bajo fuego, ignora a los enemigos y **súbete**.
+2. **Guarda a mano** si no estás en combate: la decisión del cuerpo de Jackie llega justo después de la persecución. **Toma el ascensor del garaje** y **corre al Delamain**; está bajo fuego, ignora a los enemigos y **súbete**.
 3. **Quítate de encima los drones:** **un Octant y dos Griffin**, enviados con Adam Smasher. **Derriba primero los pequeños** (unos dos disparos cada uno) y luego el grande.
 4. **Habla con Jackie** y **escapa.**
 
@@ -140,7 +140,7 @@ Jackie no sobrevive. Antes de morir te da el Relic. El **Delamain** te pregunta 
 - **«Something I gotta take care of first» o «Let's go»** → lo primero te deja salir antes del punto de no retorno. **Al subir al Delamain ya no hay vuelta atrás hasta el Acto 2.**
 - **Recepción:** callar (T-Bug te cubre) o, si eres Corpo, intimidar → mismo resultado.
 - **Ir al bar** → solo diálogo; Jackie sube solo.
-- **Desvío al AV** → la **Satori**; si no vas, la pierdes en esta partida.
+- **Desvío al AV** → la **Satori**; si no vas, solo podrás comprarla más tarde a Herold Lowe (Phantom Liberty).
 - **El cuerpo de Jackie — con su familia o «espérame aquí»:** según la wiki, el cuerpo llega a **Mama Welles** y se abre la versión completa de **Heroes** (Acto 2): la ofrenda en El Coyote Cojo, la **llave del alijo de Jackie** (abre el **garaje de Jackie**, en The Glen, cerca de El Coyote Cojo), Misty, la moto **Jackie's ARCH**, las pistolas **La Chingona Dorada** (se saquean del altar de la ofrenda **24 horas después** de salir de El Coyote Cojo; la 2.5 cambió su modificador icónico a probabilidad de crítico) y los pósteres de Jackie como recuerdo si los escaneas. IGN coincide en que «espérame aquí» da la versión completa. Las fuentes no coinciden del todo: game8 dice que dejarlo en el coche te hace perder Heroes y la ARCH; la wiki e IGN pesan más. **La opción más segura es «Take him home, to his family».**
 - **El cuerpo de Jackie — a la clínica de Viktor:** versión corta de **Heroes**: Mama Welles te manda la llave de la ARCH a tu apartamento. Arasaka se lleva el cuerpo y crea un engrama de Jackie (Secure Your Soul), que aparece en algunos finales (IGN dice Totalimmortal, PowerPyx el final The Devil, la wiki «varios finales»).
 - **Dex en la habitación 204** → nada cambia.

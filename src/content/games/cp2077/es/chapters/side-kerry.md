@@ -21,7 +21,7 @@ pills:
 
 La cadena de **Kerry Eurodyne**, el antiguo guitarrista de Samurai, tiene siete misiones: **Holdin' On**, **Second Conflict**, **A Like Supreme**, **Rebel! Rebel!**, **I Don't Wanna Hear It**, **Off the Leash** y **Boat Drinks**. Siempre llegas a ella a través de Johnny, después de **Chippin' In**: si en la tumba de Northern Oil Fields le diste a Johnny su segunda oportunidad, llega después de **Blistering Love**; si no, Johnny te manda directo con Kerry. Las tres primeras son de Johnny (reunir a Samurai para un último concierto); las cuatro últimas son de Kerry y V, y llevan al romance.
 
-> **Para el final:** Kerry **no abre ni cierra ningún final**. Su romance pide **cuerpo masculino y voz masculina** (el origen y los genitales no importan); con V femenina, Kerry rechaza el beso con amabilidad. Puedes tener a la vez el romance de Kerry y el de **Panam** sin penalización, pero en la azotea de Nocturne Op55N1 solo puedes llamar a una pareja. Kerry espera a V en **The Sun** y en **The Devil**; **The Tower** termina todos los romances salvo un posible reencuentro con Kerry. El único fallo que corta la cadena (y el romance) es **abandonar a Kerry en Rebel! Rebel!**.
+> **Para el final:** Kerry **no abre ni cierra ningún final**. Su romance pide **cuerpo masculino y voz masculina** (el origen y los genitales no importan); con V femenina, Kerry rechaza el beso con amabilidad. Puedes tener a la vez el romance de Kerry y el de **Panam** sin penalización, pero en la azotea de Nocturne Op55N1 solo puedes llamar a una pareja. Kerry espera a V en **The Sun** y en **The Devil** (si V rechaza el contrato y vuelve a la Tierra); **The Tower** termina todos los romances salvo un posible reencuentro con Kerry. El único fallo que corta la cadena (y el romance) es **abandonar a Kerry en Rebel! Rebel!**.
 
 > **Orden:** **Holdin' On:** cartel de North Oak → Villa Eurodyne (pastillas junto a las guitarras) → llamar a Nancy → **Second Conflict:** Totentanz → coche de Nancy → mansión de Denny (Denny o Henry) → **A Like Supreme:** llamada de Nancy → Red Dirt de noche (estuche de guitarra, pastillas, concierto) → **Rebel! Rebel!:** Foodscape de Rancho Coronado (12:30–3:30 AM) → Red Peaks (trampa, furgoneta) → huir de la NCPD → café → **I Don't Wanna Hear It:** Riot, 7 PM → Us Cracks → **Off the Leash:** Dark Matter → azotea → **Boat Drinks:** Gold Beach Marina, 7 PM → yate _Seamurai_.
 
@@ -94,7 +94,7 @@ Dentro, encuentra a Kerry y a Us Cracks. La decisión: **escucharlas** o **oblig
 Kerry te invita al **Dark Matter** de Japantown. El portero del ascensor dice que está «fuera de servicio»: dile que eres invitado de Kerry.
 
 - **Si escuchaste a Us Cracks:** hay un evento promocional en marcha; Kerry y Us Cracks anuncian un sencillo juntos. Kerry te presenta a la prensa como su «mano derecha» y luego a **Spector Cheng**, que te promete un descuento de «amigos y familia».
-- **Si las forzaste:** Us Cracks rompió su promesa y le pone una demanda a Kerry; el club está vacío porque Kerry lo cerró.
+- **Si las forzaste:** Us Cracks rompió su promesa y pide una orden de alejamiento contra Kerry; el club está vacío porque Kerry lo cerró.
 
 Sube con Kerry a la **azotea** y escúchalo: te confiesa que lo que le daba miedo no era venderse a las corporaciones, sino volver a vivir a la sombra de alguien, como con Johnny en Samurai.
 
@@ -124,10 +124,10 @@ Terminarla da el logro **«To Bad Decisions!»** y un objeto de recuerdo, el **t
 - **Second Conflict — Denny o Henry** → solo cambia quién toca y la escena final; Johnny no tiene preferencia.
 - **Rebel! Rebel! — irte sin Kerry o meter el coche al agua** → **Kerry corta el contacto: fin de la cadena y del romance. Permanente.**
 - **Rebel! Rebel! — aceptar el café** → recibes los **€$21.470** enseguida.
-- **I Don't Wanna Hear It — escuchar a Us Cracks** → se hacen amigas de Kerry; foto (selfi con Temple); en Off the Leash hay evento promocional.
-- **I Don't Wanna Hear It — obligarlas a romper el trato** → no hay acuerdo; en Off the Leash demandan a Kerry y el Dark Matter está vacío. El romance sigue disponible.
+- **I Don't Wanna Hear It — escuchar a Us Cracks** → se hacen amigas de Kerry; foto (selfi con Temple); en Off the Leash hay evento promocional. En los créditos, si Kerry no es tu pareja, te cuenta que se va de gira con Us Cracks.
+- **I Don't Wanna Hear It — obligarlas a romper el trato** → no hay acuerdo; en Off the Leash piden una orden de alejamiento contra Kerry y el Dark Matter está vacío. El romance sigue disponible.
 - **Off the Leash — besar a Kerry** (cuerpo y voz masculinos) → empieza el romance; se completa en **Boat Drinks**.
-- **Boat Drinks — ir a casa con Kerry** → cierre de la cadena. Con romance, Kerry te espera en The Sun y The Devil.
+- **Boat Drinks — ir a casa con Kerry** → cierre de la cadena. Con romance, Kerry te espera en The Sun y en The Devil (si vuelves a la Tierra).
 
 > **No te vayas sin:** el **bate bañado en oro** de la piscina de Denny y el **Doom Doom** de Dum Dum (Second Conflict; si se te pasan, Herold Lowe vende el Doom Doom en Phantom Liberty), **Archangel** (A Like Supreme) y el **café con Kerry** al final de Rebel! Rebel!.
 

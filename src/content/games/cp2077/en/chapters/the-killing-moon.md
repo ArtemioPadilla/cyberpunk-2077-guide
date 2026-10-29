@@ -88,7 +88,7 @@ This is where everything is decided. There are two moments.
 - **Killing Reed** → **King of Wands**: Songbird leaves for the Moon; you get the **Pariah**. **No cure and no Tower**; Reed dies. Next page: **Unfinished Sympathy** (with From Her to Eternity).
 - **Handing Songbird to Reed** → **King of Swords**: Songbird goes back to NUSA and Reed gets you the cure. Next page: **Through Pain to Heaven**, then **Who Wants to Live Forever** (The Tower). To be safe, use "you'll help me live on".
 
-> **Don't leave without:** the **930604** suitcase if you take the baggage reclaim route and, if you kill Reed, his **Pariah** pistol (there's no other chance). Both choices are permanent for this save: save before the train.
+> **Don't leave without:** the **930604** suitcase if you take the baggage reclaim route and, if you kill Reed, his **Pariah** pistol (it's missable). Both choices are permanent for this save: save before the train.
 
 ## Rewards
 
