@@ -1,0 +1,68 @@
+---
+/** The Guide page (mechanics, survival) and the Extras page (modes, DLC,
+ * unlocks, endings, secrets): copy cards grouped by section. */
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SectionHead from '@/components/common/SectionHead.astro';
+import GameText from './GameText.astro';
+import { gamePage } from './game-page';
+import { gameEntries } from '@/lib/game-content';
+import { GUIDE_CARD_SECTIONS, EXTRAS_CARD_SECTIONS } from '@/lib/nav';
+import type { GameId } from '@/lib/games';
+import type { Locale } from '@/i18n/ui';
+
+interface Props {
+  locale: Locale;
+  game: GameId;
+  page: 'guide' | 'extras';
+}
+const { locale, game, page } = Astro.props;
+const { t, title } = await gamePage(game, locale);
+const cards = await gameEntries('cards', game, locale);
+const sectionIds = page === 'guide' ? GUIDE_CARD_SECTIONS : EXTRAS_CARD_SECTIONS;
+const sections = sectionIds
+  .map((id) => ({ id, cards: cards.filter((c) => c.data.section === id) }))
+  .filter((s) => s.cards.length > 0);
+const heading = page === 'guide' ? t('nav.guide') : t('nav.extras');
+---
+
+<BaseLayout title={title(heading)} lang={locale}>
+  <main id="main" class="mx-auto max-w-4xl px-5 py-7 md:py-14">
+    <SectionHead level="h1" title={heading} tight />
+    <p class="mb-8 text-sm text-muted-foreground">
+      {page === 'guide' ? t('game.guideNote') : t('game.extrasNote')}
+    </p>
+    {
+      sections.length > 1 && (
+        <nav class="mb-8 flex flex-wrap gap-2">
+          {sections.map((s) => (
+            <a
+              href={`#section-${s.id}`}
+              class="rounded-full border border-border px-3 py-1 font-mono text-xs text-muted-foreground hover:border-primary/60 hover:text-primary"
+            >
+              {t(`game.section.${s.id}`)}
+            </a>
+          ))}
+        </nav>
+      )
+    }
+    {
+      sections.map((s) => (
+        <section id={`section-${s.id}`} class="mb-12">
+          <SectionHead title={t(`game.section.${s.id}`)} />
+          <div class="grid gap-4">
+            {s.cards.map((c) => (
+              <article id={c.data.slug} class="panel p-4">
+                <h3 class="mb-1.5 font-display text-base font-semibold text-foreground">
+                  {c.data.title}
+                </h3>
+                <div class="text-sm text-muted-foreground">
+                  <GameText text={c.data.body} game={game} locale={locale} />
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      ))
+    }
+  </main>
+</BaseLayout>
