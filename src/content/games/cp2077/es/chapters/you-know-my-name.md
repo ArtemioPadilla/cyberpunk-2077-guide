@@ -5,7 +5,7 @@ part: 'pl'
 order: 56
 summary: 'Entra buceando al Black Sapphire, cubre a Reed con el rifle Rasetsu y cuélate en la fiesta de Hansen para escanear a los gemelos Cassel en la ruleta.'
 pills:
-  - { type: collectible, label: 'Tsunami Rasetsu (rifle icónico)' }
+  - { type: collectible, label: 'Tsunami Rasetsu (rifle emblemático)' }
   - {
       type: missable,
       label: 'Amikiri Sound Cutter (Lizzy Wizzy, depende de Violence)',
@@ -43,13 +43,13 @@ pills:
    - **Elimina al guardia**, **ocúpate del francotirador del balcón** y del guardia que bloquea el paso (opcional: localízalo con el CCTV).
    - **Encárgate de los guardias que llegan.**
 4. **Puedes hacerlo sin matar a nadie**, aunque Reed te sugiera disparar. Escanea y dispara o hackea objetos del entorno (cajas, aires acondicionados, transformadores, montacargas) para **distraer o noquear** a los guardias y que Reed pase.
-5. Espera a que Reed cruce y únete a él. Al terminar, V se queda con el rifle: el **Tsunami Rasetsu** icónico.
+5. Espera a que Reed cruce y únete a él. Al terminar, V se queda con el rifle: el **Tsunami Rasetsu** emblemático.
 
 ## La fiesta de Hansen
 
 1. Toma el ascensor con Reed al **último piso**. Sigue a Reed, **toma tu ropa** y **ponte el traje de gala**.
 2. Ve a la fiesta y **reúnete con Reed en la barra** cuando estés listo.
-3. **Disfruta de la fiesta hasta que Songbird contacte contigo.** Hay muchas caras conocidas: Gillean Jordan (N54), Arif Iqbal (WNS), Ziggy Q, Ruth Dzeng, el vicealcalde Weldon Holt, el comisionado Jerry Fawlter de la NCPD, Mr. Hands, Lizzy Wizzy y, según tus decisiones anteriores, gente de los Tyger Claws o Maiko Maeda.
+3. **Disfruta de la fiesta hasta que Songbird se comunique contigo.** Hay muchas caras conocidas: Gillean Jordan (N54), Arif Iqbal (WNS), Ziggy Q, Ruth Dzeng, el vicealcalde Weldon Holt, el comisionado Jerry Fawlter del NCPD, Mr. Hands, Lizzy Wizzy y, según tus decisiones anteriores, gente de los Tyger Claws o Maiko Maeda.
 4. **Lizzy Wizzy:** si la conociste en el motel de **Violence** y no te negaste a deshacerte del cuerpo de Liam, te reconoce. **Elogia su actuación** y te regala su **Amikiri Sound Cutter**. Si te negaste, te ignora.
 5. **Lee el mensaje de Songbird**, acércate a ella y habla. Te cuenta que Hansen tiene la cura y que la trabajará con dos netrunners que están en la fiesta. Luego **toma el fragmento de la copa**. Hansen se la lleva, pero ella recupera la conexión a través del Relic.
 
@@ -63,7 +63,7 @@ pills:
 
 ## La confrontación y la salida
 
-1. Al terminar la ruleta llega **Hansen**: dice saber que V es agente de la NUSA, te amenaza y los echa del hotel. **Supera la confrontación** y habla con Alex.
+1. Al terminar la ruleta llega **Hansen**: dice saber que V es agente de los NN. EE. UU., te amenaza y los echa del hotel. **Supera la confrontación** y habla con Alex.
 2. **Sal del Black Sapphire por el vestíbulo.** Opcional: **cobra tus ganancias**.
 3. Habla con los guardias y síguelos a la salida:
    - **Si sales en paz:** sigue a Reed y habla con él.
@@ -74,15 +74,15 @@ pills:
 - **Escanear las 6 amenazas** → Reed cruza mejor preparado y en sigilo.
 - **Matar o no a los guardias desde el nido** → puedes pasar sin matar usando distracciones; no cambia la historia.
 - **Elogiar a Lizzy Wizzy** (si cumples lo de Violence) → **Amikiri Sound Cutter**. Después otros invitados y el barman comentan el regalo.
-- **Ganar o perder en la ruleta** → no cambia la misión, pero **debes recordarlo** para la entrevista de Firestarter; dos respuestas falsas allí son game over.
+- **Ganar o perder en la ruleta** → no cambia la misión, pero **debes recordarlo** para la entrevista de Firestarter; dos respuestas falsas ahí terminan la partida.
 - **Salir en paz o pelear en el vestíbulo** → si peleas, tienes que perder a tus perseguidores antes de reunirte con Reed.
 
-> **No te vayas sin:** el **Tsunami Rasetsu**, el **Amikiri Sound Cutter** si te corresponde y **cobrar tus fichas**. Recuerda el resultado de la ruleta. Al terminar, Alex manda a tu apartamento una **BD pirata** del show de Lizzy Wizzy, y Mr. Hands te ofrece la misión secundaria **Dazed and Confused**.
+> **No te vayas sin:** el **Tsunami Rasetsu**, el **Amikiri Sound Cutter** si te corresponde y **cobrar tus fichas**. Recuerda el resultado de la ruleta. Al terminar, Alex manda a tu departamento una **neurodanza pirata** (braindance) del show de Lizzy Wizzy, y Mr. Hands te ofrece la misión secundaria **Dazed and Confused**.
 
 ## Recompensas
 
 - Traje de buceo táctico (y su versión rota).
-- **Tsunami Rasetsu** (rifle de francotirador icónico).
+- **Tsunami Rasetsu** (rifle de francotirador emblemático).
 - Traje elegante (stylish suit).
 - **Amikiri Sound Cutter** (depende de Violence).
-- BD pirata del show de Lizzy Wizzy en el Black Sapphire (llega a tu apartamento).
+- Neurodanza pirata del show de Lizzy Wizzy en el Black Sapphire (llega a tu departamento).

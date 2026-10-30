@@ -11,7 +11,7 @@ pills:
   - { type: info, label: 'Fallarla bloquea toda la expansión' }
 ---
 
-**Hole in the Sky** empieza en cuanto saltas por el conducto al final de Dog Eat Dog. El **Space Force One** acaba de caer en Dogtown, cerca del **Golden Pacific**, y **BARGHEST** ya va hacia los restos. Songbird te guía por radio: llega al avión, entra en los restos, encuentra a la presidenta **Rosalind Myers** y aguanta el ataque. Es corta, pero es la misión de Phantom Liberty con el fallo más grave: **si la fallas, pierdes toda la expansión**, incluidas sus misiones secundarias y los encargos de Dogtown.
+**Hole in the Sky** empieza en cuanto te lanzas por el conducto al final de Dog Eat Dog. El **Space Force One** acaba de caer en Dogtown, cerca del **Golden Pacific**, y **BARGHEST** ya va hacia los restos. Songbird te guía por radio: llega al avión, entra en los restos, encuentra a la presidenta **Rosalind Myers** y aguanta el ataque. Es corta, pero es la misión de Phantom Liberty con el fallo más grave: **si la fallas, pierdes toda la expansión**, incluidas sus misiones secundarias y los encargos de Dogtown.
 
 > **Orden:** ir al lugar del accidente (laptop opcional) → la grúa → hablar con Songbird → subir al brazo de la grúa → los restos → entrar en los restos → encontrar a Myers → hablar con Myers → derrotar a los atacantes.
 
@@ -37,7 +37,7 @@ Si oyes a Songbird avisarte, da la vuelta y vuelve a la calle de inmediato. Si l
 ## Dentro del avión
 
 1. **Ve a los restos** y **entra**.
-2. Revisa el interior antes de buscar a la presidenta: en una **maleta** del avión está el **NUSA suit**, un traje que no podrás recoger después.
+2. Revisa el interior antes de buscar a la presidenta: en una **maleta** del avión está el **NUSA suit**, un traje de los NN. EE. UU. que no podrás recoger después.
 3. **Encuentra a Rosalind Myers** y habla con ella.
 
 ## Defender a Myers

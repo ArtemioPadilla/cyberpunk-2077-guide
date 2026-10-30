@@ -6,22 +6,22 @@ order: 53
 summary: 'Lleva a Myers al escondite de Kress Street, decide qué hacer con dos extraños y contacta a Solomon Reed desde el Capitán Caliente.'
 pills:
   - { type: missable, label: 'Active Chimera Core (junto a Myers)' }
-  - { type: missable, label: 'Hawk (rifle icónico de Myers)' }
+  - { type: missable, label: 'Hawk (rifle emblemático de Myers)' }
   - { type: info, label: 'Decisión: matar o pactar con Taylor y Jacob' }
   - { type: info, label: 'Rechazar el trato hace fallar Phantom Liberty' }
   - { type: info, label: 'Teléfono del Capitán Caliente: 0931' }
   - { type: collectible, label: 'Se abren los airdrops de Dogtown' }
 ---
 
-**Lucretia My Reflection** arranca junto al Chimera derrotado. Songbird se ha quedado en silencio y V está solo en Dogtown con la presidenta Myers. Hay que meterla en un escondite, recuperar la energía, decidir qué hacer con dos desconocidos que ya viven ahí y contactar al hombre de confianza de Myers en la ciudad: **Solomon Reed**, agente de la FIA. Al final, el escondite de **Kress Street** pasa a ser un apartamento tuyo y Dogtown se abre: encargos de Mr. Hands, airdrops y la puerta oeste.
+**Lucretia My Reflection** arranca junto al Quimera (Chimera) derrotado. Songbird se ha quedado en silencio y V está solo en Dogtown con la presidenta Myers. Hay que meterla en un escondite, recuperar la energía, decidir qué hacer con dos desconocidos que ya viven ahí y contactar al hombre de confianza de Myers en la ciudad: **Solomon Reed**, agente de la FIA. Al final, el escondite de **Kress Street** pasa a ser un departamento tuyo y Dogtown se abre: encargos de Mr. Hands, airdrops y la puerta oeste.
 
-> **Orden:** hablar con Myers (núcleo del Chimera opcional) → entrada a los túneles del metro → contenedor → túnel derecho (vapor) o izquierdo (túnel de servicio) → ascensor al 8.º piso → escondite → energía (batería del dron) → los extraños: matarlos o pactar → Capitán Caliente → teléfono **0931** → hablar con Reed → cancha de básquetbol → Black Thorton → volver al escondite con Reed → esperar dos días.
+> **Orden:** hablar con Myers (núcleo del Quimera opcional) → entrada a los túneles del metro → contenedor → túnel derecho (vapor) o izquierdo (túnel de servicio) → ascensor al 8.º piso → escondite → energía (batería del dron) → los extraños: matarlos o pactar → Capitán Caliente → teléfono **0931** → hablar con Reed → cancha de básquetbol → Black Thorton → volver al escondite con Reed → esperar dos días.
 
 > **Prepárate:** en los túneles **evita las cámaras** o borra las grabaciones; si no, hay emboscada después. Guarda antes de hablar con Taylor y Jacob. Y **no rechaces el trato con Reed**: esa es la única forma de fallar la misión, y con ella pierdes el resto de Phantom Liberty.
 
-## El núcleo del Chimera y los túneles
+## El núcleo del Quimera y los túneles
 
-1. Habla con Myers. Antes de irte, **toma el núcleo del Chimera** (opcional): está en el suelo junto al robot, donde está Myers; **escanea** si no lo ves. Es el **Active Chimera Core**, ingrediente para fabricar **una** de cuatro modificaciones icónicas de arma: **Firecracker**, **Wallpuncher**, **Hackatomy** o **Severance**. Al fabricar una te queda un núcleo inactivo. También lo puedes exhibir en tu apartamento.
+1. Habla con Myers. Antes de irte, **toma el núcleo del Quimera** (opcional): está en el suelo junto al robot, donde está Myers; **escanea** si no lo ves. Es el **Active Chimera Core**, ingrediente para crear **una** de cuatro modificaciones emblemáticas de arma: **Firecracker**, **Wallpuncher**, **Hackatomy** o **Severance**. Al crear una te queda un núcleo inactivo. También lo puedes exhibir en tu departamento.
 2. **Busca la entrada a los túneles del metro**, **abre el contenedor** y guía a Myers por los túneles.
 3. Sal del contenedor por la **escotilla del techo**, habla con Myers (y con Johnny, opcional) y busca la salida.
 
@@ -61,15 +61,15 @@ En el escondite hay dos personas: **Taylor Gibbs** y **Jacob Long**. Habla con e
 
 ## Lo que se abre al terminar
 
-- **Kress Street Hideout:** el escondite del Rindo Hotel (Elizabeth Kress St., 8.º piso) queda como **apartamento** de V, con cama, baño, armario y **alijo**.
-- **Hawk:** Myers deja atrás su rifle de asalto icónico al marcharse del escondite. Recógelo: es perdible.
+- **Kress Street Hideout:** el escondite del Rindo Hotel (Elizabeth Kress St., 8.º piso) queda como **departamento** de V, con cama, baño, armario y **alijo**.
+- **Hawk:** Myers deja atrás su rifle de asalto emblemático al marcharse del escondite. Recógelo: es perdible.
 - **Mr. Hands:** el fixer de Dogtown te registra para la **puerta oeste** y te regala el **Makigai Tanishi T400**. Se abren sus encargos de nivel 2: Dogtown Saints, Prototype in the Scraper, Treating Symptoms y Waiting for Dodger. Te harán falta **al menos 3 encargos** para Get It Together.
-- **Airdrops:** se desbloquean aquí. El primero está en el **Wild Blue Hotel**, detrás del Akebono, y trae una **Carrying Capacity Shard**. Un AV pasa rugiendo y suelta un contenedor naranja con humo rojo que pita; hackéalo con Breach Protocol y defiéndelo de quien venga a disputarlo. Solo hay uno activo a la vez y desaparece si te vas. **Los airdrops únicos («metaquest») salen una sola vez y su botín se pierde si los dejas pasar.**
+- **Airdrops:** se desbloquean aquí. El primero está en el **Wild Blue Hotel**, detrás del Akebono, y trae una **Carrying Capacity Shard**. Un AV pasa rugiendo y suelta un contenedor naranja con humo rojo que pita; hackéalo con el Protocolo de invasión (Breach Protocol) y defiéndelo de quien venga a disputarlo. Solo hay uno activo a la vez y desaparece si te vas. **Los airdrops únicos («metaquest») salen una sola vez y su botín se pierde si los dejas pasar.**
 - **Mensaje cifrado:** un par de días después llega un mensaje de la «American Animal Defenders' Association» con un bono.
 
 ## Decisiones
 
-- **Tomar el Active Chimera Core** → permite fabricar una modificación icónica de arma. Si no lo tomas, se pierde.
+- **Tomar el Active Chimera Core** → permite crear una modificación emblemática de arma. Si no lo tomas, se pierde.
 - **Túnel derecho o izquierdo** → el derecho tiene el laptop para borrar las cámaras; el izquierdo te ahorra el vapor.
 - **Borrar o no las grabaciones** (si te vieron) → si no las borras: emboscada de BARGHEST de camino al escondite con Reed y en el vestíbulo, y **Taylor y Jacob muertos** si los dejaste quedarse.
 - **Matar a Taylor y Jacob** → salto de tiempo para deshacerse de los cuerpos; Johnny te señala el airdrop.
@@ -81,5 +81,5 @@ En el escondite hay dos personas: **Taylor Gibbs** y **Jacob Long**. Habla con e
 ## Recompensas
 
 - Active Chimera Core y Hawk (perdibles).
-- Kress Street Hideout como apartamento.
+- Kress Street Hideout como departamento.
 - Makigai Tanishi T400 (regalo de Mr. Hands).

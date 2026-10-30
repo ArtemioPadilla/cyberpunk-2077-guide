@@ -37,7 +37,7 @@ import {
   type CollectibleRow,
 } from './game-collectible-types';
 
-type Row = { id: string; name?: string };
+type Row = { id: string; name?: string; original?: string };
 
 interface AliasFile {
   aliases?: { key: string; names: string[]; plural?: 'es' | 's' | 'both' }[];
@@ -116,6 +116,10 @@ export function buildGameDictionary(
         if (!row.name || skip.has(key)) continue;
         claim(row.name, key);
         claim(baseName(row.name), key);
+        if (row.original) {
+          claim(row.original, key);
+          claim(baseName(row.original), key);
+        }
       }
     }
   }

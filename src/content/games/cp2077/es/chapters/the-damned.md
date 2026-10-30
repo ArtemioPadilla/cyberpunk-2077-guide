@@ -9,7 +9,7 @@ pills:
   - { type: info, label: 'Código de la puerta lateral: 230598' }
   - {
       type: missable,
-      label: 'Gris-Gris (revólver icónico, depende de un encargo)',
+      label: 'Gris-Gris (revólver emblemático, depende de un encargo)',
     }
   - { type: save, label: 'Guarda antes de hablar con los guardias' }
 ---
@@ -18,7 +18,7 @@ pills:
 
 > **Orden:** ir a The Moth → sentarte en la barra → llamada de Reed → hablar con Reed y Alex → reunirte con Reed cerca de la guarida de Slider → hablar con los guardias **o** entrar por los ductos (código **230598**) → destruir 4 núcleos de servidor y neutralizar guardias (ruta de infiltración) → llegar a Slider → conectarte a su dispositivo → hablar con Songbird → salir con Reed → mirar el Black Sapphire.
 
-> **Prepárate:** si en la historia de los Voodoo Boys del juego base (Transmission y Never Fade Away) **perdonaste a Placide y Brigitte**, podrás entrar hablando. Si no, o si prefieres la otra ruta, lleva una build para sigilo o combate en interiores.
+> **Prepárate:** si en la historia de los Voodoo Boys del juego base (Un millón de años luz [Transmission] y Never Fade Away) **perdonaste a Placide y Brigitte**, podrás entrar hablando. Si no, o si prefieres la otra ruta, lleva una build para sigilo o combate en interiores.
 
 ## The Moth
 
@@ -47,11 +47,11 @@ pills:
 
 1. **Conéctate al dispositivo de Slider.** Al otro lado está **Songbird**: habla con ella.
 2. Habla con Reed y **sal de la guarida** con él.
-3. Síguelo y habla con él. Al final te señala el **Black Sapphire**: **míralo**. Ahí es donde tiene Hansen a Songbird, y entrar ahí es el plan de las próximas misiones.
+3. Síguelo y habla con él. Al final te señala el **Black Sapphire**: **míralo**. Ahí tiene Hansen a Songbird, y entrar en él es el plan de las próximas misiones.
 
 ## Gris-Gris, el revólver de Slider
 
-El revólver icónico **Gris-Gris** está en el **cuarto cerrado de la guarida de Slider**. Para abrirlo necesitas la **llave del almacén de la guarida de Slider** (Slider's hideout storage room key), que se consigue en el encargo de Mr. Hands **Treating Symptoms**. Si haces ese encargo, vuelve aquí a recogerlo.
+El revólver emblemático **Gris-Gris** está en el **cuarto cerrado de la guarida de Slider**. Para abrirlo necesitas la **llave del almacén de la guarida de Slider** (Slider's hideout storage room key), que se consigue en el encargo de Mr. Hands **Treating Symptoms**. Si haces ese encargo, vuelve aquí a recogerlo.
 
 ## Decisiones
 
