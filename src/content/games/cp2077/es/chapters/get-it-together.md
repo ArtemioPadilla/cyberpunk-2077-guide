@@ -7,7 +7,7 @@ summary: 'Gánate a Mr. Hands con encargos para conseguir los planos del Black S
 pills:
   - { type: info, label: 'Requiere al menos 3 encargos de Mr. Hands' }
   - { type: info, label: 'Código de la terminal de Heavy Hearts: 2589' }
-  - { type: collectible, label: 'Her Majesty (pistola icónica de Alex)' }
+  - { type: collectible, label: 'Her Majesty (pistola emblemática de Alex)' }
   - { type: info, label: 'Mr. Hands: se abren los encargos de nivel 3' }
 ---
 
@@ -43,8 +43,8 @@ pills:
 
 ## El botín del refugio
 
-- **Her Majesty:** la vieja pistola de servicio de Alex, icónica. Está en el **estuche de armas pequeño sobre la mesa, junto al traje de buceo**.
-- **La caja fuerte y los estuches:** tras la reunión, en la **caja fuerte** del refugio hay más ciberequipo y armas, y hay varios **estuches de armas** más. Revisa todo antes de irte.
+- **Her Majesty:** la vieja pistola de servicio de Alex, emblemática. Está en el **estuche de armas pequeño sobre la mesa, junto al traje de buceo**.
+- **La caja fuerte y los estuches:** tras la reunión, en la **caja fuerte** del refugio hay más ciberware y armas, y hay varios **estuches de armas** más. Revisa todo antes de irte.
 
 ## Lo que se abre al terminar
 
@@ -59,5 +59,5 @@ pills:
 
 ## Recompensas
 
-- Her Majesty (pistola icónica).
+- Her Majesty (pistola emblemática).
 - Planos del Black Sapphire (objeto de misión).
