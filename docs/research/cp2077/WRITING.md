@@ -68,7 +68,7 @@ blockquotes (the engine styles them as margin notes).
   Cred), netrunner (same), and the attributes **Constitución** (Body),
   Reflejos, Habilidad técnica, Inteligencia, Temple. No English filler words
   in Spanish prose (boss → jefe, drop → botín/suelta, loot → botín, gig →
-  encargo, perk → ventaja, iconic → icónica).
+  encargo, perk → ventaja, iconic → emblemática).
 - Eddies: «eddies» (as the game says) or €$.
 
 ## Facts
