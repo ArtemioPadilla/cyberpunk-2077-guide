@@ -5,6 +5,11 @@ export const DEFAULT_LOCALE: Locale = 'es';
 export const ui = {
   es: {
     'site.name': 'Guía Cyberpunk 2077',
+    'site.description':
+      'Guía de Cyberpunk 2077: Ultimate Edition (2.5) en español latino: misiones, decisiones, armas, ciberware, personajes, builds y preguntas frecuentes. Funciona sin internet.',
+    'update.title': 'Hay una versión nueva de la guía.',
+    'update.button': 'Recargar',
+    'update.later': 'Después',
     'nav.home': 'Inicio',
     'nav.arsenal': 'Arsenal',
     'nav.chapters': 'Misiones',
@@ -189,6 +194,11 @@ export const ui = {
   },
   en: {
     'site.name': 'Cyberpunk 2077 Guide',
+    'site.description':
+      'Cyberpunk 2077: Ultimate Edition (2.5) guide: jobs, choices, weapons, cyberware, characters, builds and FAQ. Works offline.',
+    'update.title': 'A new version of the guide is ready.',
+    'update.button': 'Reload',
+    'update.later': 'Later',
     'nav.home': 'Home',
     'nav.arsenal': 'Arsenal',
     'nav.chapters': 'Jobs',

@@ -97,7 +97,11 @@ const bossesHere = bosses.filter((b) =>
 );
 ---
 
-<BaseLayout title={title(`${entry.data.number} · ${entry.data.title}`)} lang={locale}>
+<BaseLayout
+  title={title(`${entry.data.number} · ${entry.data.title}`)}
+  description={entry.data.summary}
+  lang={locale}
+>
   <main id="main" class="mx-auto max-w-3xl px-5 py-7 md:py-14">
     <a
       href={h('/chapters/')}
