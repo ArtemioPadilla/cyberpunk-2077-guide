@@ -49,18 +49,27 @@ es/en.
 Use bullets and **bold**; no tables, no HTML, no images. Write `>` lines as
 blockquotes (the engine styles them as margin notes).
 
-## Names
+## Names (Latin-American Spanish — the player's game language)
 
-- Quest, character, item, weapon and place names: the **English in-game
-  name** (that is what the wiki, every guide and the auto-links use). The
-  first time a quest name appears in the Spanish file, add the Latin-American
-  Spanish in-game name in parentheses **only** if you verified it (Spanish
-  wiki https://cyberpunk.fandom.com/es/api.php, same API); otherwise leave
-  English alone.
-- Attributes: Cuerpo (Body), Reflejos (Reflexes), Habilidad técnica
-  (Technical Ability), Inteligencia (Intelligence), Temple (Cool) — check the
-  Spanish names on the Spanish wiki and use them consistently.
-- Eddies = "eddies" (€$).
+- **Use `docs/research/cp2077/glossary-es-mx.md`** for every in-game name and
+  term (quests, attributes, perks, gangs, districts, items, UI terms). Never
+  take a name from the Spanish Fandom wiki or a Spain-based source: es-ES and
+  es-MX differ (e.g. Playing for Time = «Lagunas mentales» in es-MX).
+- Spanish pages show the **es-MX name, with the English name in parentheses
+  on its first mention on the page**: «El golpe (The Heist)», then «El golpe».
+  The es `title:` is `El golpe (The Heist)`; the en title stays English.
+- A name the glossary does not verify (marked UNVERIFIED or missing) stays
+  **in English** (no invented translation); proper names of weapons and
+  people stay as in the game.
+- Fixed terms: matasanos (ripperdoc), encargo (gig), chanchullo del escáner
+  del NCPD (NCPD Scanner Hustle), detección de ciberpsicópata (Cyberpsycho
+  Sighting), hackeo rápido (quickhack), ciberterminal (cyberdeck), ventaja /
+  árbol de ventajas (perk / perk tree), nivel (Tier), Reputación (Street
+  Cred), netrunner (same), and the attributes **Constitución** (Body),
+  Reflejos, Habilidad técnica, Inteligencia, Temple. No English filler words
+  in Spanish prose (boss → jefe, drop → botín/suelta, loot → botín, gig →
+  encargo, perk → ventaja, iconic → icónica).
+- Eddies: «eddies» (as the game says) or €$.
 
 ## Facts
 
