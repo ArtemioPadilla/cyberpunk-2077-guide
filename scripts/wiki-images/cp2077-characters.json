@@ -1,0 +1,612 @@
+[
+  {
+    "collection": "characters",
+    "id": "v",
+    "file": "V Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "johnny-silverhand",
+    "file": "Johnny Silverhand Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "jackie-welles",
+    "file": "Jackie Welles Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "dexter-deshawn",
+    "file": "Char profile dexter.png"
+  },
+  {
+    "collection": "characters",
+    "id": "t-bug",
+    "file": "T-Bug Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "viktor-vektor",
+    "file": "Char profile victor.png"
+  },
+  {
+    "collection": "characters",
+    "id": "misty-olszewski",
+    "file": "Misty Olszewski Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "mama-welles",
+    "file": "Char Profile Mama Welles.png"
+  },
+  {
+    "collection": "characters",
+    "id": "evelyn-parker",
+    "file": "Evelyn Parker Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "judy-alvarez",
+    "file": "Judy Álvarez Infobox CP2077.jpg"
+  },
+  {
+    "collection": "characters",
+    "id": "goro-takemura",
+    "file": "Goro Takemura Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "hanako-arasaka",
+    "file": "Hanako Arasaka Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "yorinobu-arasaka",
+    "file": "Yorinobu Arasaka 2077 Profile.png"
+  },
+  {
+    "collection": "characters",
+    "id": "saburo-arasaka",
+    "file": "Infobox Saburo Arasaka2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "adam-smasher",
+    "file": "Char profile adamsmash2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "sandayu-oda",
+    "file": "Oda Sandayu Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "anders-hellman",
+    "file": "Hellman pfp.png"
+  },
+  {
+    "collection": "characters",
+    "id": "panam-palmer",
+    "file": "Panam Palmer Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "saul-bright",
+    "file": "Char profile Saul.png"
+  },
+  {
+    "collection": "characters",
+    "id": "mitch-anderson",
+    "file": "Mitch Anderson Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "carol-emeka",
+    "file": "Carol Emeka Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "scorpion",
+    "file": "Driss Meriana Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "bob-sagan",
+    "file": "Infobox Bob Sagan2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "nash",
+    "file": "Nash Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "river-ward",
+    "file": "River Ward Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "joss-kutcher",
+    "file": "JossKutcher Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "randy-kutcher",
+    "file": "Randy guitar Picture CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "anthony-harris",
+    "file": "Anthony Harris Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "kerry-eurodyne",
+    "file": "Kerry Eurodyne Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "denny",
+    "file": "Denny Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "henry",
+    "file": "Henry 2077 Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "steve-sanchez",
+    "file": "Steve Sanchez Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "nancy-hartley",
+    "file": "Bes Isis 2077 Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "blue-moon",
+    "file": "Char Profile Blue.png"
+  },
+  {
+    "collection": "characters",
+    "id": "purple-force",
+    "file": "Char Profile PurpleForce.png"
+  },
+  {
+    "collection": "characters",
+    "id": "red-menace",
+    "file": "Red Menace Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "rogue-amendiares",
+    "file": "Rogue Amendiares 01 CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "alt-cunningham",
+    "file": "AltCunningham Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "spider-murphy",
+    "file": "Spider Murphy 2023 Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "shaitan",
+    "file": "Shaitan 2023 Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "jeremiah-grayson",
+    "file": "JeremiahGrayson Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "crispin-weyland",
+    "file": "Crispin Weyland Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "placide",
+    "file": "Char profile placide.png"
+  },
+  {
+    "collection": "characters",
+    "id": "brigitte",
+    "file": "Brigitte Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "bryce-mosley",
+    "file": "Bryce Mosley Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "nix",
+    "file": "Nix cp77.png"
+  },
+  {
+    "collection": "characters",
+    "id": "delamain",
+    "file": "Delamain Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "meredith-stout",
+    "file": "Meredith Stout Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "anthony-gilchrist",
+    "file": "Char profile gilchrist.png"
+  },
+  {
+    "collection": "characters",
+    "id": "royce",
+    "file": "Royce Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "dum-dum",
+    "file": "Dum Dum Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "brick",
+    "file": "Char Profile brick.png"
+  },
+  {
+    "collection": "characters",
+    "id": "sasquatch",
+    "file": "Char Profile Sasquatch.png"
+  },
+  {
+    "collection": "characters",
+    "id": "woodman",
+    "file": "Char profile woodman.png"
+  },
+  {
+    "collection": "characters",
+    "id": "fingers",
+    "file": "Char Profile Fingers.png"
+  },
+  {
+    "collection": "characters",
+    "id": "jotaro-shobo",
+    "file": "Char Profile Jotaro.png"
+  },
+  {
+    "collection": "characters",
+    "id": "sandra-dorsett",
+    "file": "Sandra Dorsett Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "maiko-maeda",
+    "file": "Char Profile Maiko.png"
+  },
+  {
+    "collection": "characters",
+    "id": "tom-caldera",
+    "file": "Cyberpunk 2077 Character Tom.jpg"
+  },
+  {
+    "collection": "characters",
+    "id": "roxanne-sumner",
+    "file": "Roxanne Sumner Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "claire-russell",
+    "file": "Claire Russell Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "lizzy-wizzy",
+    "file": "Char Profile lizzywizzy.png"
+  },
+  {
+    "collection": "characters",
+    "id": "jefferson-peralez",
+    "file": "Char profile JPeralez.png"
+  },
+  {
+    "collection": "characters",
+    "id": "elizabeth-peralez",
+    "file": "Char profile EPeralez.png"
+  },
+  {
+    "collection": "characters",
+    "id": "mr-blue-eyes",
+    "file": "Mr.BlueEyes001.png"
+  },
+  {
+    "collection": "characters",
+    "id": "lucius-rhyne",
+    "file": "Lucius Rhyne Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "kirk-sawyer",
+    "file": "Kirk Sawyer Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "pepe-najarro",
+    "file": "Char Profile Pepe.png"
+  },
+  {
+    "collection": "characters",
+    "id": "arthur-jenkins",
+    "file": "Char profile jenkins.png"
+  },
+  {
+    "collection": "characters",
+    "id": "susan-abernathy",
+    "file": "SusanAbernathy Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "oleg-darkevich",
+    "file": "Char profile oleg.png"
+  },
+  {
+    "collection": "characters",
+    "id": "wakako-okada",
+    "file": "Wakako Okada Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "regina-jones",
+    "file": "Char Profile regina.png"
+  },
+  {
+    "collection": "characters",
+    "id": "padre",
+    "file": "Sebastian Ibarra Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "dino-dinovic",
+    "file": "Char Profile Dino.png"
+  },
+  {
+    "collection": "characters",
+    "id": "el-capitan",
+    "file": "Char Profile Reyes.png"
+  },
+  {
+    "collection": "characters",
+    "id": "dakota-smith",
+    "file": "Char Profile Dakota.png"
+  },
+  {
+    "collection": "characters",
+    "id": "mr-hands",
+    "file": "Wade Bleecker Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "cassius-ryder",
+    "file": "Char Profile cassisus.png"
+  },
+  {
+    "collection": "characters",
+    "id": "robert-rainwater",
+    "file": "Robert Rainwater.png"
+  },
+  {
+    "collection": "characters",
+    "id": "charles-bucks",
+    "file": "Charles bucks cp77.png"
+  },
+  {
+    "collection": "characters",
+    "id": "nina-kraviz",
+    "file": "Nina Kraviz.png"
+  },
+  {
+    "collection": "characters",
+    "id": "darius-clarke",
+    "file": "Ripperdoc (Downtown) Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "santiago-molina",
+    "file": "Ripperdoc Wellsprings.png"
+  },
+  {
+    "collection": "characters",
+    "id": "octavio-delgado",
+    "file": "Ripperdoc RanchoCoronado.png"
+  },
+  {
+    "collection": "characters",
+    "id": "farida-nazeri",
+    "file": "Farida Nazeri Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "anthony-anderson",
+    "file": "Anthony Anderson Database CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "hutch-spindler",
+    "file": "Char Profile Ripperdoc Badlands.png"
+  },
+  {
+    "collection": "characters",
+    "id": "sogo-watanabe",
+    "file": "Ripperdoc (Kabuki Slums) Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "chiyo-omoto",
+    "file": "Ripperdoc japantown.png"
+  },
+  {
+    "collection": "characters",
+    "id": "rafael-perez",
+    "file": "CP77 Ripperdoc Arroyo.jpg"
+  },
+  {
+    "collection": "characters",
+    "id": "rony-lafleur",
+    "file": "Ripperdoc (West Wind Estate) Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "eron-acedo",
+    "file": "Eron Acedo.jpg"
+  },
+  {
+    "collection": "characters",
+    "id": "costin-lahovary",
+    "file": "Lahovary's Clinic Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "robert-wilson",
+    "file": "Char Profile Wilson.png"
+  },
+  {
+    "collection": "characters",
+    "id": "herold-lowe",
+    "file": "Herold Lowe Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "songbird",
+    "file": "Song So Mi Infobox 02 CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "solomon-reed",
+    "file": "Solomon Reed Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "alex",
+    "file": "Alena Xenakis Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "kurt-hansen",
+    "file": "Screenshot 029 CP2077PL.jpeg"
+  },
+  {
+    "collection": "characters",
+    "id": "rosalind-myers",
+    "file": "Rosalind Myers Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "aurore-cassel",
+    "file": "Aurore Cassel Infobox CP2077PL.jpg"
+  },
+  {
+    "collection": "characters",
+    "id": "aymeric-cassel",
+    "file": "Aymeric Cassel Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "jago-szabo",
+    "file": "Jago Szabó Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "slider",
+    "file": "Wilky \"Slider\" Laguerre Database CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "taylor-gibbs",
+    "file": "Taylor Gibbs Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "jacob-long",
+    "file": "Jacob Long Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "yuri-bychkov",
+    "file": "Q304 Photo Yuri Bychkov CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "carl-robinson",
+    "file": "Q304 Photo Carl Robinson CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "leon-rinder",
+    "file": "Leon Rinder Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "albert-murphy",
+    "file": "Q304 Photo Albert Murphy CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "yoko-tsuru",
+    "file": "Yoko Tsuru Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "jasper-collins",
+    "file": "Jasper Collins Infobox CP2077PL.jpg"
+  },
+  {
+    "collection": "characters",
+    "id": "will-gunner",
+    "file": "Will Gunner Infobox CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "sachiko-kusama",
+    "file": "Char profile sachiko.jpg"
+  },
+  {
+    "collection": "characters",
+    "id": "cassidy-righter",
+    "file": "Infobox Cassidy Righter2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "weldon-holt",
+    "file": "Char profile mayorholt.png"
+  },
+  {
+    "collection": "characters",
+    "id": "nibbles",
+    "file": "Nibbles Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "chester-bennett",
+    "file": "Q304 Photo Chester Bennett CP2077PL.png"
+  },
+  {
+    "collection": "characters",
+    "id": "chang-hoon-nam",
+    "file": "Chang-HoonNam Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "ruby-collins",
+    "file": "RubyCollins Infobox CP2077.png"
+  },
+  {
+    "collection": "characters",
+    "id": "asher-peterson",
+    "file": "Asher Peterson Infobox CP2077PL.jpg"
+  }
+]

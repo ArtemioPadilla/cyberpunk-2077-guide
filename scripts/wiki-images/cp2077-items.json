@@ -1,0 +1,424 @@
+[
+  { "collection": "items", "id": "contagion", "file": "ContagionProgram.png" },
+  { "collection": "items", "id": "overheat", "file": "OverheatProgram.png" },
+  { "collection": "items", "id": "short-circuit", "file": "EMPOverloadProgram.png" },
+  { "collection": "items", "id": "synapse-burnout", "file": "BrainMeltProgram.png" },
+  { "collection": "items", "id": "cripple-movement", "file": "LocomotionMalfunctionProgram.png" },
+  { "collection": "items", "id": "cyberware-malfunction", "file": "DisableCyberwareProgram.png" },
+  { "collection": "items", "id": "reboot-optics", "file": "BlindProgram.png" },
+  { "collection": "items", "id": "weapon-glitch", "file": "WeaponMalfunctionProgram.png" },
+  { "collection": "items", "id": "bait", "file": "WhistleProgram.png" },
+  { "collection": "items", "id": "memory-wipe", "file": "MemoryWipeProgram.png" },
+  { "collection": "items", "id": "ping", "file": "PingProgram.png" },
+  { "collection": "items", "id": "request-backup", "file": "CommsCallInProgram.png" },
+  { "collection": "items", "id": "sonic-shock", "file": "CommsNoiseProgram.png" },
+  { "collection": "items", "id": "blackwall-gateway", "file": "GenericProgram.png" },
+  { "collection": "items", "id": "cyberpsychosis-quickhack", "file": "MadnessProgram.png" },
+  { "collection": "items", "id": "detonate-grenade", "file": "GrenadeExplodeProgram.png" },
+  { "collection": "items", "id": "suicide", "file": "SuicideProgram.png" },
+  { "collection": "items", "id": "system-collapse", "file": "SystemCollapseProgram.png" },
+  {
+    "collection": "items",
+    "id": "breach-protocol-quickhack",
+    "file": "BreachProtocol Icon CP2077.png"
+  },
+  { "collection": "items", "id": "take-control", "file": "TakeControlProgram.png" },
+  { "collection": "items", "id": "emergency-brake", "file": "GenericProgram.png" },
+  { "collection": "items", "id": "floor-it", "file": "GenericProgram.png" },
+  { "collection": "items", "id": "self-destruct", "file": "GenericProgram.png" },
+  {
+    "collection": "items",
+    "id": "archer-hella-ec-d-i360",
+    "file": "Archer Hella EC-D i360 Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "archer-quartz-ec-l-r275",
+    "file": "Archer Quartz EC-L r275 (2041) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "archer-quartz-ec-t2-r660",
+    "file": "Archer Quartz EC-L r275 (2041) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "archer-quartz-bandit",
+    "file": "Archer Quartz \"Bandit\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "archer-quartz-specter",
+    "file": "Archer Quartz \"Specter\" Autofixer CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "archer-quartz-sidewinder",
+    "file": "Archer Quartz \"Sidewinder\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "chevillon-emperor-620-ragnar",
+    "file": "Chevillon Emperor 620 Ragnar Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "chevillon-thrax-388-jefferson",
+    "file": "Chevillon Thrax 388 Jefferson (2062) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "chevillon-legatus-450-aquila",
+    "file": "Chevillon Legatus 450 Aquila Database CP2077.png"
+  },
+  { "collection": "items", "id": "delamain-no-21", "file": "Delamain no. 21 Database CP2077.png" },
+  {
+    "collection": "items",
+    "id": "herrera-outlaw-gts",
+    "file": "Herrera Outlaw GTS Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "herrera-outlaw-weiler",
+    "file": "Herrera Outlaw Weiler Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "herrera-riptide-terrier",
+    "file": "Herrera Riptide Terrier Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "mahir-supron-fs3",
+    "file": "Mahir Supron FS3 Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "mahir-supron-fs3-t",
+    "file": "Mahir Supron FS3-T Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "mahir-supron-trailbruiser",
+    "file": "Mahir Supron Trailbruiser Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "makigai-maimai-p126",
+    "file": "Makigai MaiMai P126 V Message CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "makigai-tanishi-t400",
+    "file": "Makigai Tanishi T400 - Front quarter view.png"
+  },
+  {
+    "collection": "items",
+    "id": "makigai-tanishi-kuma",
+    "file": "Makigai Tanishi Kuma Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "militech-hellhound",
+    "file": "Militech Hellhound Database CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-hozuki-mh2",
+    "file": "Mizutani Hozuki MH2 Icon CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-hozuki-hoseki",
+    "file": "Mizutani Hozuki Hoseki Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-shion-mz1",
+    "file": "Mizutani Shion MZ2 (2060) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-shion-mz2",
+    "file": "Mizutani Shion MZ2 (2060) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-shion-targa-mzt",
+    "file": "Vehicle MizutaniShion-Targa.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-shion-bonewrecker",
+    "file": "Mizutani Shion Bonewrecker 1.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-shion-coyote",
+    "file": "Mizutani Shion \"Coyote\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "mizutani-shion-samum",
+    "file": "Mizutani Shion Samum Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "porsche-911-turbo-930",
+    "file": "Porsche 911 Turbo (930) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "porsche-911-turbo-cabriolet-930",
+    "file": "New Porsche 911 Patch 2.1 CP2077.jpeg"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-turbo-r-740",
+    "file": "Quadra Turbo-R 740 Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-turbo-r-v-tech",
+    "file": "Quadra Turbo-R V-Tech Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-640-ts",
+    "file": "Quadra Type-66 640 TS Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-680-ts",
+    "file": "CP2077-Quadra-Type-66-680-TS.jpg"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-avenger",
+    "file": "Quadra Type-66 Avenger Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-bulitt",
+    "file": "Quadra Type-66 640 TS V Message CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-cthulhu",
+    "file": "Quadra Type-66 \"Cthulhu\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-jen-rowley",
+    "file": "Quadra Type-66 \"Jen Rowley\" V Message CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-hoon",
+    "file": "Quadra Type-66 \"Hoon\" Infobox CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-javelina",
+    "file": "Quadra Type-66 \"Javelina\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-type-66-wingate",
+    "file": "Quadra Type-66 Wingate Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-sport-r-7-charon",
+    "file": "Photomode 12102023 091845.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-sport-r-7-chiaroscuro",
+    "file": "Quadra Sport R-7 Chiaroscuro Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-sport-r-7-sterling",
+    "file": "Quadra Sport R-7 \"Sterling\" Database CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "quadra-sport-r-7-vigilante",
+    "file": "Quadra Sport R-7 Vigilante CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "rayfield-aerondight-guinevere",
+    "file": "Rayfield Aerondight \"Guinevere\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "rayfield-caliburn",
+    "file": "Rayfield Caliburn Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "rayfield-caliburn-mordred",
+    "file": "Rayfield Caliburn \"Mordred\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "rayfield-caliburn-murkmobile",
+    "file": "Rayfield Caliburn Version player.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-colby-barghest",
+    "file": "Thorton Colby BARGHEST Database CP2077PL.png"
+  },
+  { "collection": "items", "id": "thorton-colby-c125", "file": "Thorton Colby C125.png" },
+  {
+    "collection": "items",
+    "id": "thorton-colby-cst40",
+    "file": "Thorton Colby C240t Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-colby-cx410-butte",
+    "file": "Thorton Colby CX410 Butte V Message CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-colby-cx410-gran-butte",
+    "file": "Thorton Colby CX410 Butte Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-colby-little-mule",
+    "file": "Thorton Colby \"Little Mule\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-colby-vulture",
+    "file": "Thorton Colby Shootin' Brake1.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-galena-g240",
+    "file": "Thorton Galena G240 (2031) Database CP2077.png"
+  },
+  { "collection": "items", "id": "thorton-galena-ga32t", "file": "Thorton Galena GA32T.png" },
+  {
+    "collection": "items",
+    "id": "thorton-galena-rattler",
+    "file": "Thorton Galena GA40xt \"Rattler\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-galena-gecko",
+    "file": "Thorton Galena \"Gecko\" Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-galena-locust",
+    "file": "Thorton Galena Locust Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-mackinaw-mtl1",
+    "file": "Thorton Mackinaw MTL1 Database CP2077.png"
+  },
+  { "collection": "items", "id": "thorton-mackinaw-beast", "file": "Beast Database CP2077.png" },
+  {
+    "collection": "items",
+    "id": "thorton-mackinaw-saguaro",
+    "file": "Thorton Mackinaw Saguaro V Message CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-mackinaw-demiurge",
+    "file": "Thorton Mackinaw \"Demiurge\" Infobox CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "thorton-merrimac-warlock",
+    "file": "Thorton Merrimac Warlock Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "villefort-alvarado-v4f-570-delegate",
+    "file": "Villefort Alvarado V4F 570 Delegate (2044) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "villefort-alvarado-v4fh-570-herman",
+    "file": "Villefort Alvarado V4FH 570 Herman Database CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "villefort-alvarado-vato",
+    "file": "Villefort Alvarado Vato Front quarter.png"
+  },
+  {
+    "collection": "items",
+    "id": "villefort-columbus-v340-f-freight",
+    "file": "Villefort Columbus V340-F Freight (2068) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "villefort-cortes-v5000-valor",
+    "file": "Villefort Cortes V5000 Valor (2040) Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "villefort-deleon-v410-s-coupe",
+    "file": "Villefort Deleon V410-S Coupé Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "villefort-deleon-vindicator",
+    "file": "Villefort Deleon Vindicator Icon CP2077PL.png"
+  },
+  {
+    "collection": "items",
+    "id": "yaiba-arv-q340-semimaru",
+    "file": "Yaiba ARV-Q340 Semimaru Database CP2077.png"
+  },
+  { "collection": "items", "id": "arch-nazare", "file": "Nazaré Database CP2077.png" },
+  { "collection": "items", "id": "jackies-arch", "file": "Jackie's ARCH 2.png" },
+  {
+    "collection": "items",
+    "id": "arch-nazare-itsumade",
+    "file": "Arch Nazaré Itsumade Purple.jpg"
+  },
+  { "collection": "items", "id": "arch-nazare-racer", "file": "ARCH Nazare Racer.jpg" },
+  {
+    "collection": "items",
+    "id": "arch-nazare-kobold",
+    "file": "ARCH Nazaré Kobold Icon CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "malina-mobile",
+    "file": "ARCH Nazaré Malina-mobile Icon CP2077PL.png"
+  },
+  { "collection": "items", "id": "brennan-apollo", "file": "Brennan Apollo Database CP2077.png" },
+  { "collection": "items", "id": "brennan-apollo-650-s", "file": "Brennan Apollo Sportbike.png" },
+  { "collection": "items", "id": "scorpions-apollo", "file": "Brennan Apollo Scorpion Side.png" },
+  {
+    "collection": "items",
+    "id": "yaiba-kusanagi-ct-3x",
+    "file": "Yaiba Kusanagi CT-3X Database CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "yaiba-kusanagi-akashita",
+    "file": "Yaiba Kusanagi Akashita Icon CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "yaiba-kusanagi-peacekeeper",
+    "file": "Yaiba Kusanagi Peacekeeper Icon CP2077.png"
+  },
+  {
+    "collection": "items",
+    "id": "yaiba-asm-r250-muramasa",
+    "file": "Yaiba ASM-R250 Muramasa Database CP2077.png"
+  }
+]

@@ -1,1 +1,3674 @@
-{}
+{
+  "cp2077/bosses/adam-smasher": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile adamsmash2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_adamsmash2077.png"
+  },
+  "cp2077/bosses/akira": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile Akira.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_Akira.png"
+  },
+  "cp2077/bosses/andrew-newman": {
+    "w": 197,
+    "h": 320,
+    "file": "Andrew Newman Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Andrew_Newman_Infobox_CP2077PL.png"
+  },
+  "cp2077/bosses/boris-ribakov": {
+    "w": 186,
+    "h": 320,
+    "file": "Boris Ribakov Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Boris_Ribakov_Database_CP2077PL.png"
+  },
+  "cp2077/bosses/buck-arnold": {
+    "w": 261,
+    "h": 320,
+    "file": "Buck Arnold 2.0.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Buck_Arnold_2.0.jpg"
+  },
+  "cp2077/bosses/cesar-diego-ruiz": {
+    "w": 238,
+    "h": 320,
+    "file": "Cesar Ruiz Infobox CP2077.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Cesar_Ruiz_Infobox_CP2077.jpg"
+  },
+  "cp2077/bosses/esquerdo-certo": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Esquerdo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Esquerdo.png"
+  },
+  "cp2077/bosses/garry-bates": {
+    "w": 256,
+    "h": 320,
+    "file": "Garry Bates Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Garry_Bates_Infobox_CP2077.png"
+  },
+  "cp2077/bosses/kurt-hansen": {
+    "w": 320,
+    "h": 190,
+    "file": "Screenshot 029 CP2077PL.jpeg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Screenshot_029_CP2077PL.jpeg"
+  },
+  "cp2077/bosses/maggie-isley": {
+    "w": 213,
+    "h": 320,
+    "file": "Maggie Isley Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Maggie_Isley_Infobox_CP2077PL.png"
+  },
+  "cp2077/bosses/maxtac-squad": {
+    "w": 243,
+    "h": 320,
+    "file": "MaxTac Logo CPRED.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MaxTac_Logo_CPRED.png"
+  },
+  "cp2077/bosses/militech-cerberus": {
+    "w": 320,
+    "h": 105,
+    "file": "Cerberus Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Cerberus_Database_CP2077PL.png"
+  },
+  "cp2077/bosses/militech-chimera": {
+    "w": 320,
+    "h": 196,
+    "file": "Militech Chimera CP2077PL 01.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Militech_Chimera_CP2077PL_01.jpg"
+  },
+  "cp2077/bosses/nash": {
+    "w": 197,
+    "h": 320,
+    "file": "Nash Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nash_Infobox_CP2077.png"
+  },
+  "cp2077/bosses/placide": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile placide.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_placide.png"
+  },
+  "cp2077/bosses/razor-hugh": {
+    "w": 263,
+    "h": 320,
+    "file": "Char profile Razor Hugh.jpeg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_Razor_Hugh.jpeg"
+  },
+  "cp2077/bosses/rhino": {
+    "w": 320,
+    "h": 186,
+    "file": "Rhino HoNC CP2077.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rhino_HoNC_CP2077.jpg"
+  },
+  "cp2077/bosses/royce": {
+    "w": 240,
+    "h": 320,
+    "file": "Royce Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Royce_Infobox_CP2077.png"
+  },
+  "cp2077/bosses/sandayu-oda": {
+    "w": 201,
+    "h": 320,
+    "file": "Oda Sandayu Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Oda_Sandayu_Infobox_CP2077.png"
+  },
+  "cp2077/bosses/sasquatch": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Sasquatch.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Sasquatch.png"
+  },
+  "cp2077/bosses/scavenger-leader": {
+    "w": 320,
+    "h": 213,
+    "file": "The Rescue Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:The_Rescue_Infobox_CP2077.png"
+  },
+  "cp2077/bosses/solomon-reed": {
+    "w": 240,
+    "h": 320,
+    "file": "Solomon Reed Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Solomon_Reed_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/adam-smasher": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile adamsmash2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_adamsmash2077.png"
+  },
+  "cp2077/characters/albert-murphy": {
+    "w": 240,
+    "h": 320,
+    "file": "Q304 Photo Albert Murphy CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Albert_Murphy_CP2077PL.png"
+  },
+  "cp2077/characters/alex": {
+    "w": 240,
+    "h": 320,
+    "file": "Alena Xenakis Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Alena_Xenakis_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/alt-cunningham": {
+    "w": 197,
+    "h": 320,
+    "file": "AltCunningham Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:AltCunningham_Infobox_CP2077.png"
+  },
+  "cp2077/characters/anders-hellman": {
+    "w": 225,
+    "h": 320,
+    "file": "Hellman pfp.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Hellman_pfp.png"
+  },
+  "cp2077/characters/anthony-anderson": {
+    "w": 171,
+    "h": 320,
+    "file": "Anthony Anderson Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Anthony_Anderson_Database_CP2077PL.png"
+  },
+  "cp2077/characters/anthony-gilchrist": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile gilchrist.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_gilchrist.png"
+  },
+  "cp2077/characters/anthony-harris": {
+    "w": 197,
+    "h": 320,
+    "file": "Anthony Harris Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Anthony_Harris_Infobox_CP2077.png"
+  },
+  "cp2077/characters/arthur-jenkins": {
+    "w": 207,
+    "h": 320,
+    "file": "Char profile jenkins.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_jenkins.png"
+  },
+  "cp2077/characters/asher-peterson": {
+    "w": 240,
+    "h": 320,
+    "file": "Asher Peterson Infobox CP2077PL.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Asher_Peterson_Infobox_CP2077PL.jpg"
+  },
+  "cp2077/characters/aurore-cassel": {
+    "w": 180,
+    "h": 320,
+    "file": "Aurore Cassel Infobox CP2077PL.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Aurore_Cassel_Infobox_CP2077PL.jpg"
+  },
+  "cp2077/characters/aymeric-cassel": {
+    "w": 240,
+    "h": 320,
+    "file": "Aymeric Cassel Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Aymeric_Cassel_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/blue-moon": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Blue.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Blue.png"
+  },
+  "cp2077/characters/bob-sagan": {
+    "w": 197,
+    "h": 320,
+    "file": "Infobox Bob Sagan2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Infobox_Bob_Sagan2077.png"
+  },
+  "cp2077/characters/brick": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile brick.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_brick.png"
+  },
+  "cp2077/characters/brigitte": {
+    "w": 197,
+    "h": 320,
+    "file": "Brigitte Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Brigitte_Infobox_CP2077.png"
+  },
+  "cp2077/characters/bryce-mosley": {
+    "w": 197,
+    "h": 320,
+    "file": "Bryce Mosley Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Bryce_Mosley_Infobox_CP2077.png"
+  },
+  "cp2077/characters/carl-robinson": {
+    "w": 240,
+    "h": 320,
+    "file": "Q304 Photo Carl Robinson CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Carl_Robinson_CP2077PL.png"
+  },
+  "cp2077/characters/carol-emeka": {
+    "w": 197,
+    "h": 320,
+    "file": "Carol Emeka Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Carol_Emeka_Infobox_CP2077.png"
+  },
+  "cp2077/characters/cassidy-righter": {
+    "w": 197,
+    "h": 320,
+    "file": "Infobox Cassidy Righter2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Infobox_Cassidy_Righter2077.png"
+  },
+  "cp2077/characters/cassius-ryder": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile cassisus.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_cassisus.png"
+  },
+  "cp2077/characters/chang-hoon-nam": {
+    "w": 211,
+    "h": 320,
+    "file": "Chang-HoonNam Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chang-HoonNam_Infobox_CP2077.png"
+  },
+  "cp2077/characters/charles-bucks": {
+    "w": 196,
+    "h": 320,
+    "file": "Charles bucks cp77.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Charles_bucks_cp77.png"
+  },
+  "cp2077/characters/chester-bennett": {
+    "w": 240,
+    "h": 320,
+    "file": "Q304 Photo Chester Bennett CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Chester_Bennett_CP2077PL.png"
+  },
+  "cp2077/characters/chiyo-omoto": {
+    "w": 197,
+    "h": 320,
+    "file": "Ripperdoc japantown.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ripperdoc_japantown.png"
+  },
+  "cp2077/characters/claire-russell": {
+    "w": 240,
+    "h": 320,
+    "file": "Claire Russell Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Claire_Russell_Infobox_CP2077.png"
+  },
+  "cp2077/characters/costin-lahovary": {
+    "w": 320,
+    "h": 180,
+    "file": "Lahovary's Clinic Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lahovary%27s_Clinic_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/crispin-weyland": {
+    "w": 240,
+    "h": 320,
+    "file": "Crispin Weyland Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Crispin_Weyland_Infobox_CP2077.png"
+  },
+  "cp2077/characters/dakota-smith": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Dakota.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Dakota.png"
+  },
+  "cp2077/characters/darius-clarke": {
+    "w": 197,
+    "h": 320,
+    "file": "Ripperdoc (Downtown) Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ripperdoc_(Downtown)_Infobox_CP2077.png"
+  },
+  "cp2077/characters/delamain": {
+    "w": 240,
+    "h": 320,
+    "file": "Delamain Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Delamain_Infobox_CP2077.png"
+  },
+  "cp2077/characters/denny": {
+    "w": 197,
+    "h": 320,
+    "file": "Denny Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Denny_Infobox_CP2077.png"
+  },
+  "cp2077/characters/dexter-deshawn": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile dexter.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_dexter.png"
+  },
+  "cp2077/characters/dino-dinovic": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Dino.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Dino.png"
+  },
+  "cp2077/characters/dum-dum": {
+    "w": 197,
+    "h": 320,
+    "file": "Dum Dum Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Dum_Dum_Infobox_CP2077.png"
+  },
+  "cp2077/characters/el-capitan": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Reyes.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Reyes.png"
+  },
+  "cp2077/characters/elizabeth-peralez": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile EPeralez.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_EPeralez.png"
+  },
+  "cp2077/characters/eron-acedo": {
+    "w": 246,
+    "h": 320,
+    "file": "Eron Acedo.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Eron_Acedo.jpg"
+  },
+  "cp2077/characters/evelyn-parker": {
+    "w": 254,
+    "h": 320,
+    "file": "Evelyn Parker Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Evelyn_Parker_Infobox_CP2077.png"
+  },
+  "cp2077/characters/farida-nazeri": {
+    "w": 240,
+    "h": 320,
+    "file": "Farida Nazeri Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Farida_Nazeri_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/fingers": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Fingers.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Fingers.png"
+  },
+  "cp2077/characters/goro-takemura": {
+    "w": 197,
+    "h": 320,
+    "file": "Goro Takemura Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Goro_Takemura_Infobox_CP2077.png"
+  },
+  "cp2077/characters/hanako-arasaka": {
+    "w": 213,
+    "h": 320,
+    "file": "Hanako Arasaka Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Hanako_Arasaka_Infobox_CP2077.png"
+  },
+  "cp2077/characters/henry": {
+    "w": 197,
+    "h": 320,
+    "file": "Henry 2077 Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Henry_2077_Infobox_CP2077.png"
+  },
+  "cp2077/characters/herold-lowe": {
+    "w": 240,
+    "h": 320,
+    "file": "Herold Lowe Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Herold_Lowe_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/hutch-spindler": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Ripperdoc Badlands.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Ripperdoc_Badlands.png"
+  },
+  "cp2077/characters/jackie-welles": {
+    "w": 240,
+    "h": 320,
+    "file": "Jackie Welles Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Jackie_Welles_Infobox_CP2077.png"
+  },
+  "cp2077/characters/jacob-long": {
+    "w": 212,
+    "h": 320,
+    "file": "Jacob Long Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Jacob_Long_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/jago-szabo": {
+    "w": 279,
+    "h": 320,
+    "file": "Jago Szabó Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Jago_Szab%C3%B3_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/jasper-collins": {
+    "w": 240,
+    "h": 320,
+    "file": "Jasper Collins Infobox CP2077PL.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Jasper_Collins_Infobox_CP2077PL.jpg"
+  },
+  "cp2077/characters/jefferson-peralez": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile JPeralez.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_JPeralez.png"
+  },
+  "cp2077/characters/jeremiah-grayson": {
+    "w": 197,
+    "h": 320,
+    "file": "JeremiahGrayson Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:JeremiahGrayson_Infobox_CP2077.png"
+  },
+  "cp2077/characters/johnny-silverhand": {
+    "w": 240,
+    "h": 320,
+    "file": "Johnny Silverhand Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Johnny_Silverhand_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/joss-kutcher": {
+    "w": 197,
+    "h": 320,
+    "file": "JossKutcher Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:JossKutcher_Infobox_CP2077.png"
+  },
+  "cp2077/characters/jotaro-shobo": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Jotaro.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Jotaro.png"
+  },
+  "cp2077/characters/judy-alvarez": {
+    "w": 197,
+    "h": 320,
+    "file": "Judy Álvarez Infobox CP2077.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Judy_%C3%81lvarez_Infobox_CP2077.jpg"
+  },
+  "cp2077/characters/kerry-eurodyne": {
+    "w": 197,
+    "h": 320,
+    "file": "Kerry Eurodyne Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kerry_Eurodyne_Infobox_CP2077.png"
+  },
+  "cp2077/characters/kirk-sawyer": {
+    "w": 240,
+    "h": 320,
+    "file": "Kirk Sawyer Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kirk_Sawyer_Infobox_CP2077.png"
+  },
+  "cp2077/characters/kurt-hansen": {
+    "w": 320,
+    "h": 190,
+    "file": "Screenshot 029 CP2077PL.jpeg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Screenshot_029_CP2077PL.jpeg"
+  },
+  "cp2077/characters/leon-rinder": {
+    "w": 240,
+    "h": 320,
+    "file": "Leon Rinder Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Leon_Rinder_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/lizzy-wizzy": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile lizzywizzy.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_lizzywizzy.png"
+  },
+  "cp2077/characters/lucius-rhyne": {
+    "w": 198,
+    "h": 320,
+    "file": "Lucius Rhyne Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lucius_Rhyne_Infobox_CP2077.png"
+  },
+  "cp2077/characters/maiko-maeda": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Maiko.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Maiko.png"
+  },
+  "cp2077/characters/mama-welles": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Mama Welles.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Mama_Welles.png"
+  },
+  "cp2077/characters/meredith-stout": {
+    "w": 197,
+    "h": 320,
+    "file": "Meredith Stout Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Meredith_Stout_Infobox_CP2077.png"
+  },
+  "cp2077/characters/misty-olszewski": {
+    "w": 240,
+    "h": 320,
+    "file": "Misty Olszewski Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Misty_Olszewski_Infobox_CP2077.png"
+  },
+  "cp2077/characters/mitch-anderson": {
+    "w": 240,
+    "h": 320,
+    "file": "Mitch Anderson Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mitch_Anderson_Infobox_CP2077.png"
+  },
+  "cp2077/characters/mr-blue-eyes": {
+    "w": 197,
+    "h": 320,
+    "file": "Mr.BlueEyes001.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mr.BlueEyes001.png"
+  },
+  "cp2077/characters/mr-hands": {
+    "w": 180,
+    "h": 320,
+    "file": "Wade Bleecker Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Wade_Bleecker_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/nancy-hartley": {
+    "w": 197,
+    "h": 320,
+    "file": "Bes Isis 2077 Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Bes_Isis_2077_Infobox_CP2077.png"
+  },
+  "cp2077/characters/nash": {
+    "w": 197,
+    "h": 320,
+    "file": "Nash Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nash_Infobox_CP2077.png"
+  },
+  "cp2077/characters/nibbles": {
+    "w": 197,
+    "h": 320,
+    "file": "Nibbles Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nibbles_Infobox_CP2077.png"
+  },
+  "cp2077/characters/nina-kraviz": {
+    "w": 197,
+    "h": 320,
+    "file": "Nina Kraviz.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nina_Kraviz.png"
+  },
+  "cp2077/characters/nix": {
+    "w": 215,
+    "h": 320,
+    "file": "Nix cp77.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nix_cp77.png"
+  },
+  "cp2077/characters/octavio-delgado": {
+    "w": 197,
+    "h": 320,
+    "file": "Ripperdoc RanchoCoronado.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ripperdoc_RanchoCoronado.png"
+  },
+  "cp2077/characters/oleg-darkevich": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile oleg.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_oleg.png"
+  },
+  "cp2077/characters/padre": {
+    "w": 240,
+    "h": 320,
+    "file": "Sebastian Ibarra Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Sebastian_Ibarra_Infobox_CP2077.png"
+  },
+  "cp2077/characters/panam-palmer": {
+    "w": 240,
+    "h": 320,
+    "file": "Panam Palmer Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Panam_Palmer_Infobox_CP2077.png"
+  },
+  "cp2077/characters/pepe-najarro": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Pepe.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Pepe.png"
+  },
+  "cp2077/characters/placide": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile placide.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_placide.png"
+  },
+  "cp2077/characters/purple-force": {
+    "w": 213,
+    "h": 320,
+    "file": "Char Profile PurpleForce.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_PurpleForce.png"
+  },
+  "cp2077/characters/rafael-perez": {
+    "w": 173,
+    "h": 320,
+    "file": "CP77 Ripperdoc Arroyo.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CP77_Ripperdoc_Arroyo.jpg"
+  },
+  "cp2077/characters/randy-kutcher": {
+    "w": 320,
+    "h": 220,
+    "file": "Randy guitar Picture CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Randy_guitar_Picture_CP2077.png"
+  },
+  "cp2077/characters/red-menace": {
+    "w": 240,
+    "h": 320,
+    "file": "Red Menace Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Red_Menace_Infobox_CP2077.png"
+  },
+  "cp2077/characters/regina-jones": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile regina.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_regina.png"
+  },
+  "cp2077/characters/river-ward": {
+    "w": 197,
+    "h": 320,
+    "file": "River Ward Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:River_Ward_Infobox_CP2077.png"
+  },
+  "cp2077/characters/robert-rainwater": {
+    "w": 198,
+    "h": 320,
+    "file": "Robert Rainwater.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Robert_Rainwater.png"
+  },
+  "cp2077/characters/robert-wilson": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Wilson.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Wilson.png"
+  },
+  "cp2077/characters/rogue-amendiares": {
+    "w": 193,
+    "h": 320,
+    "file": "Rogue Amendiares 01 CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rogue_Amendiares_01_CP2077.png"
+  },
+  "cp2077/characters/rony-lafleur": {
+    "w": 197,
+    "h": 320,
+    "file": "Ripperdoc (West Wind Estate) Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ripperdoc_(West_Wind_Estate)_Infobox_CP2077.png"
+  },
+  "cp2077/characters/rosalind-myers": {
+    "w": 229,
+    "h": 320,
+    "file": "Rosalind Myers Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rosalind_Myers_Infobox_CP2077.png"
+  },
+  "cp2077/characters/roxanne-sumner": {
+    "w": 197,
+    "h": 320,
+    "file": "Roxanne Sumner Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Roxanne_Sumner_Infobox_CP2077.png"
+  },
+  "cp2077/characters/royce": {
+    "w": 240,
+    "h": 320,
+    "file": "Royce Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Royce_Infobox_CP2077.png"
+  },
+  "cp2077/characters/ruby-collins": {
+    "w": 205,
+    "h": 320,
+    "file": "RubyCollins Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:RubyCollins_Infobox_CP2077.png"
+  },
+  "cp2077/characters/saburo-arasaka": {
+    "w": 197,
+    "h": 320,
+    "file": "Infobox Saburo Arasaka2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Infobox_Saburo_Arasaka2077.png"
+  },
+  "cp2077/characters/sachiko-kusama": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile sachiko.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_sachiko.jpg"
+  },
+  "cp2077/characters/sandayu-oda": {
+    "w": 201,
+    "h": 320,
+    "file": "Oda Sandayu Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Oda_Sandayu_Infobox_CP2077.png"
+  },
+  "cp2077/characters/sandra-dorsett": {
+    "w": 197,
+    "h": 320,
+    "file": "Sandra Dorsett Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Sandra_Dorsett_Infobox_CP2077.png"
+  },
+  "cp2077/characters/santiago-molina": {
+    "w": 197,
+    "h": 320,
+    "file": "Ripperdoc Wellsprings.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ripperdoc_Wellsprings.png"
+  },
+  "cp2077/characters/sasquatch": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Sasquatch.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Sasquatch.png"
+  },
+  "cp2077/characters/saul-bright": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile Saul.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_Saul.png"
+  },
+  "cp2077/characters/scorpion": {
+    "w": 197,
+    "h": 320,
+    "file": "Driss Meriana Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Driss_Meriana_Infobox_CP2077.png"
+  },
+  "cp2077/characters/shaitan": {
+    "w": 259,
+    "h": 320,
+    "file": "Shaitan 2023 Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Shaitan_2023_Infobox_CP2077.png"
+  },
+  "cp2077/characters/slider": {
+    "w": 320,
+    "h": 164,
+    "file": "Wilky \"Slider\" Laguerre Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Wilky_%22Slider%22_Laguerre_Database_CP2077PL.png"
+  },
+  "cp2077/characters/sogo-watanabe": {
+    "w": 197,
+    "h": 320,
+    "file": "Ripperdoc (Kabuki Slums) Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ripperdoc_(Kabuki_Slums)_Infobox_CP2077.png"
+  },
+  "cp2077/characters/solomon-reed": {
+    "w": 240,
+    "h": 320,
+    "file": "Solomon Reed Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Solomon_Reed_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/songbird": {
+    "w": 221,
+    "h": 320,
+    "file": "Song So Mi Infobox 02 CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Song_So_Mi_Infobox_02_CP2077PL.png"
+  },
+  "cp2077/characters/spider-murphy": {
+    "w": 256,
+    "h": 320,
+    "file": "Spider Murphy 2023 Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Spider_Murphy_2023_Infobox_CP2077.png"
+  },
+  "cp2077/characters/steve-sanchez": {
+    "w": 240,
+    "h": 320,
+    "file": "Steve Sanchez Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Steve_Sanchez_Infobox_CP2077.png"
+  },
+  "cp2077/characters/susan-abernathy": {
+    "w": 261,
+    "h": 320,
+    "file": "SusanAbernathy Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SusanAbernathy_Infobox_CP2077.png"
+  },
+  "cp2077/characters/t-bug": {
+    "w": 240,
+    "h": 320,
+    "file": "T-Bug Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:T-Bug_Infobox_CP2077.png"
+  },
+  "cp2077/characters/taylor-gibbs": {
+    "w": 188,
+    "h": 320,
+    "file": "Taylor Gibbs Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Taylor_Gibbs_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/tom-caldera": {
+    "w": 320,
+    "h": 180,
+    "file": "Cyberpunk 2077 Character Tom.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Cyberpunk_2077_Character_Tom.jpg"
+  },
+  "cp2077/characters/v": {
+    "w": 174,
+    "h": 320,
+    "file": "V Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:V_Infobox_CP2077.png"
+  },
+  "cp2077/characters/viktor-vektor": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile victor.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_victor.png"
+  },
+  "cp2077/characters/wakako-okada": {
+    "w": 197,
+    "h": 320,
+    "file": "Wakako Okada Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Wakako_Okada_Infobox_CP2077.png"
+  },
+  "cp2077/characters/weldon-holt": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile mayorholt.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_mayorholt.png"
+  },
+  "cp2077/characters/will-gunner": {
+    "w": 222,
+    "h": 320,
+    "file": "Will Gunner Infobox CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Will_Gunner_Infobox_CP2077PL.png"
+  },
+  "cp2077/characters/woodman": {
+    "w": 197,
+    "h": 320,
+    "file": "Char profile woodman.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_woodman.png"
+  },
+  "cp2077/characters/yoko-tsuru": {
+    "w": 240,
+    "h": 320,
+    "file": "Yoko Tsuru Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yoko_Tsuru_Infobox_CP2077.png"
+  },
+  "cp2077/characters/yorinobu-arasaka": {
+    "w": 199,
+    "h": 320,
+    "file": "Yorinobu Arasaka 2077 Profile.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yorinobu_Arasaka_2077_Profile.png"
+  },
+  "cp2077/characters/yuri-bychkov": {
+    "w": 240,
+    "h": 320,
+    "file": "Q304 Photo Yuri Bychkov CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Yuri_Bychkov_CP2077PL.png"
+  },
+  "cp2077/enemies/6th-street": {
+    "w": 320,
+    "h": 319,
+    "file": "6th Street Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:6th_Street_Logo_CP2077.png"
+  },
+  "cp2077/enemies/aldecaldos": {
+    "w": 276,
+    "h": 320,
+    "file": "Aldecaldos Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Aldecaldos_Logo_CP2077.png"
+  },
+  "cp2077/enemies/alec-johnson": {
+    "w": 240,
+    "h": 320,
+    "file": "Alec Johnson Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Alec_Johnson_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/android": {
+    "w": 62,
+    "h": 60,
+    "file": "Icon Enemy Android.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Android.png"
+  },
+  "cp2077/enemies/animals": {
+    "w": 320,
+    "h": 318,
+    "file": "Animals Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Animals_Logo_CP2077.png"
+  },
+  "cp2077/enemies/arasaka": {
+    "w": 320,
+    "h": 36,
+    "file": "Arasaka Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Arasaka_Logo_CP2077.png"
+  },
+  "cp2077/enemies/barghest": {
+    "w": 282,
+    "h": 320,
+    "file": "Barghest Logo CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Barghest_Logo_CP2077PL.png"
+  },
+  "cp2077/enemies/ben-debaillon": {
+    "w": 197,
+    "h": 320,
+    "file": "Ben DeBaillon Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ben_DeBaillon_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/biotechnica": {
+    "w": 320,
+    "h": 197,
+    "file": "Biotechnica Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Biotechnica_Logo_CP2077.png"
+  },
+  "cp2077/enemies/cedric-muller": {
+    "w": 240,
+    "h": 320,
+    "file": "Cedric Muller Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Cedric_Muller_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/chase-coley": {
+    "w": 240,
+    "h": 320,
+    "file": "Chase Coley Infobox CP2077.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chase_Coley_Infobox_CP2077.jpg"
+  },
+  "cp2077/enemies/chimera-type": {
+    "w": 320,
+    "h": 196,
+    "file": "Militech Chimera CP2077PL 01.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Militech_Chimera_CP2077PL_01.jpg"
+  },
+  "cp2077/enemies/dao-hyunh": {
+    "w": 240,
+    "h": 320,
+    "file": "Dao Hyunh Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Dao_Hyunh_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/drone": {
+    "w": 320,
+    "h": 105,
+    "file": "Militech Griffin Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Militech_Griffin_Database_CP2077.png"
+  },
+  "cp2077/enemies/ellis-carter": {
+    "w": 197,
+    "h": 320,
+    "file": "Char Profile Ellis Carter.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_Profile_Ellis_Carter.png"
+  },
+  "cp2077/enemies/euralio-alma": {
+    "w": 240,
+    "h": 320,
+    "file": "Euralio Alma Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Euralio_Alma_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/exosuit": {
+    "w": 313,
+    "h": 320,
+    "file": "Militech Centaur Front.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Militech_Centaur_Front.jpg"
+  },
+  "cp2077/enemies/fast-melee": {
+    "w": 58,
+    "h": 50,
+    "file": "Icon Enemy FastMelee.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_FastMelee.png"
+  },
+  "cp2077/enemies/gaston-phillips": {
+    "w": 240,
+    "h": 320,
+    "file": "Gaston Phillips Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Gaston_Phillips_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/heavy-gunner": {
+    "w": 59,
+    "h": 54,
+    "file": "Icon Enemy Gunner.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Gunner.png"
+  },
+  "cp2077/enemies/heavy-melee": {
+    "w": 69,
+    "h": 48,
+    "file": "Icon Enemy HeavyMelee.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_HeavyMelee.png"
+  },
+  "cp2077/enemies/kang-tao": {
+    "w": 320,
+    "h": 67,
+    "file": "Kang Tao Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kang_Tao_Logo_CP2077.png"
+  },
+  "cp2077/enemies/lely-hein": {
+    "w": 168,
+    "h": 320,
+    "file": "Lely Hein Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lely_Hein_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/maelstrom": {
+    "w": 320,
+    "h": 156,
+    "file": "Maelstrom Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Maelstrom_Logo_CP2077.png"
+  },
+  "cp2077/enemies/matt-liaw": {
+    "w": 240,
+    "h": 320,
+    "file": "Matt Liaw Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Matt_Liaw_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/maxtac": {
+    "w": 243,
+    "h": 320,
+    "file": "MaxTac Logo CPRED.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MaxTac_Logo_CPRED.png"
+  },
+  "cp2077/enemies/militech": {
+    "w": 320,
+    "h": 47,
+    "file": "Militech Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Militech_Logo_CP2077.png"
+  },
+  "cp2077/enemies/mower": {
+    "w": 240,
+    "h": 320,
+    "file": "Mower Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mower_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/ncpd": {
+    "w": 320,
+    "h": 190,
+    "file": "NCPD Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NCPD_Logo_CP2077.png"
+  },
+  "cp2077/enemies/netrunner": {
+    "w": 56,
+    "h": 51,
+    "file": "Icon Enemy Netrunner.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Netrunner.png"
+  },
+  "cp2077/enemies/netwatch": {
+    "w": 284,
+    "h": 320,
+    "file": "NetWatch Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NetWatch_Logo_CP2077.png"
+  },
+  "cp2077/enemies/norio-akuhara": {
+    "w": 197,
+    "h": 320,
+    "file": "Norio Akuhara.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Norio_Akuhara.png"
+  },
+  "cp2077/enemies/nusa-black-ops": {
+    "w": 320,
+    "h": 170,
+    "file": "New United States of America Flag CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:New_United_States_of_America_Flag_CP2077.png"
+  },
+  "cp2077/enemies/russel-greene": {
+    "w": 240,
+    "h": 320,
+    "file": "Russel Greene Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Russel_Greene_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/scavengers": {
+    "w": 320,
+    "h": 105,
+    "file": "Scavengers Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Scavengers_Database_CP2077.png"
+  },
+  "cp2077/enemies/shotgunner": {
+    "w": 30,
+    "h": 47,
+    "file": "Icon Enemy Shotgunner.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Shotgunner.png"
+  },
+  "cp2077/enemies/sniper": {
+    "w": 45,
+    "h": 45,
+    "file": "Icon Enemy Sniper.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Sniper.png"
+  },
+  "cp2077/enemies/tamara-cosby": {
+    "w": 218,
+    "h": 320,
+    "file": "Tamara Cosby Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tamara_Cosby_Infobox_CP2077.png"
+  },
+  "cp2077/enemies/the-mox": {
+    "w": 320,
+    "h": 292,
+    "file": "The Mox Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:The_Mox_Logo_CP2077.png"
+  },
+  "cp2077/enemies/trauma-team": {
+    "w": 320,
+    "h": 109,
+    "file": "Trauma Team Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Trauma_Team_Logo_CP2077.png"
+  },
+  "cp2077/enemies/turret": {
+    "w": 320,
+    "h": 235,
+    "file": "Arasaka ST 2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Arasaka_ST_2077.png"
+  },
+  "cp2077/enemies/tyger-claws": {
+    "w": 320,
+    "h": 244,
+    "file": "Tyger Claws Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tyger_Claws_Logo_CP2077.png"
+  },
+  "cp2077/enemies/valentinos": {
+    "w": 192,
+    "h": 320,
+    "file": "Valentinos Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Valentinos_Logo_CP2077.png"
+  },
+  "cp2077/enemies/voodoo-boys": {
+    "w": 299,
+    "h": 320,
+    "file": "Voodoo Boys Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Voodoo_Boys_Logo_CP2077.png"
+  },
+  "cp2077/enemies/wraiths": {
+    "w": 284,
+    "h": 320,
+    "file": "Wraiths Logo CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Wraiths_Logo_CP2077.png"
+  },
+  "cp2077/enemies/zaria-hughes": {
+    "w": 194,
+    "h": 320,
+    "file": "Char profile Zaria Hughes.jpeg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_Zaria_Hughes.jpeg"
+  },
+  "cp2077/enemies/zion-wylde": {
+    "w": 250,
+    "h": 320,
+    "file": "Char profile Zion Wylde.jpeg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Char_profile_Zion_Wylde.jpeg"
+  },
+  "cp2077/gear/adrenaline-booster": {
+    "w": 151,
+    "h": 160,
+    "file": "StaminaRegenBooster.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:StaminaRegenBooster.png"
+  },
+  "cp2077/gear/adrenaline-converter": {
+    "w": 160,
+    "h": 160,
+    "file": "DetectorRush.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:DetectorRush.png"
+  },
+  "cp2077/gear/adreno-trigger": {
+    "w": 160,
+    "h": 160,
+    "file": "DetectorRush.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:DetectorRush.png"
+  },
+  "cp2077/gear/arasaka-cyberdeck": {
+    "w": 160,
+    "h": 156,
+    "file": "ArasakaShadow.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ArasakaShadow.png"
+  },
+  "cp2077/gear/atomic-sensors": {
+    "w": 160,
+    "h": 160,
+    "file": "TroubleFinder.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:TroubleFinder.png"
+  },
+  "cp2077/gear/axolotl": {
+    "w": 160,
+    "h": 153,
+    "file": "SubdermalCoProcessor.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SubdermalCoProcessor.png"
+  },
+  "cp2077/gear/ballistic-coprocessor": {
+    "w": 154,
+    "h": 154,
+    "file": "PowerGrip.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:PowerGrip.png"
+  },
+  "cp2077/gear/basic-kiroshi-optics": {
+    "w": 156,
+    "h": 120,
+    "file": "KiroshiOptics.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KiroshiOptics.png"
+  },
+  "cp2077/gear/behavioral-imprint-synced-faceplate": {
+    "w": 111,
+    "h": 160,
+    "file": "MaskCW.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MaskCW.png"
+  },
+  "cp2077/gear/bioconductor": {
+    "w": 158,
+    "h": 158,
+    "file": "BioConductors.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BioConductors.png"
+  },
+  "cp2077/gear/biodyne-berserk": {
+    "w": 156,
+    "h": 160,
+    "file": "BerserkC2.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BerserkC2.png"
+  },
+  "cp2077/gear/biomonitor": {
+    "w": 160,
+    "h": 151,
+    "file": "Biomonitor.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Biomonitor.png"
+  },
+  "cp2077/gear/bionic-joints": {
+    "w": 160,
+    "h": 156,
+    "file": "BionicJoints.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BionicJoints.png"
+  },
+  "cp2077/gear/biotech-sigma-cyberdeck": {
+    "w": 160,
+    "h": 156,
+    "file": "BiotechSigma.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BiotechSigma.png"
+  },
+  "cp2077/gear/black-mamba": {
+    "w": 160,
+    "h": 160,
+    "file": "ViralVenom.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ViralVenom.png"
+  },
+  "cp2077/gear/blood-pump": {
+    "w": 160,
+    "h": 150,
+    "file": "BloodPump.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BloodPump.png"
+  },
+  "cp2077/gear/camillo-ram-manager": {
+    "w": 138,
+    "h": 159,
+    "file": "CamilloRamManager.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CamilloRamManager.png"
+  },
+  "cp2077/gear/carapace": {
+    "w": 158,
+    "h": 155,
+    "file": "WeirdTankyPlating.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:WeirdTankyPlating.png"
+  },
+  "cp2077/gear/cellular-adapter": {
+    "w": 160,
+    "h": 152,
+    "file": "PainDistributor.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:PainDistributor.png"
+  },
+  "cp2077/gear/chitin": {
+    "w": 160,
+    "h": 135,
+    "file": "Chiton.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chiton.png"
+  },
+  "cp2077/gear/chrome-compressor": {
+    "w": 156,
+    "h": 160,
+    "file": "CyberwareCapacityBooster.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CyberwareCapacityBooster.png"
+  },
+  "cp2077/gear/clutch-padding": {
+    "w": 139,
+    "h": 160,
+    "file": "ShockAbsorber.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ShockAbsorber.png"
+  },
+  "cp2077/gear/cogito-lattice": {
+    "w": 158,
+    "h": 160,
+    "file": "CogitoFrame.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CogitoFrame.png"
+  },
+  "cp2077/gear/countershell": {
+    "w": 160,
+    "h": 124,
+    "file": "SuddenAid.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SuddenAid.png"
+  },
+  "cp2077/gear/cox-2-cybersomatic-optimizer": {
+    "w": 158,
+    "h": 158,
+    "file": "BioConductors.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BioConductors.png"
+  },
+  "cp2077/gear/deep-field-visual-interface": {
+    "w": 160,
+    "h": 126,
+    "file": "VisualCortexSupport.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:VisualCortexSupport.png"
+  },
+  "cp2077/gear/defenzikov": {
+    "w": 160,
+    "h": 143,
+    "file": "PlatingGlitch.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:PlatingGlitch.png"
+  },
+  "cp2077/gear/dense-marrow": {
+    "w": 160,
+    "h": 160,
+    "file": "DenseMarrow.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:DenseMarrow.png"
+  },
+  "cp2077/gear/dynalar-sandevistan": {
+    "w": 149,
+    "h": 160,
+    "file": "SandevistanC2.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SandevistanC2.png"
+  },
+  "cp2077/gear/electrifying-gorilla-arms": {
+    "w": 160,
+    "h": 75,
+    "file": "StrongArms.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:StrongArms.png"
+  },
+  "cp2077/gear/electrifying-mantis-blades": {
+    "w": 159,
+    "h": 68,
+    "file": "MantisBlades.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MantisBlades.png"
+  },
+  "cp2077/gear/electrifying-monowire": {
+    "w": 158,
+    "h": 54,
+    "file": "NanoWires.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NanoWires.png"
+  },
+  "cp2077/gear/electrifying-projectile-launch-system": {
+    "w": 157,
+    "h": 60,
+    "file": "ProjectileLauncher.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png"
+  },
+  "cp2077/gear/electromag-recycler": {
+    "w": 143,
+    "h": 145,
+    "file": "DischargeConnector.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:DischargeConnector.png"
+  },
+  "cp2077/gear/epimorphic-skeleton": {
+    "w": 160,
+    "h": 160,
+    "file": "Endoskeleton.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Endoskeleton.png"
+  },
+  "cp2077/gear/ex-disk": {
+    "w": 113,
+    "h": 160,
+    "file": "ExDisk.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ExDisk.png"
+  },
+  "cp2077/gear/feedback-circuit": {
+    "w": 143,
+    "h": 145,
+    "file": "DischargeConnector.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:DischargeConnector.png"
+  },
+  "cp2077/gear/feen-x": {
+    "w": 160,
+    "h": 159,
+    "file": "NeuroMatrix.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NeuroMatrix.png"
+  },
+  "cp2077/gear/fortified-ankles": {
+    "w": 131,
+    "h": 160,
+    "file": "ReinforcedMuscles.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ReinforcedMuscles.png"
+  },
+  "cp2077/gear/gorilla-arms": {
+    "w": 160,
+    "h": 75,
+    "file": "StrongArms.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:StrongArms.png"
+  },
+  "cp2077/gear/handle-wrap": {
+    "w": 160,
+    "h": 153,
+    "file": "KnifeSharpener.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KnifeSharpener.png"
+  },
+  "cp2077/gear/heal-on-kill": {
+    "w": 145,
+    "h": 160,
+    "file": "HealOnKill.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:HealOnKill.png"
+  },
+  "cp2077/gear/immovable-force": {
+    "w": 148,
+    "h": 160,
+    "file": "GunStabilizer.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:GunStabilizer.png"
+  },
+  "cp2077/gear/isometric-stabilizer": {
+    "w": 139,
+    "h": 160,
+    "file": "ShockAbsorber.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ShockAbsorber.png"
+  },
+  "cp2077/gear/jenkins-tendons": {
+    "w": 144,
+    "h": 159,
+    "file": "JenkinsTendons.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:JenkinsTendons.png"
+  },
+  "cp2077/gear/kerenzikov": {
+    "w": 159,
+    "h": 159,
+    "file": "Kerenzikov.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kerenzikov.png"
+  },
+  "cp2077/gear/kerenzikov-boost-system": {
+    "w": 154,
+    "h": 160,
+    "file": "KerenziovBoostSystem.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KerenziovBoostSystem.png"
+  },
+  "cp2077/gear/kinetic-frame": {
+    "w": 158,
+    "h": 158,
+    "file": "BoneMarrowCells.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BoneMarrowCells.png"
+  },
+  "cp2077/gear/kiroshi-clairvoyant-optics": {
+    "w": 160,
+    "h": 157,
+    "file": "KiroshiOpticsWallhack.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsWallhack.png"
+  },
+  "cp2077/gear/kiroshi-cockatrice-optics": {
+    "w": 160,
+    "h": 154,
+    "file": "Iconic KiroshiOpticsBare.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Iconic_KiroshiOpticsBare.png"
+  },
+  "cp2077/gear/kiroshi-doomsayer-optics": {
+    "w": 160,
+    "h": 150,
+    "file": "KiroshiOpticsHunter.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsHunter.png"
+  },
+  "cp2077/gear/kiroshi-sentry-optics": {
+    "w": 160,
+    "h": 150,
+    "file": "KiroshiOpticsSensor.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsSensor.png"
+  },
+  "cp2077/gear/kiroshi-stalker-optics": {
+    "w": 160,
+    "h": 157,
+    "file": "KiroshiOpticsPiercing.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsPiercing.png"
+  },
+  "cp2077/gear/kiroshi-the-oracle-optics": {
+    "w": 145,
+    "h": 160,
+    "file": "KiroshiOpticsCombined.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsCombined.png"
+  },
+  "cp2077/gear/leeroy-ligament-system": {
+    "w": 160,
+    "h": 155,
+    "file": "IconicJenkinsTendons.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:IconicJenkinsTendons.png"
+  },
+  "cp2077/gear/lynx-paws": {
+    "w": 160,
+    "h": 152,
+    "file": "CatPaws.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CatPaws.png"
+  },
+  "cp2077/gear/mantis-blades": {
+    "w": 159,
+    "h": 68,
+    "file": "MantisBlades.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MantisBlades.png"
+  },
+  "cp2077/gear/maxtac-mantis-blades": {
+    "w": 159,
+    "h": 68,
+    "file": "MantisBlades.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MantisBlades.png"
+  },
+  "cp2077/gear/mechatronic-core": {
+    "w": 136,
+    "h": 160,
+    "file": "MechatronicCore.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MechatronicCore.png"
+  },
+  "cp2077/gear/memory-boost": {
+    "w": 160,
+    "h": 141,
+    "file": "MemoryBoost.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MemoryBoost.png"
+  },
+  "cp2077/gear/microgenerator": {
+    "w": 160,
+    "h": 158,
+    "file": "MicroGenerator.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MicroGenerator.png"
+  },
+  "cp2077/gear/microrotors": {
+    "w": 151,
+    "h": 160,
+    "file": "CyberRotors.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CyberRotors.png"
+  },
+  "cp2077/gear/militech-apogee": {
+    "w": 149,
+    "h": 160,
+    "file": "SandevistanApogee.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SandevistanApogee.png"
+  },
+  "cp2077/gear/militech-berserk": {
+    "w": 156,
+    "h": 160,
+    "file": "BerserkC4.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BerserkC4.png"
+  },
+  "cp2077/gear/militech-canto": {
+    "w": 152,
+    "h": 158,
+    "file": "HauntedCyberdeck.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:HauntedCyberdeck.png"
+  },
+  "cp2077/gear/militech-falcon": {
+    "w": 150,
+    "h": 160,
+    "file": "SandevistanC4.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SandevistanC4.png"
+  },
+  "cp2077/gear/militech-paraline": {
+    "w": 160,
+    "h": 157,
+    "file": "MilitechParaline.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MilitechParaline.png"
+  },
+  "cp2077/gear/monowire": {
+    "w": 158,
+    "h": 54,
+    "file": "NanoWires.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NanoWires.png"
+  },
+  "cp2077/gear/moore-tech-berserk": {
+    "w": 154,
+    "h": 160,
+    "file": "BerserkC1.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BerserkC1.png"
+  },
+  "cp2077/gear/nano-plating": {
+    "w": 158,
+    "h": 157,
+    "file": "NanoTechPlates.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NanoTechPlates.png"
+  },
+  "cp2077/gear/neofiber": {
+    "w": 146,
+    "h": 160,
+    "file": "NeoFiber.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NeoFiber.png"
+  },
+  "cp2077/gear/netwatch-netdriver": {
+    "w": 160,
+    "h": 158,
+    "file": "NetWatchNetdriver.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NetWatchNetdriver.png"
+  },
+  "cp2077/gear/newton-module": {
+    "w": 160,
+    "h": 153,
+    "file": "SubdermalCoProcessor.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SubdermalCoProcessor.png"
+  },
+  "cp2077/gear/optical-camo": {
+    "w": 157,
+    "h": 160,
+    "file": "OpticalCamo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:OpticalCamo.png"
+  },
+  "cp2077/gear/pain-editor": {
+    "w": 151,
+    "h": 160,
+    "file": "PainReductor.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:PainReductor.png"
+  },
+  "cp2077/gear/painducer": {
+    "w": 151,
+    "h": 160,
+    "file": "BloodDepleter.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BloodDepleter.png"
+  },
+  "cp2077/gear/para-bellum": {
+    "w": 160,
+    "h": 159,
+    "file": "T1000.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:T1000.png"
+  },
+  "cp2077/gear/peripheral-inverse": {
+    "w": 160,
+    "h": 155,
+    "file": "ProximityReducer.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ProximityReducer.png"
+  },
+  "cp2077/gear/projectile-launch-system": {
+    "w": 157,
+    "h": 60,
+    "file": "ProjectileLauncher.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png"
+  },
+  "cp2077/gear/proxishield": {
+    "w": 160,
+    "h": 155,
+    "file": "ProximityReducer.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ProximityReducer.png"
+  },
+  "cp2077/gear/qiant-warp-dancer": {
+    "w": 145,
+    "h": 160,
+    "file": "SandevistanC3.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SandevistanC3.png"
+  },
+  "cp2077/gear/quantum-tuner": {
+    "w": 156,
+    "h": 160,
+    "file": "TimeBank.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:TimeBank.png"
+  },
+  "cp2077/gear/ram-reallocator": {
+    "w": 138,
+    "h": 159,
+    "file": "CamilloRamManager.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CamilloRamManager.png"
+  },
+  "cp2077/gear/ram-recoup": {
+    "w": 119,
+    "h": 160,
+    "file": "CompilingSkeleton.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CompilingSkeleton.png"
+  },
+  "cp2077/gear/ram-upgrade": {
+    "w": 157,
+    "h": 160,
+    "file": "RamUpgrade.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:RamUpgrade.png"
+  },
+  "cp2077/gear/rangeguard": {
+    "w": 157,
+    "h": 160,
+    "file": "Cw integumentary extra.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Cw_integumentary_extra.png"
+  },
+  "cp2077/gear/rara-avis": {
+    "w": 160,
+    "h": 159,
+    "file": "T1000.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:T1000.png"
+  },
+  "cp2077/gear/raven-microcyber": {
+    "w": 160,
+    "h": 156,
+    "file": "RavenMicrocyber.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:RavenMicrocyber.png"
+  },
+  "cp2077/gear/reflex-tuner": {
+    "w": 154,
+    "h": 160,
+    "file": "ReflexRecorder.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ReflexRecorder.png"
+  },
+  "cp2077/gear/reinforced-tendons": {
+    "w": 146,
+    "h": 157,
+    "file": "BoostedTendons.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BoostedTendons.png"
+  },
+  "cp2077/gear/revulsor": {
+    "w": 154,
+    "h": 160,
+    "file": "ReflexRecorder.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ReflexRecorder.png"
+  },
+  "cp2077/gear/scar-coalescer": {
+    "w": 155,
+    "h": 160,
+    "file": "NoPainNoGain.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NoPainNoGain.png"
+  },
+  "cp2077/gear/scarab": {
+    "w": 160,
+    "h": 159,
+    "file": "RapidMuscleNurish.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:RapidMuscleNurish.png"
+  },
+  "cp2077/gear/second-heart": {
+    "w": 139,
+    "h": 160,
+    "file": "SecondHeart.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SecondHeart.png"
+  },
+  "cp2077/gear/self-ice": {
+    "w": 160,
+    "h": 129,
+    "file": "SelfIce.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SelfIce.png"
+  },
+  "cp2077/gear/shock-absorber": {
+    "w": 136,
+    "h": 160,
+    "file": "JointLock.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:JointLock.png"
+  },
+  "cp2077/gear/shock-n-awe": {
+    "w": 159,
+    "h": 159,
+    "file": "ElectroshockMechanism.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ElectroshockMechanism.png"
+  },
+  "cp2077/gear/smart-link": {
+    "w": 160,
+    "h": 134,
+    "file": "SmartLink.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SmartLink.png"
+  },
+  "cp2077/gear/spring-joints": {
+    "w": 133,
+    "h": 160,
+    "file": "AgileJoints.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:AgileJoints.png"
+  },
+  "cp2077/gear/stabber": {
+    "w": 145,
+    "h": 160,
+    "file": "OilDispenser.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:OilDispenser.png"
+  },
+  "cp2077/gear/subdermal-armor": {
+    "w": 160,
+    "h": 126,
+    "file": "BoringPlating.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BoringPlating.png"
+  },
+  "cp2077/gear/synaptic-accelerator": {
+    "w": 114,
+    "h": 160,
+    "file": "SynapticAccelerator.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SynapticAccelerator.png"
+  },
+  "cp2077/gear/tattoo-johnnys-special": {
+    "w": 136,
+    "h": 160,
+    "file": "CasiusTattoo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CasiusTattoo.png"
+  },
+  "cp2077/gear/tattoo-together-forever": {
+    "w": 160,
+    "h": 136,
+    "file": "SilverhandTattoo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SilverhandTattoo.png"
+  },
+  "cp2077/gear/tattoo-tyger-claws-dermal-imprint": {
+    "w": 136,
+    "h": 160,
+    "file": "YakuzaTattoo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:YakuzaTattoo.png"
+  },
+  "cp2077/gear/tetratronic-rippler": {
+    "w": 160,
+    "h": 152,
+    "file": "TetratronicRippler.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:TetratronicRippler.png"
+  },
+  "cp2077/gear/thermal-gorilla-arms": {
+    "w": 160,
+    "h": 75,
+    "file": "StrongArms.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:StrongArms.png"
+  },
+  "cp2077/gear/thermal-mantis-blades": {
+    "w": 159,
+    "h": 68,
+    "file": "MantisBlades.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MantisBlades.png"
+  },
+  "cp2077/gear/thermal-monowire": {
+    "w": 158,
+    "h": 54,
+    "file": "NanoWires.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NanoWires.png"
+  },
+  "cp2077/gear/thermal-projectile-launch-system": {
+    "w": 157,
+    "h": 60,
+    "file": "ProjectileLauncher.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png"
+  },
+  "cp2077/gear/threatevac": {
+    "w": 155,
+    "h": 160,
+    "file": "CatchMeIfYouCan.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CatchMeIfYouCan.png"
+  },
+  "cp2077/gear/titanium-bones": {
+    "w": 141,
+    "h": 157,
+    "file": "TitaniumInfusedBones.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:TitaniumInfusedBones.png"
+  },
+  "cp2077/gear/toxic-gorilla-arms": {
+    "w": 160,
+    "h": 75,
+    "file": "StrongArms.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:StrongArms.png"
+  },
+  "cp2077/gear/toxic-mantis-blades": {
+    "w": 159,
+    "h": 68,
+    "file": "MantisBlades.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MantisBlades.png"
+  },
+  "cp2077/gear/toxic-monowire": {
+    "w": 158,
+    "h": 54,
+    "file": "NanoWires.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:NanoWires.png"
+  },
+  "cp2077/gear/toxic-projectile-launch-system": {
+    "w": 157,
+    "h": 60,
+    "file": "ProjectileLauncher.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png"
+  },
+  "cp2077/gear/tyrosine-injector": {
+    "w": 160,
+    "h": 158,
+    "file": "TyrosineInjector.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:TyrosineInjector.png"
+  },
+  "cp2077/gear/universal-booster": {
+    "w": 157,
+    "h": 147,
+    "file": "EnhancedBloodVessels.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:EnhancedBloodVessels.png"
+  },
+  "cp2077/gear/visual-cortex-support": {
+    "w": 160,
+    "h": 126,
+    "file": "VisualCortexSupport.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:VisualCortexSupport.png"
+  },
+  "cp2077/gear/zetatech-berserk": {
+    "w": 146,
+    "h": 160,
+    "file": "BerserkC3.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BerserkC3.png"
+  },
+  "cp2077/gear/zetatech-sandevistan": {
+    "w": 160,
+    "h": 154,
+    "file": "SandevistanC1.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SandevistanC1.png"
+  },
+  "cp2077/items/arch-nazare": {
+    "w": 320,
+    "h": 105,
+    "file": "Nazaré Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nazar%C3%A9_Database_CP2077.png"
+  },
+  "cp2077/items/arch-nazare-itsumade": {
+    "w": 320,
+    "h": 281,
+    "file": "Arch Nazaré Itsumade Purple.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Arch_Nazar%C3%A9_Itsumade_Purple.jpg"
+  },
+  "cp2077/items/arch-nazare-kobold": {
+    "w": 320,
+    "h": 232,
+    "file": "ARCH Nazaré Kobold Icon CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ARCH_Nazar%C3%A9_Kobold_Icon_CP2077.png"
+  },
+  "cp2077/items/arch-nazare-racer": {
+    "w": 320,
+    "h": 320,
+    "file": "ARCH Nazare Racer.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ARCH_Nazare_Racer.jpg"
+  },
+  "cp2077/items/archer-hella-ec-d-i360": {
+    "w": 320,
+    "h": 105,
+    "file": "Archer Hella EC-D i360 Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Archer_Hella_EC-D_i360_Database_CP2077.png"
+  },
+  "cp2077/items/archer-quartz-bandit": {
+    "w": 320,
+    "h": 105,
+    "file": "Archer Quartz \"Bandit\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_%22Bandit%22_Database_CP2077.png"
+  },
+  "cp2077/items/archer-quartz-ec-l-r275": {
+    "w": 320,
+    "h": 105,
+    "file": "Archer Quartz EC-L r275 (2041) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_EC-L_r275_(2041)_Database_CP2077.png"
+  },
+  "cp2077/items/archer-quartz-ec-t2-r660": {
+    "w": 320,
+    "h": 105,
+    "file": "Archer Quartz EC-L r275 (2041) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_EC-L_r275_(2041)_Database_CP2077.png"
+  },
+  "cp2077/items/archer-quartz-sidewinder": {
+    "w": 320,
+    "h": 105,
+    "file": "Archer Quartz \"Sidewinder\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_%22Sidewinder%22_Database_CP2077.png"
+  },
+  "cp2077/items/archer-quartz-specter": {
+    "w": 320,
+    "h": 105,
+    "file": "Archer Quartz \"Specter\" Autofixer CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_%22Specter%22_Autofixer_CP2077.png"
+  },
+  "cp2077/items/bait": {
+    "w": 99,
+    "h": 128,
+    "file": "WhistleProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:WhistleProgram.png"
+  },
+  "cp2077/items/blackwall-gateway": {
+    "w": 99,
+    "h": 128,
+    "file": "GenericProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:GenericProgram.png"
+  },
+  "cp2077/items/breach-protocol-quickhack": {
+    "w": 99,
+    "h": 128,
+    "file": "BreachProtocol Icon CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BreachProtocol_Icon_CP2077.png"
+  },
+  "cp2077/items/brennan-apollo": {
+    "w": 320,
+    "h": 105,
+    "file": "Brennan Apollo Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Brennan_Apollo_Database_CP2077.png"
+  },
+  "cp2077/items/brennan-apollo-650-s": {
+    "w": 320,
+    "h": 312,
+    "file": "Brennan Apollo Sportbike.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Brennan_Apollo_Sportbike.png"
+  },
+  "cp2077/items/chevillon-emperor-620-ragnar": {
+    "w": 320,
+    "h": 105,
+    "file": "Chevillon Emperor 620 Ragnar Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chevillon_Emperor_620_Ragnar_Database_CP2077.png"
+  },
+  "cp2077/items/chevillon-legatus-450-aquila": {
+    "w": 320,
+    "h": 104,
+    "file": "Chevillon Legatus 450 Aquila Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chevillon_Legatus_450_Aquila_Database_CP2077.png"
+  },
+  "cp2077/items/chevillon-thrax-388-jefferson": {
+    "w": 320,
+    "h": 105,
+    "file": "Chevillon Thrax 388 Jefferson (2062) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chevillon_Thrax_388_Jefferson_(2062)_Database_CP2077.png"
+  },
+  "cp2077/items/contagion": {
+    "w": 99,
+    "h": 128,
+    "file": "ContagionProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ContagionProgram.png"
+  },
+  "cp2077/items/cripple-movement": {
+    "w": 99,
+    "h": 128,
+    "file": "LocomotionMalfunctionProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:LocomotionMalfunctionProgram.png"
+  },
+  "cp2077/items/cyberpsychosis-quickhack": {
+    "w": 99,
+    "h": 128,
+    "file": "MadnessProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MadnessProgram.png"
+  },
+  "cp2077/items/cyberware-malfunction": {
+    "w": 99,
+    "h": 128,
+    "file": "DisableCyberwareProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:DisableCyberwareProgram.png"
+  },
+  "cp2077/items/delamain-no-21": {
+    "w": 320,
+    "h": 105,
+    "file": "Delamain no. 21 Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Delamain_no._21_Database_CP2077.png"
+  },
+  "cp2077/items/detonate-grenade": {
+    "w": 99,
+    "h": 128,
+    "file": "GrenadeExplodeProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:GrenadeExplodeProgram.png"
+  },
+  "cp2077/items/emergency-brake": {
+    "w": 99,
+    "h": 128,
+    "file": "GenericProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:GenericProgram.png"
+  },
+  "cp2077/items/floor-it": {
+    "w": 99,
+    "h": 128,
+    "file": "GenericProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:GenericProgram.png"
+  },
+  "cp2077/items/herrera-outlaw-gts": {
+    "w": 320,
+    "h": 105,
+    "file": "Herrera Outlaw GTS Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Herrera_Outlaw_GTS_Database_CP2077.png"
+  },
+  "cp2077/items/herrera-outlaw-weiler": {
+    "w": 320,
+    "h": 102,
+    "file": "Herrera Outlaw Weiler Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Herrera_Outlaw_Weiler_Icon_CP2077PL.png"
+  },
+  "cp2077/items/herrera-riptide-terrier": {
+    "w": 320,
+    "h": 123,
+    "file": "Herrera Riptide Terrier Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Herrera_Riptide_Terrier_Icon_CP2077PL.png"
+  },
+  "cp2077/items/jackies-arch": {
+    "w": 320,
+    "h": 180,
+    "file": "Jackie's ARCH 2.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Jackie%27s_ARCH_2.png"
+  },
+  "cp2077/items/mahir-supron-fs3": {
+    "w": 320,
+    "h": 105,
+    "file": "Mahir Supron FS3 Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mahir_Supron_FS3_Database_CP2077.png"
+  },
+  "cp2077/items/mahir-supron-fs3-t": {
+    "w": 320,
+    "h": 183,
+    "file": "Mahir Supron FS3-T Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mahir_Supron_FS3-T_Icon_CP2077PL.png"
+  },
+  "cp2077/items/mahir-supron-trailbruiser": {
+    "w": 320,
+    "h": 272,
+    "file": "Mahir Supron Trailbruiser Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mahir_Supron_Trailbruiser_Icon_CP2077PL.png"
+  },
+  "cp2077/items/makigai-maimai-p126": {
+    "w": 320,
+    "h": 105,
+    "file": "Makigai MaiMai P126 V Message CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Makigai_MaiMai_P126_V_Message_CP2077.png"
+  },
+  "cp2077/items/makigai-tanishi-kuma": {
+    "w": 320,
+    "h": 204,
+    "file": "Makigai Tanishi Kuma Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Makigai_Tanishi_Kuma_Icon_CP2077PL.png"
+  },
+  "cp2077/items/makigai-tanishi-t400": {
+    "w": 320,
+    "h": 180,
+    "file": "Makigai Tanishi T400 - Front quarter view.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Makigai_Tanishi_T400_-_Front_quarter_view.png"
+  },
+  "cp2077/items/malina-mobile": {
+    "w": 320,
+    "h": 218,
+    "file": "ARCH Nazaré Malina-mobile Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:ARCH_Nazar%C3%A9_Malina-mobile_Icon_CP2077PL.png"
+  },
+  "cp2077/items/memory-wipe": {
+    "w": 99,
+    "h": 128,
+    "file": "MemoryWipeProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MemoryWipeProgram.png"
+  },
+  "cp2077/items/militech-hellhound": {
+    "w": 320,
+    "h": 105,
+    "file": "Militech Hellhound Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Militech_Hellhound_Database_CP2077PL.png"
+  },
+  "cp2077/items/mizutani-hozuki-hoseki": {
+    "w": 320,
+    "h": 126,
+    "file": "Mizutani Hozuki Hoseki Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mizutani_Hozuki_Hoseki_Icon_CP2077PL.png"
+  },
+  "cp2077/items/mizutani-hozuki-mh2": {
+    "w": 320,
+    "h": 128,
+    "file": "Mizutani Hozuki MH2 Icon CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mizutani_Hozuki_MH2_Icon_CP2077.png"
+  },
+  "cp2077/items/mizutani-shion-bonewrecker": {
+    "w": 320,
+    "h": 178,
+    "file": "Mizutani Shion Bonewrecker 1.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_Bonewrecker_1.png"
+  },
+  "cp2077/items/mizutani-shion-coyote": {
+    "w": 320,
+    "h": 105,
+    "file": "Mizutani Shion \"Coyote\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_%22Coyote%22_Database_CP2077.png"
+  },
+  "cp2077/items/mizutani-shion-mz1": {
+    "w": 320,
+    "h": 105,
+    "file": "Mizutani Shion MZ2 (2060) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_MZ2_(2060)_Database_CP2077.png"
+  },
+  "cp2077/items/mizutani-shion-mz2": {
+    "w": 320,
+    "h": 105,
+    "file": "Mizutani Shion MZ2 (2060) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_MZ2_(2060)_Database_CP2077.png"
+  },
+  "cp2077/items/mizutani-shion-samum": {
+    "w": 320,
+    "h": 126,
+    "file": "Mizutani Shion Samum Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_Samum_Icon_CP2077PL.png"
+  },
+  "cp2077/items/mizutani-shion-targa-mzt": {
+    "w": 320,
+    "h": 105,
+    "file": "Vehicle MizutaniShion-Targa.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Vehicle_MizutaniShion-Targa.png"
+  },
+  "cp2077/items/overheat": {
+    "w": 99,
+    "h": 128,
+    "file": "OverheatProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:OverheatProgram.png"
+  },
+  "cp2077/items/ping": {
+    "w": 99,
+    "h": 128,
+    "file": "PingProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:PingProgram.png"
+  },
+  "cp2077/items/porsche-911-turbo-930": {
+    "w": 320,
+    "h": 105,
+    "file": "Porsche 911 Turbo (930) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Porsche_911_Turbo_(930)_Database_CP2077.png"
+  },
+  "cp2077/items/porsche-911-turbo-cabriolet-930": {
+    "w": 320,
+    "h": 135,
+    "file": "New Porsche 911 Patch 2.1 CP2077.jpeg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:New_Porsche_911_Patch_2.1_CP2077.jpeg"
+  },
+  "cp2077/items/quadra-sport-r-7-charon": {
+    "w": 320,
+    "h": 180,
+    "file": "Photomode 12102023 091845.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Photomode_12102023_091845.png"
+  },
+  "cp2077/items/quadra-sport-r-7-chiaroscuro": {
+    "w": 320,
+    "h": 101,
+    "file": "Quadra Sport R-7 Chiaroscuro Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Sport_R-7_Chiaroscuro_Icon_CP2077PL.png"
+  },
+  "cp2077/items/quadra-sport-r-7-sterling": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Sport R-7 \"Sterling\" Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Sport_R-7_%22Sterling%22_Database_CP2077PL.png"
+  },
+  "cp2077/items/quadra-sport-r-7-vigilante": {
+    "w": 320,
+    "h": 143,
+    "file": "Quadra Sport R-7 Vigilante CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Sport_R-7_Vigilante_CP2077.png"
+  },
+  "cp2077/items/quadra-turbo-r-740": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Turbo-R 740 Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Turbo-R_740_Database_CP2077.png"
+  },
+  "cp2077/items/quadra-turbo-r-v-tech": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Turbo-R V-Tech Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Turbo-R_V-Tech_Database_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-640-ts": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Type-66 640 TS Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_640_TS_Database_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-680-ts": {
+    "w": 320,
+    "h": 142,
+    "file": "CP2077-Quadra-Type-66-680-TS.jpg",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CP2077-Quadra-Type-66-680-TS.jpg"
+  },
+  "cp2077/items/quadra-type-66-avenger": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Type-66 Avenger Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_Avenger_Database_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-bulitt": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Type-66 640 TS V Message CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_640_TS_V_Message_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-cthulhu": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Type-66 \"Cthulhu\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Cthulhu%22_Database_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-hoon": {
+    "w": 320,
+    "h": 180,
+    "file": "Quadra Type-66 \"Hoon\" Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Hoon%22_Infobox_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-javelina": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Type-66 \"Javelina\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Javelina%22_Database_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-jen-rowley": {
+    "w": 320,
+    "h": 105,
+    "file": "Quadra Type-66 \"Jen Rowley\" V Message CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Jen_Rowley%22_V_Message_CP2077.png"
+  },
+  "cp2077/items/quadra-type-66-wingate": {
+    "w": 320,
+    "h": 120,
+    "file": "Quadra Type-66 Wingate Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_Wingate_Icon_CP2077PL.png"
+  },
+  "cp2077/items/rayfield-aerondight-guinevere": {
+    "w": 320,
+    "h": 105,
+    "file": "Rayfield Aerondight \"Guinevere\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rayfield_Aerondight_%22Guinevere%22_Database_CP2077.png"
+  },
+  "cp2077/items/rayfield-caliburn": {
+    "w": 320,
+    "h": 105,
+    "file": "Rayfield Caliburn Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rayfield_Caliburn_Database_CP2077.png"
+  },
+  "cp2077/items/rayfield-caliburn-mordred": {
+    "w": 320,
+    "h": 104,
+    "file": "Rayfield Caliburn \"Mordred\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rayfield_Caliburn_%22Mordred%22_Database_CP2077.png"
+  },
+  "cp2077/items/rayfield-caliburn-murkmobile": {
+    "w": 320,
+    "h": 180,
+    "file": "Rayfield Caliburn Version player.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rayfield_Caliburn_Version_player.png"
+  },
+  "cp2077/items/reboot-optics": {
+    "w": 99,
+    "h": 128,
+    "file": "BlindProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BlindProgram.png"
+  },
+  "cp2077/items/request-backup": {
+    "w": 99,
+    "h": 128,
+    "file": "CommsCallInProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CommsCallInProgram.png"
+  },
+  "cp2077/items/scorpions-apollo": {
+    "w": 320,
+    "h": 180,
+    "file": "Brennan Apollo Scorpion Side.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Brennan_Apollo_Scorpion_Side.png"
+  },
+  "cp2077/items/self-destruct": {
+    "w": 99,
+    "h": 128,
+    "file": "GenericProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:GenericProgram.png"
+  },
+  "cp2077/items/short-circuit": {
+    "w": 99,
+    "h": 128,
+    "file": "EMPOverloadProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:EMPOverloadProgram.png"
+  },
+  "cp2077/items/sonic-shock": {
+    "w": 99,
+    "h": 128,
+    "file": "CommsNoiseProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:CommsNoiseProgram.png"
+  },
+  "cp2077/items/suicide": {
+    "w": 99,
+    "h": 128,
+    "file": "SuicideProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SuicideProgram.png"
+  },
+  "cp2077/items/synapse-burnout": {
+    "w": 99,
+    "h": 128,
+    "file": "BrainMeltProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:BrainMeltProgram.png"
+  },
+  "cp2077/items/system-collapse": {
+    "w": 99,
+    "h": 128,
+    "file": "SystemCollapseProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:SystemCollapseProgram.png"
+  },
+  "cp2077/items/take-control": {
+    "w": 99,
+    "h": 128,
+    "file": "TakeControlProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:TakeControlProgram.png"
+  },
+  "cp2077/items/thorton-colby-barghest": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Colby BARGHEST Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_BARGHEST_Database_CP2077PL.png"
+  },
+  "cp2077/items/thorton-colby-c125": {
+    "w": 320,
+    "h": 181,
+    "file": "Thorton Colby C125.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_C125.png"
+  },
+  "cp2077/items/thorton-colby-cst40": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Colby C240t Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_C240t_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-colby-cx410-butte": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Colby CX410 Butte V Message CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_CX410_Butte_V_Message_CP2077.png"
+  },
+  "cp2077/items/thorton-colby-cx410-gran-butte": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Colby CX410 Butte Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_CX410_Butte_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-colby-little-mule": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Colby \"Little Mule\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_%22Little_Mule%22_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-colby-vulture": {
+    "w": 320,
+    "h": 186,
+    "file": "Thorton Colby Shootin' Brake1.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_Shootin%27_Brake1.png"
+  },
+  "cp2077/items/thorton-galena-g240": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Galena G240 (2031) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_G240_(2031)_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-galena-ga32t": {
+    "w": 320,
+    "h": 174,
+    "file": "Thorton Galena GA32T.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_GA32T.png"
+  },
+  "cp2077/items/thorton-galena-gecko": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Galena \"Gecko\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_%22Gecko%22_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-galena-locust": {
+    "w": 320,
+    "h": 183,
+    "file": "Thorton Galena Locust Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_Locust_Icon_CP2077PL.png"
+  },
+  "cp2077/items/thorton-galena-rattler": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Galena GA40xt \"Rattler\" Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_GA40xt_%22Rattler%22_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-mackinaw-beast": {
+    "w": 320,
+    "h": 105,
+    "file": "Beast Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Beast_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-mackinaw-demiurge": {
+    "w": 320,
+    "h": 180,
+    "file": "Thorton Mackinaw \"Demiurge\" Infobox CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Mackinaw_%22Demiurge%22_Infobox_CP2077.png"
+  },
+  "cp2077/items/thorton-mackinaw-mtl1": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Mackinaw MTL1 Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Mackinaw_MTL1_Database_CP2077.png"
+  },
+  "cp2077/items/thorton-mackinaw-saguaro": {
+    "w": 320,
+    "h": 105,
+    "file": "Thorton Mackinaw Saguaro V Message CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Mackinaw_Saguaro_V_Message_CP2077.png"
+  },
+  "cp2077/items/thorton-merrimac-warlock": {
+    "w": 320,
+    "h": 138,
+    "file": "Thorton Merrimac Warlock Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Thorton_Merrimac_Warlock_Icon_CP2077PL.png"
+  },
+  "cp2077/items/villefort-alvarado-v4f-570-delegate": {
+    "w": 320,
+    "h": 105,
+    "file": "Villefort Alvarado V4F 570 Delegate (2044) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Villefort_Alvarado_V4F_570_Delegate_(2044)_Database_CP2077.png"
+  },
+  "cp2077/items/villefort-alvarado-v4fh-570-herman": {
+    "w": 320,
+    "h": 105,
+    "file": "Villefort Alvarado V4FH 570 Herman Database CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Villefort_Alvarado_V4FH_570_Herman_Database_CP2077PL.png"
+  },
+  "cp2077/items/villefort-alvarado-vato": {
+    "w": 320,
+    "h": 180,
+    "file": "Villefort Alvarado Vato Front quarter.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Villefort_Alvarado_Vato_Front_quarter.png"
+  },
+  "cp2077/items/villefort-columbus-v340-f-freight": {
+    "w": 320,
+    "h": 105,
+    "file": "Villefort Columbus V340-F Freight (2068) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Villefort_Columbus_V340-F_Freight_(2068)_Database_CP2077.png"
+  },
+  "cp2077/items/villefort-cortes-v5000-valor": {
+    "w": 320,
+    "h": 105,
+    "file": "Villefort Cortes V5000 Valor (2040) Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Villefort_Cortes_V5000_Valor_(2040)_Database_CP2077.png"
+  },
+  "cp2077/items/villefort-deleon-v410-s-coupe": {
+    "w": 320,
+    "h": 113,
+    "file": "Villefort Deleon V410-S Coupé Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Villefort_Deleon_V410-S_Coup%C3%A9_Icon_CP2077PL.png"
+  },
+  "cp2077/items/villefort-deleon-vindicator": {
+    "w": 320,
+    "h": 109,
+    "file": "Villefort Deleon Vindicator Icon CP2077PL.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Villefort_Deleon_Vindicator_Icon_CP2077PL.png"
+  },
+  "cp2077/items/weapon-glitch": {
+    "w": 99,
+    "h": 128,
+    "file": "WeaponMalfunctionProgram.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:WeaponMalfunctionProgram.png"
+  },
+  "cp2077/items/yaiba-arv-q340-semimaru": {
+    "w": 320,
+    "h": 104,
+    "file": "Yaiba ARV-Q340 Semimaru Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yaiba_ARV-Q340_Semimaru_Database_CP2077.png"
+  },
+  "cp2077/items/yaiba-asm-r250-muramasa": {
+    "w": 320,
+    "h": 104,
+    "file": "Yaiba ASM-R250 Muramasa Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yaiba_ASM-R250_Muramasa_Database_CP2077.png"
+  },
+  "cp2077/items/yaiba-kusanagi-akashita": {
+    "w": 320,
+    "h": 218,
+    "file": "Yaiba Kusanagi Akashita Icon CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yaiba_Kusanagi_Akashita_Icon_CP2077.png"
+  },
+  "cp2077/items/yaiba-kusanagi-ct-3x": {
+    "w": 320,
+    "h": 105,
+    "file": "Yaiba Kusanagi CT-3X Database CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yaiba_Kusanagi_CT-3X_Database_CP2077.png"
+  },
+  "cp2077/items/yaiba-kusanagi-peacekeeper": {
+    "w": 320,
+    "h": 162,
+    "file": "Yaiba Kusanagi Peacekeeper Icon CP2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yaiba_Kusanagi_Peacekeeper_Icon_CP2077.png"
+  },
+  "cp2077/weapons/achilles": {
+    "w": 320,
+    "h": 73,
+    "file": "Achilles_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Achilles_Default.png"
+  },
+  "cp2077/weapons/achilles-x-mod2": {
+    "w": 320,
+    "h": 73,
+    "file": "Achilles_Collectible.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Achilles_Collectible.png"
+  },
+  "cp2077/weapons/agaou": {
+    "w": 320,
+    "h": 143,
+    "file": "VB_Axe.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:VB_Axe.png"
+  },
+  "cp2077/weapons/ajax": {
+    "w": 320,
+    "h": 119,
+    "file": "Ajax_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ajax_Default.png"
+  },
+  "cp2077/weapons/alabai": {
+    "w": 270,
+    "h": 160,
+    "file": "Pozhar_AirDrop.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Pozhar_AirDrop.png"
+  },
+  "cp2077/weapons/ambition": {
+    "w": 209,
+    "h": 160,
+    "file": "Kenshin_Spy.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kenshin_Spy.png"
+  },
+  "cp2077/weapons/amnesty": {
+    "w": 320,
+    "h": 153,
+    "file": "Overture_Cassidy.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Overture_Cassidy.png"
+  },
+  "cp2077/weapons/amstaff": {
+    "w": 320,
+    "h": 152,
+    "file": "Crusher_Amazon.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Crusher_Amazon.png"
+  },
+  "cp2077/weapons/apparition": {
+    "w": 272,
+    "h": 160,
+    "file": "Kenshin_Frank.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kenshin_Frank.png"
+  },
+  "cp2077/weapons/ar-raygun-supreme-9000": {
+    "w": 243,
+    "h": 160,
+    "file": "Lexington_Toygun.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lexington_Toygun.png"
+  },
+  "cp2077/weapons/archangel": {
+    "w": 320,
+    "h": 153,
+    "file": "Overture_Kerry.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Overture_Kerry.png"
+  },
+  "cp2077/weapons/ashura": {
+    "w": 320,
+    "h": 81,
+    "file": "Ashura_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ashura_Default.png"
+  },
+  "cp2077/weapons/ba-xing-chong": {
+    "w": 320,
+    "h": 86,
+    "file": "Zhuo_Eight_Star.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Zhuo_Eight_Star.png"
+  },
+  "cp2077/weapons/baby-boomer": {
+    "w": 320,
+    "h": 23,
+    "file": "Baseball_Bat_Malina.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Malina.png"
+  },
+  "cp2077/weapons/bald-eagle": {
+    "w": 305,
+    "h": 160,
+    "file": "Metel_Kurt.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Metel_Kurt.png"
+  },
+  "cp2077/weapons/baseball-bat": {
+    "w": 320,
+    "h": 23,
+    "file": "Baseball_Bat_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Default.png"
+  },
+  "cp2077/weapons/baseball-bat-x-mod2": {
+    "w": 320,
+    "h": 42,
+    "file": "Baseball_Bat_Legendary.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Legendary.png"
+  },
+  "cp2077/weapons/bfc-9000": {
+    "w": 320,
+    "h": 54,
+    "file": "Dildo_SexShop.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Dildo_SexShop.png"
+  },
+  "cp2077/weapons/black-unicorn": {
+    "w": 319,
+    "h": 28,
+    "file": "Katana_GoG.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_GoG.png"
+  },
+  "cp2077/weapons/bloody-maria": {
+    "w": 320,
+    "h": 53,
+    "file": "Tactician_Dino.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tactician_Dino.png"
+  },
+  "cp2077/weapons/blue-fang": {
+    "w": 319,
+    "h": 63,
+    "file": "Neurotoxin_Knife_Iconic.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Neurotoxin_Knife_Iconic.png"
+  },
+  "cp2077/weapons/boar-carver": {
+    "w": 320,
+    "h": 57,
+    "file": "Knife_Witcher.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Knife_Witcher.png"
+  },
+  "cp2077/weapons/borzaya": {
+    "w": 320,
+    "h": 59,
+    "file": "Grad_AirDrop.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Grad_AirDrop.png"
+  },
+  "cp2077/weapons/breakthrough": {
+    "w": 320,
+    "h": 74,
+    "file": "Nekomata_Breakthrough.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nekomata_Breakthrough.png"
+  },
+  "cp2077/weapons/burya": {
+    "w": 314,
+    "h": 160,
+    "file": "Burya_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Burya_Default.png"
+  },
+  "cp2077/weapons/butchers-cleaver": {
+    "w": 320,
+    "h": 108,
+    "file": "Butchers_Knife_Iconic.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Butchers_Knife_Iconic.png"
+  },
+  "cp2077/weapons/buzzsaw": {
+    "w": 260,
+    "h": 159,
+    "file": "Pulsar_Buzzsaw.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Pulsar_Buzzsaw.png"
+  },
+  "cp2077/weapons/byakko": {
+    "w": 319,
+    "h": 31,
+    "file": "Katana_Wakako.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_Wakako.png"
+  },
+  "cp2077/weapons/caretakers-spade": {
+    "w": 320,
+    "h": 55,
+    "file": "Shovel_Caretaker.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Shovel_Caretaker.png"
+  },
+  "cp2077/weapons/carmen": {
+    "w": 320,
+    "h": 91,
+    "file": "Umbra_Bebe.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Umbra_Bebe.png"
+  },
+  "cp2077/weapons/carnage": {
+    "w": 320,
+    "h": 76,
+    "file": "Carnage_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Carnage_Default.png"
+  },
+  "cp2077/weapons/catahoula": {
+    "w": 145,
+    "h": 160,
+    "file": "Grit_Amazon.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Grit_Amazon.png"
+  },
+  "cp2077/weapons/chao": {
+    "w": 218,
+    "h": 160,
+    "file": "Chao_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chao_Default.png"
+  },
+  "cp2077/weapons/chaos": {
+    "w": 272,
+    "h": 160,
+    "file": "Kenshin_Royce.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kenshin_Royce.png"
+  },
+  "cp2077/weapons/cheetah": {
+    "w": 255,
+    "h": 160,
+    "file": "Unity_Angelica.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Unity_Angelica.png"
+  },
+  "cp2077/weapons/chefs-knife": {
+    "w": 320,
+    "h": 50,
+    "file": "Chef's_Knife_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chef%27s_Knife_Default.png"
+  },
+  "cp2077/weapons/chesapeake": {
+    "w": 268,
+    "h": 160,
+    "file": "Warden_Amazon.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Warden_Amazon.png"
+  },
+  "cp2077/weapons/chinook": {
+    "w": 320,
+    "h": 118,
+    "file": "Kyubi_Amazon.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kyubi_Amazon.png"
+  },
+  "cp2077/weapons/claw": {
+    "w": 320,
+    "h": 81,
+    "file": "Fanged_Axe_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Fanged_Axe_Default.png"
+  },
+  "cp2077/weapons/claw-x-mod2": {
+    "w": 320,
+    "h": 81,
+    "file": "Fanged_Axe_Collectible.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Fanged_Axe_Collectible.png"
+  },
+  "cp2077/weapons/cocktail-stick": {
+    "w": 320,
+    "h": 31,
+    "file": "Katana_Cocktail.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_Cocktail.png"
+  },
+  "cp2077/weapons/comrades-hammer": {
+    "w": 314,
+    "h": 160,
+    "file": "Burya_Comrade.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Burya_Comrade.png"
+  },
+  "cp2077/weapons/copperhead": {
+    "w": 320,
+    "h": 90,
+    "file": "Copperhead_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Copperhead_Default.png"
+  },
+  "cp2077/weapons/coronation": {
+    "w": 320,
+    "h": 123,
+    "file": "Burya_King.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Burya_King.png"
+  },
+  "cp2077/weapons/cottonmouth": {
+    "w": 320,
+    "h": 71,
+    "file": "Cane_Fingers.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Cane_Fingers.png"
+  },
+  "cp2077/weapons/crash": {
+    "w": 320,
+    "h": 153,
+    "file": "Overture_River.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Overture_River.png"
+  },
+  "cp2077/weapons/crimestopper": {
+    "w": 253,
+    "h": 160,
+    "file": "Kappa_George.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kappa_George.png"
+  },
+  "cp2077/weapons/crowbar": {
+    "w": 320,
+    "h": 55,
+    "file": "Crowbar_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Crowbar_Default.png"
+  },
+  "cp2077/weapons/crowbar-iconic": {
+    "w": 320,
+    "h": 97,
+    "file": "Crowbar_Bunker.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Crowbar_Bunker.png"
+  },
+  "cp2077/weapons/crusher": {
+    "w": 320,
+    "h": 152,
+    "file": "Crusher_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Crusher_Default.png"
+  },
+  "cp2077/weapons/cut-o-matic": {
+    "w": 320,
+    "h": 64,
+    "file": "Chainsword_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chainsword_Default.png"
+  },
+  "cp2077/weapons/cut-o-matic-x-mod2": {
+    "w": 320,
+    "h": 64,
+    "file": "Chainsword_Legendary.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chainsword_Legendary.png"
+  },
+  "cp2077/weapons/death-and-taxes": {
+    "w": 248,
+    "h": 160,
+    "file": "Nue_Maiko.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nue_Maiko.png"
+  },
+  "cp2077/weapons/defender": {
+    "w": 320,
+    "h": 88,
+    "file": "Defender_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Defender_Default.png"
+  },
+  "cp2077/weapons/dezerter": {
+    "w": 320,
+    "h": 93,
+    "file": "Testera_Nicolas.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Testera_Nicolas.png"
+  },
+  "cp2077/weapons/dian": {
+    "w": 320,
+    "h": 157,
+    "file": "Dian_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Dian_Default.png"
+  },
+  "cp2077/weapons/divided-we-stand": {
+    "w": 320,
+    "h": 121,
+    "file": "Sidewinder_Divided.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Sidewinder_Divided.png"
+  },
+  "cp2077/weapons/doom-doom": {
+    "w": 320,
+    "h": 156,
+    "file": "Nova_Doom_Doom.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nova_Doom_Doom.png"
+  },
+  "cp2077/weapons/dying-night": {
+    "w": 280,
+    "h": 160,
+    "file": "Lexington_Wilson.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lexington_Wilson.png"
+  },
+  "cp2077/weapons/electric-baton-alpha": {
+    "w": 320,
+    "h": 23,
+    "file": "Baton_Alpha.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baton_Alpha.png"
+  },
+  "cp2077/weapons/electric-baton-beta": {
+    "w": 320,
+    "h": 29,
+    "file": "Baton_Beta.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baton_Beta.png"
+  },
+  "cp2077/weapons/electric-baton-gamma": {
+    "w": 320,
+    "h": 22,
+    "file": "Baton_Gamma.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baton_Gamma.png"
+  },
+  "cp2077/weapons/erebus": {
+    "w": 320,
+    "h": 150,
+    "file": "Borg4a_HauntedGun.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Borg4a_HauntedGun.png"
+  },
+  "cp2077/weapons/errata": {
+    "w": 319,
+    "h": 35,
+    "file": "Katana_E3.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_E3.png"
+  },
+  "cp2077/weapons/fang": {
+    "w": 319,
+    "h": 25,
+    "file": "Knife_Kurtz.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Knife_Kurtz.png"
+  },
+  "cp2077/weapons/fenrir": {
+    "w": 320,
+    "h": 149,
+    "file": "Saratoga_Maelstrom.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Saratoga_Maelstrom.png"
+  },
+  "cp2077/weapons/foxhound": {
+    "w": 320,
+    "h": 77,
+    "file": "Nekomata_Amazon.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nekomata_Amazon.png"
+  },
+  "cp2077/weapons/genjiroh": {
+    "w": 273,
+    "h": 160,
+    "file": "Yukimura_Kiji.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yukimura_Kiji.png"
+  },
+  "cp2077/weapons/gold-plated-baseball-bat": {
+    "w": 320,
+    "h": 46,
+    "file": "Baseball_Bat_Denny.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Denny.png"
+  },
+  "cp2077/weapons/grad": {
+    "w": 320,
+    "h": 71,
+    "file": "Grad_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Grad_Default.png"
+  },
+  "cp2077/weapons/gris-gris": {
+    "w": 232,
+    "h": 160,
+    "file": "Quasar_Baron.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quasar_Baron.png"
+  },
+  "cp2077/weapons/grit": {
+    "w": 145,
+    "h": 160,
+    "file": "Grit_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Grit_Default.png"
+  },
+  "cp2077/weapons/guillotine": {
+    "w": 244,
+    "h": 160,
+    "file": "Guillotine_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Guillotine_Default.png"
+  },
+  "cp2077/weapons/guillotine-x-mod2": {
+    "w": 242,
+    "h": 160,
+    "file": "Guillotine_Legendary.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Guillotine_Legendary.png"
+  },
+  "cp2077/weapons/guts": {
+    "w": 320,
+    "h": 76,
+    "file": "Carnage_Edgerunners.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Carnage_Edgerunners.png"
+  },
+  "cp2077/weapons/gwynbleidd": {
+    "w": 319,
+    "h": 54,
+    "file": "Sword_Witcher.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Sword_Witcher.png"
+  },
+  "cp2077/weapons/hammer": {
+    "w": 320,
+    "h": 91,
+    "file": "Hammer_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Hammer_Default.png"
+  },
+  "cp2077/weapons/hawk": {
+    "w": 320,
+    "h": 117,
+    "file": "Kyubi_Myers.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kyubi_Myers.png"
+  },
+  "cp2077/weapons/headhunter": {
+    "w": 320,
+    "h": 61,
+    "file": "Punk_Knife_Iconic.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Punk_Knife_Iconic.png"
+  },
+  "cp2077/weapons/her-majesty": {
+    "w": 320,
+    "h": 137,
+    "file": "Unity_Agent.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Unity_Agent.png"
+  },
+  "cp2077/weapons/hercules-3ax": {
+    "w": 320,
+    "h": 140,
+    "file": "Hercules_Prototype.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Hercules_Prototype.png"
+  },
+  "cp2077/weapons/hypercritical": {
+    "w": 320,
+    "h": 97,
+    "file": "Kolac_Tiny_Mike.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kolac_Tiny_Mike.png"
+  },
+  "cp2077/weapons/igla": {
+    "w": 320,
+    "h": 67,
+    "file": "Igla_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Igla_Default.png"
+  },
+  "cp2077/weapons/jinchu-maru": {
+    "w": 320,
+    "h": 34,
+    "file": "Katana_Takemura.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_Takemura.png"
+  },
+  "cp2077/weapons/kaiken": {
+    "w": 320,
+    "h": 62,
+    "file": "Tanto_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tanto_Default.png"
+  },
+  "cp2077/weapons/kanabo": {
+    "w": 320,
+    "h": 26,
+    "file": "Kanabo_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kanabo_Default.png"
+  },
+  "cp2077/weapons/kappa": {
+    "w": 253,
+    "h": 160,
+    "file": "Kappa_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kappa_Default.png"
+  },
+  "cp2077/weapons/kappa-x-mod2": {
+    "w": 251,
+    "h": 160,
+    "file": "Kappa_Legendary.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kappa_Legendary.png"
+  },
+  "cp2077/weapons/katana": {
+    "w": 320,
+    "h": 31,
+    "file": "Katana_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_Default.png"
+  },
+  "cp2077/weapons/kenshin": {
+    "w": 272,
+    "h": 160,
+    "file": "Kenshin_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kenshin_Default.png"
+  },
+  "cp2077/weapons/knife": {
+    "w": 319,
+    "h": 53,
+    "file": "Knife_Military.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Knife_Military.png"
+  },
+  "cp2077/weapons/kolac": {
+    "w": 320,
+    "h": 97,
+    "file": "Kolac_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kolac_Default.png"
+  },
+  "cp2077/weapons/kongou": {
+    "w": 320,
+    "h": 144,
+    "file": "Liberty_Yorinobu.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Liberty_Yorinobu.png"
+  },
+  "cp2077/weapons/kukri": {
+    "w": 319,
+    "h": 55,
+    "file": "Kukri_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kukri_Default.png"
+  },
+  "cp2077/weapons/kyubi": {
+    "w": 320,
+    "h": 118,
+    "file": "Kyubi_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kyubi_Default.png"
+  },
+  "cp2077/weapons/kyubi-x-mod2": {
+    "w": 320,
+    "h": 118,
+    "file": "Kyubi_Legendary.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Kyubi_Legendary.png"
+  },
+  "cp2077/weapons/la-chingona-dorada": {
+    "w": 293,
+    "h": 160,
+    "file": "Nue_Jackie.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nue_Jackie.png"
+  },
+  "cp2077/weapons/laika": {
+    "w": 314,
+    "h": 160,
+    "file": "Burya_AirDrop.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Burya_AirDrop.png"
+  },
+  "cp2077/weapons/lexington": {
+    "w": 243,
+    "h": 160,
+    "file": "Lexington_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lexington_Default.png"
+  },
+  "cp2077/weapons/lexington-x-mod2": {
+    "w": 243,
+    "h": 160,
+    "file": "Lexington_Shooting_Competition.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lexington_Shooting_Competition.png"
+  },
+  "cp2077/weapons/liberty": {
+    "w": 320,
+    "h": 144,
+    "file": "Liberty_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Liberty_Default.png"
+  },
+  "cp2077/weapons/lizzie": {
+    "w": 200,
+    "h": 160,
+    "file": "Omaha_Suzie.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Omaha_Suzie.png"
+  },
+  "cp2077/weapons/ma70-hb": {
+    "w": 320,
+    "h": 81,
+    "file": "MA70_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MA70_Default.png"
+  },
+  "cp2077/weapons/ma70-hb-x-mod2": {
+    "w": 320,
+    "h": 81,
+    "file": "MA70_Collectible.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:MA70_Collectible.png"
+  },
+  "cp2077/weapons/machete": {
+    "w": 319,
+    "h": 49,
+    "file": "Machete_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Machete_Default.png"
+  },
+  "cp2077/weapons/malorian-arms-3516": {
+    "w": 317,
+    "h": 160,
+    "file": "Silverhand_3516.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Silverhand_3516.png"
+  },
+  "cp2077/weapons/mancinella": {
+    "w": 320,
+    "h": 156,
+    "file": "Nova_Hitman.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nova_Hitman.png"
+  },
+  "cp2077/weapons/masamune": {
+    "w": 320,
+    "h": 119,
+    "file": "Masamune_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Masamune_Default.png"
+  },
+  "cp2077/weapons/metel": {
+    "w": 305,
+    "h": 160,
+    "file": "Metel_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Metel_Default.png"
+  },
+  "cp2077/weapons/mk-31-hmg": {
+    "w": 320,
+    "h": 89,
+    "file": "HMG_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:HMG_Default.png"
+  },
+  "cp2077/weapons/moron-labe": {
+    "w": 320,
+    "h": 119,
+    "file": "Ajax_Moron.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ajax_Moron.png"
+  },
+  "cp2077/weapons/mox": {
+    "w": 320,
+    "h": 76,
+    "file": "Carnage_Mox.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Carnage_Mox.png"
+  },
+  "cp2077/weapons/murphys-law": {
+    "w": 320,
+    "h": 23,
+    "file": "Baton_Murphy.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baton_Murphy.png"
+  },
+  "cp2077/weapons/nehan": {
+    "w": 320,
+    "h": 62,
+    "file": "Tanto_Saburo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tanto_Saburo.png"
+  },
+  "cp2077/weapons/nekomata": {
+    "w": 320,
+    "h": 77,
+    "file": "Nekomata_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nekomata_Default.png"
+  },
+  "cp2077/weapons/neurotoxin-knife": {
+    "w": 319,
+    "h": 63,
+    "file": "Neurotoxin_Knife_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Neurotoxin_Knife_Default.png"
+  },
+  "cp2077/weapons/nova": {
+    "w": 320,
+    "h": 156,
+    "file": "Nova_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nova_Default.png"
+  },
+  "cp2077/weapons/nowaki": {
+    "w": 320,
+    "h": 120,
+    "file": "Masamune_Arasaka_2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Masamune_Arasaka_2077.png"
+  },
+  "cp2077/weapons/nue": {
+    "w": 248,
+    "h": 160,
+    "file": "Nue_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nue_Default.png"
+  },
+  "cp2077/weapons/o-five": {
+    "w": 320,
+    "h": 68,
+    "file": "Grad_Buck.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Grad_Buck.png"
+  },
+  "cp2077/weapons/ogou": {
+    "w": 213,
+    "h": 160,
+    "file": "Chao_VooDoo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Chao_VooDoo.png"
+  },
+  "cp2077/weapons/ol-reliable": {
+    "w": 320,
+    "h": 153,
+    "file": "Overture_Cassidy.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Overture_Cassidy.png"
+  },
+  "cp2077/weapons/omaha": {
+    "w": 200,
+    "h": 160,
+    "file": "Omaha_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Omaha_Default.png"
+  },
+  "cp2077/weapons/order": {
+    "w": 320,
+    "h": 73,
+    "file": "Satara_Brick.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Satara_Brick.png"
+  },
+  "cp2077/weapons/osprey": {
+    "w": 320,
+    "h": 89,
+    "file": "Osprey_Prototype.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Osprey_Prototype.png"
+  },
+  "cp2077/weapons/overture": {
+    "w": 320,
+    "h": 153,
+    "file": "Overture_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Overture_Default.png"
+  },
+  "cp2077/weapons/overwatch": {
+    "w": 320,
+    "h": 72,
+    "file": "Grad_Panam.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Grad_Panam.png"
+  },
+  "cp2077/weapons/ozobs-nose": {
+    "w": 81,
+    "h": 154,
+    "file": "GrenadeOzobsNose.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:GrenadeOzobsNose.png"
+  },
+  "cp2077/weapons/palica": {
+    "w": 320,
+    "h": 120,
+    "file": "Palica_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Palica_Default.png"
+  },
+  "cp2077/weapons/pariah": {
+    "w": 268,
+    "h": 160,
+    "file": "Ticon_Reed.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ticon_Reed.png"
+  },
+  "cp2077/weapons/pit-bull": {
+    "w": 320,
+    "h": 119,
+    "file": "Ajax_Amazon.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ajax_Amazon.png"
+  },
+  "cp2077/weapons/pizdets": {
+    "w": 270,
+    "h": 160,
+    "file": "Warden_Boris.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Warden_Boris.png"
+  },
+  "cp2077/weapons/plan-b": {
+    "w": 320,
+    "h": 144,
+    "file": "Liberty_Dex.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Liberty_Dex.png"
+  },
+  "cp2077/weapons/pozhar": {
+    "w": 264,
+    "h": 160,
+    "file": "Pozhar_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Pozhar_Default.png"
+  },
+  "cp2077/weapons/pozhar-x-mod2": {
+    "w": 270,
+    "h": 160,
+    "file": "Pozhar_Legendary.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Pozhar_Legendary.png"
+  },
+  "cp2077/weapons/prejudice": {
+    "w": 320,
+    "h": 119,
+    "file": "Masamune_Rogue.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Masamune_Rogue.png"
+  },
+  "cp2077/weapons/pride": {
+    "w": 320,
+    "h": 144,
+    "file": "Liberty_Rogue.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Liberty_Rogue.png"
+  },
+  "cp2077/weapons/problem-solver": {
+    "w": 320,
+    "h": 149,
+    "file": "Saratoga_Raffen.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Saratoga_Raffen.png"
+  },
+  "cp2077/weapons/prototype-shingen-mark-v": {
+    "w": 297,
+    "h": 160,
+    "file": "Shingen_Prototype.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Shingen_Prototype.png"
+  },
+  "cp2077/weapons/psalm-11-6": {
+    "w": 320,
+    "h": 90,
+    "file": "Copperhead_Genesis.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Copperhead_Genesis.png"
+  },
+  "cp2077/weapons/pulsar": {
+    "w": 260,
+    "h": 159,
+    "file": "Pulsar_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Pulsar_Default.png"
+  },
+  "cp2077/weapons/punknife": {
+    "w": 320,
+    "h": 61,
+    "file": "Punk_Knife_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Punk_Knife_Default.png"
+  },
+  "cp2077/weapons/quasar": {
+    "w": 283,
+    "h": 160,
+    "file": "Quasar_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Quasar_Default.png"
+  },
+  "cp2077/weapons/raiju": {
+    "w": 234,
+    "h": 160,
+    "file": "Senkoh_Prototype.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Senkoh_Prototype.png"
+  },
+  "cp2077/weapons/rasetsu": {
+    "w": 320,
+    "h": 92,
+    "file": "Rasetsu_Prototype.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Rasetsu_Prototype.png"
+  },
+  "cp2077/weapons/razor": {
+    "w": 320,
+    "h": 30,
+    "file": "Machete_Borg_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Machete_Borg_Default.png"
+  },
+  "cp2077/weapons/riskit": {
+    "w": 248,
+    "h": 160,
+    "file": "Nue_Bree.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nue_Bree.png"
+  },
+  "cp2077/weapons/rook": {
+    "w": 243,
+    "h": 160,
+    "file": "Lexington_Rook.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Lexington_Rook.png"
+  },
+  "cp2077/weapons/rosco": {
+    "w": 320,
+    "h": 153,
+    "file": "Overture_Dodger.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Overture_Dodger.png"
+  },
+  "cp2077/weapons/saratoga": {
+    "w": 320,
+    "h": 149,
+    "file": "Saratoga_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Saratoga_Default.png"
+  },
+  "cp2077/weapons/sasquatchs-hammer": {
+    "w": 320,
+    "h": 91,
+    "file": "Hammer_Sasquatch.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Hammer_Sasquatch.png"
+  },
+  "cp2077/weapons/satara": {
+    "w": 320,
+    "h": 73,
+    "file": "Satara_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Satara_Default.png"
+  },
+  "cp2077/weapons/satori": {
+    "w": 319,
+    "h": 26,
+    "file": "Katana_Saburo.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_Saburo.png"
+  },
+  "cp2077/weapons/scalpel": {
+    "w": 320,
+    "h": 31,
+    "file": "Katana_Surgeon.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_Surgeon.png"
+  },
+  "cp2077/weapons/scorch": {
+    "w": 268,
+    "h": 160,
+    "file": "Ticon_Gwent.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ticon_Gwent.png"
+  },
+  "cp2077/weapons/senkoh-lx": {
+    "w": 274,
+    "h": 160,
+    "file": "Senkoh_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Senkoh_Default.png"
+  },
+  "cp2077/weapons/seraph": {
+    "w": 320,
+    "h": 144,
+    "file": "Liberty_Padre.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Liberty_Padre.png"
+  },
+  "cp2077/weapons/shigure": {
+    "w": 320,
+    "h": 149,
+    "file": "Saratoga_Arasaka_2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Saratoga_Arasaka_2077.png"
+  },
+  "cp2077/weapons/shingen": {
+    "w": 297,
+    "h": 160,
+    "file": "Shingen_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Shingen_Default.png"
+  },
+  "cp2077/weapons/sidewinder": {
+    "w": 320,
+    "h": 121,
+    "file": "Sidewinder_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Sidewinder_Default.png"
+  },
+  "cp2077/weapons/sihil": {
+    "w": 319,
+    "h": 60,
+    "file": "Sword_Sihil.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Sword_Sihil.png"
+  },
+  "cp2077/weapons/sir-john-phallustiff": {
+    "w": 320,
+    "h": 54,
+    "file": "Dildo_Stout.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Dildo_Stout.png"
+  },
+  "cp2077/weapons/skippy": {
+    "w": 273,
+    "h": 160,
+    "file": "Yukimura_Skippy.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yukimura_Skippy.png"
+  },
+  "cp2077/weapons/slaught-o-matic": {
+    "w": 196,
+    "h": 160,
+    "file": "Slaughtomatic_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Slaughtomatic_Default.png"
+  },
+  "cp2077/weapons/sor-22": {
+    "w": 320,
+    "h": 80,
+    "file": "Sor22_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Sor22_Default.png"
+  },
+  "cp2077/weapons/sovereign": {
+    "w": 320,
+    "h": 67,
+    "file": "Igla_Sovereign.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Igla_Sovereign.png"
+  },
+  "cp2077/weapons/sparky": {
+    "w": 320,
+    "h": 72,
+    "file": "Grad_Scav.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Grad_Scav.png"
+  },
+  "cp2077/weapons/steel-pipe": {
+    "w": 320,
+    "h": 53,
+    "file": "Iron_Pipe_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Iron_Pipe_Default.png"
+  },
+  "cp2077/weapons/stinger": {
+    "w": 319,
+    "h": 53,
+    "file": "Knife_Stinger.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Knife_Stinger.png"
+  },
+  "cp2077/weapons/tactician": {
+    "w": 320,
+    "h": 53,
+    "file": "Tactician_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tactician_Default.png"
+  },
+  "cp2077/weapons/taigan": {
+    "w": 305,
+    "h": 160,
+    "file": "Metel_AirDrop.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Metel_AirDrop.png"
+  },
+  "cp2077/weapons/tamayura": {
+    "w": 242,
+    "h": 160,
+    "file": "Nue_Tamayura_2077.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Nue_Tamayura_2077.png"
+  },
+  "cp2077/weapons/testera": {
+    "w": 320,
+    "h": 88,
+    "file": "Testera_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Testera_Default.png"
+  },
+  "cp2077/weapons/the-headsman": {
+    "w": 320,
+    "h": 73,
+    "file": "Tactician_Headsman.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tactician_Headsman.png"
+  },
+  "cp2077/weapons/ticon": {
+    "w": 268,
+    "h": 160,
+    "file": "Ticon_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ticon_Default.png"
+  },
+  "cp2077/weapons/tinker-bell": {
+    "w": 319,
+    "h": 28,
+    "file": "Baton_Tinker_Bell.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Baton_Tinker_Bell.png"
+  },
+  "cp2077/weapons/tire-iron": {
+    "w": 320,
+    "h": 58,
+    "file": "Tire_Iron_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tire_Iron_Default.png"
+  },
+  "cp2077/weapons/tomahawk": {
+    "w": 320,
+    "h": 107,
+    "file": "Tomahawk_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Tomahawk_Default.png"
+  },
+  "cp2077/weapons/tsumetogi": {
+    "w": 320,
+    "h": 31,
+    "file": "Katana_Hiromi.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Katana_Hiromi.png"
+  },
+  "cp2077/weapons/umbra": {
+    "w": 320,
+    "h": 91,
+    "file": "Umbra_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Umbra_Default.png"
+  },
+  "cp2077/weapons/umbra-x-mod2": {
+    "w": 320,
+    "h": 91,
+    "file": "Umbra_Legendary.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Umbra_Legendary.png"
+  },
+  "cp2077/weapons/unity": {
+    "w": 255,
+    "h": 160,
+    "file": "Unity_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Unity_Default.png"
+  },
+  "cp2077/weapons/volkodav": {
+    "w": 320,
+    "h": 30,
+    "file": "Machete_Borg_AirDrop.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Machete_Borg_AirDrop.png"
+  },
+  "cp2077/weapons/warden": {
+    "w": 268,
+    "h": 160,
+    "file": "Warden_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Warden_Default.png"
+  },
+  "cp2077/weapons/widow-maker": {
+    "w": 320,
+    "h": 73,
+    "file": "Achilles_Nash.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Achilles_Nash.png"
+  },
+  "cp2077/weapons/wild-dog": {
+    "w": 320,
+    "h": 94,
+    "file": "Defender_Kurt.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Defender_Kurt.png"
+  },
+  "cp2077/weapons/yasha": {
+    "w": 320,
+    "h": 81,
+    "file": "Ashura_Twitch.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Ashura_Twitch.png"
+  },
+  "cp2077/weapons/yinglong": {
+    "w": 320,
+    "h": 157,
+    "file": "Dian_Yinglong.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Dian_Yinglong.png"
+  },
+  "cp2077/weapons/yukimura": {
+    "w": 273,
+    "h": 160,
+    "file": "Yukimura_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Yukimura_Default.png"
+  },
+  "cp2077/weapons/zhuo": {
+    "w": 320,
+    "h": 86,
+    "file": "Zhuo_Default.png",
+    "source": "https://cyberpunk.fandom.com/wiki/File:Zhuo_Default.png"
+  }
+}
