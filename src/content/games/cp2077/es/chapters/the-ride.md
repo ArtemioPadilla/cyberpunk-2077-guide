@@ -42,7 +42,7 @@ Las dos misiones siguientes se pueden hacer **en cualquier orden** y **las dos s
 
 ## Después de la misión
 
-- **Viaje rápido:** los dataterms de viaje rápido se agregan al mapa cuando pasas cerca y **solo se pueden usar a partir de El paseo**.
+- **Viaje rápido:** los dataterms de viaje rápido se agregan al mapa cuando pasas cerca y **solo se pueden usar a partir de El paseo**. Hay 166 en total y 37 en Watson; el logro «Viajero frecuente» (Frequent Flyer) solo pide unos 120.
 - **Regina Jones:** puedes llamarla para preguntarle por **Royce**, el líder de Maelstrom con el que tratarás en La recolección.
 - **The Gift:** te dejan cerca de **Kabuki Roundabout**, donde está la tienda de netrunners de **Yoko Tsuru**: IGN sugiere recoger ahora tu **hackeo rápido Ping gratis**.
 - Durante el Acto 1 solo puedes explorar **Watson**.

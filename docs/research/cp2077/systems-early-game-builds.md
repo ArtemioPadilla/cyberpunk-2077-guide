@@ -106,14 +106,15 @@ cyberpunk.net:
 
 ### 1.4 Reinforced Tendons (double jump)
 
-- Legs slot. Effect: press jump in midair to double jump. **Capacity cost 8.** Armor 20 at T2, +8 per tier. Attuned to Reflexes (Crit Chance). Double jump is disabled after falling from too high [W:Reinforced Tendons].
+- Legs slot. Effect: press jump in midair to double jump. **Capacity cost 8.** ~~Armor 20 at T2, +8 per tier~~ (OBSOLETE, pre-2.1 wiki figure). **Corrected 2026-10-30:** in 2.x the T2 gives **4 Armor**, up to 12 at T5++ (2 + 2 per quality step + 1 per "+" tier), after the 2.1 armor cut [faq-shops-cyberware-money.md: TWEAK legs_advanced; nukesdragons; W:Patch 2.1 "Reinforced Tendons: Decreased Armor"]. Attuned to Reflexes (Crit Chance). Double jump is disabled after falling from too high [W:Reinforced Tendons].
 - **Where:** any ripperdoc (so all five in Watson), **starting at level 10**. Its lowest quality is Tier 2 [W:Reinforced Tendons].
-- **Street Cred requirement in 2.x:** none listed; the wiki infobox's `street_cred` field is empty. The level-10 gate comes from the tier system [W:Reinforced Tendons] [W:Cyberpunk 2077 Cyberware]. (UNVERIFIED that there is no hidden SC gate)
+- **Street Cred requirement in 2.x:** none listed; the wiki infobox's `street_cred` field is empty. The level-10 gate comes from the tier system [W:Reinforced Tendons] [W:Cyberpunk 2077 Cyberware]. (UNVERIFIED that there is no hidden SC gate) **Closed 2026-10-30:** the game data gates ripperdoc stock by player level only; there is no Street Cred check anywhere in it [faq-shops-cyberware-money.md: TWEAK ripperdocs/loot_prereqs; Steam 2023-09-25 "strictly tied to player level"].
 - **Price:** (UNVERIFIED / CONFLICT)
   - IGN's 2.x list shows **€$67,824** but does not say which tier. Its prices clearly come from different levels: Smart Link €$541, Kiroshi Optics MK.1 €$541 [IGN:Cyberware].
   - (PRE-2.0, OBSOLETE) game8 (Dec 2020) calls it "the expensive 45,000 Eddy purchase" [G8:314075].
   - The wiki gives no price (`buy_price` empty) [W:Reinforced Tendons].
   - Tell the reader to check the in-game price at level 10. Expect tens of thousands of eddies.
+  - **Resolved 2026-10-30:** **≈ €$10,699 at T2** (DualShockers 2023-10-03, patch 2.0; note.com guide "based on Ver 2.31 game data", about 10,000). The cyberware price formula has no player-level term, so the T2 costs the same from level 10 to 19; Street Cred discounts (up to 15%) and Charles Bucks's 20% lower it. IGN's €$67,824 is most likely the **T4** price. "Tens of thousands" is wrong for the T2. Confidence medium; word it "unos €$10,700 (compruébalo en el juego)" [faq-shops-cyberware-money.md].
 - game8 2.x calls it "the undisputed best leg cyberware in Update 2.0" [G8:315155]. Both game8 builds and IGN's netrunner build use it [G8:314513] [G8:320906] [IGN:Best Netrunner Build].
 - Alternatives (all Legs, level 10): **Lynx Paws** (T2, cap 5, Cool: 50% quieter movement, +6–12% crouched speed, −20% fall damage; game8's stealth alternative) [W:Lynx Paws] [G8:314513]. **Fortified Ankles** (charge jump, cap 6, Body) [W:Fortified Ankles].
 
@@ -175,14 +176,14 @@ cyberpunk.net:
   - T2 cyberware (Reinforced Tendons, Optical Camo, Biotech Σ deck) and T2 weapons (level 9) unlock there [W:Cyberpunk 2077 Cyberware] [W:Weapons].
   - Intelligence 9 opens Hack Queue and the Embedded Exploit branch (see 2.2).
   - The Heist is long and the post-Heist stretch (Love Like Fire, Playing for Time) gives no shopping stops [M1].
-  - Most early RAM and stealth tools (Memory Boost from level 5, Optical Camo from 10) are then affordable [W:Memory Boost] [W:Optical Camo].
+  - Most early RAM and stealth tools (Memory Boost from level 10, not 5: corrected 2026-10-30, its lowest record is T2, sold only in the level 10–19 window [faq-shops-cyberware-money.md: TWEAK ripperdocs]; Optical Camo from 10) are then affordable [W:Memory Boost] [W:Optical Camo].
   - It's also a good point to do the five Act 1 cyberpsychos and the low-tier Regina gigs for XP and eddies [W:Psycho Killer] [W:Cyberpunk 2077 Gigs].
 
 ### 1.10 Shopping list for a hacker (Act 1) — (inference, built from the facts above)
 
 1. Kiroshi "Sentry" (cheap, Intelligence-attuned) [W:Kiroshi Sentry Optics].
 2. **Smart Link** in Hands, replacing the Ballistic Coprocessor, if you want smart weapons (T1, cap 4, cheap; IGN lists €$541) [W:Smart Link] [IGN:Cyberware]. Hands has 1 slot until Ambidextrous [W:Cyberpunk 2077 Cyberware].
-3. RAM Upgrade (T1, cap 8, +RAM regen, +1–2 RAM) and Memory Boost (level 5+, cap 18, RAM on kill, +1 RAM) in Frontal Cortex [W:RAM Upgrade] [W:Memory Boost].
+3. RAM Upgrade (T1, cap 8, +RAM regen, +1–2 RAM) and Memory Boost (level 10+, not 5+: corrected 2026-10-30 from the game data [faq-shops-cyberware-money.md]; cap 18, RAM on kill, +1 RAM) in Frontal Cortex [W:RAM Upgrade] [W:Memory Boost].
 4. Level 10: Reinforced Tendons, then Optical Camo (level 10, cap 20) for the stealth route [W:Reinforced Tendons] [W:Optical Camo].
 5. Deck: keep the Paraline (smart-weapon synergy) or buy an Arasaka (stealth) or Tetratronic Rippler (RAM growth). Biotech Σ from level 10 [W:deck pages].
 6. Quickhacks: netrunner vendors sell quickhacks and crafting specs [W:Cyberpunk 2077 Vendors]. Vendors no longer sell quickhack crafting components since 2.0 [W:Patch 2.0].
@@ -386,6 +387,8 @@ None of the sources give level bands 1–15 / 15–30 / 30–60. game8 gives att
   - Graphics modes: **Quality 30 fps / Performance 40 fps**, both handheld; docked Performance needs a 120 Hz display; VRR handheld.
 - **2.5:** "Added an FOV slider on consoles" [W:Update 2.5] [CDPR:52120]. Switch 2 is not named (UNVERIFIED for Switch 2). Also fixed a bug where tagging enemies while scanning made V crouch or stand with certain control schemes [W:Update 2.5].
 - **2.5 Switch 2 release date (CONFLICT):** CDPR 52125 (2026-10-22) says 2.5 is "available now on … Nintendo Switch 2". CDPR 52120 (2026-10-21) said Switch 2 gets it "in the days to follow". The wiki says Oct 26 (infobox) and Oct 27 (body) [CDPR:52125] [CDPR:52120] [W:Update 2.5].
+  - **Resolved 2026-10-30:** 2.5 reached Switch 2 on **27 Oct 2026**: CDPR's official YouTube post ("v.2.5 Release Sequence: COMPLETE … now available on Nintendo Switch 2"), RPG Site ("live as of October 27"), perfectly-nintendo and the wiki body all agree; the 22 Oct "available now" line in 52125 was wrong or later edited; the infobox's Oct 26 is probably a time-zone difference [faq-switch2-settings-names.md].
+  - **Mods on Switch 2:** CDPR's official 2.5 notes (52120) and the support page "Cross-Platform Mod Support - how to" (3034) both list Nintendo Switch 2; the wiki's copy of the notes omits it. Prefer CDPR [faq-switch2-settings-names.md, faq-world-progression.md].
 
 ### 4.2 Aim assist and related options (all platforms; Accessibility tab since 2.1)
 
@@ -408,7 +411,7 @@ None of the sources give level bands 1–15 / 15–30 / 30–60. game8 gives att
 
 ## 5. Open questions / not found
 
-- Exact 2.5 price of Reinforced Tendons at level 10 (T2). Sources only give €$67,824 (IGN, tier unknown) and pre-2.0 €$45,000.
+- ~~Exact 2.5 price of Reinforced Tendons at level 10 (T2). Sources only give €$67,824 (IGN, tier unknown) and pre-2.0 €$45,000.~~ **Closed 2026-10-30:** ≈ €$10,699 at T2 (DualShockers 2.0; note.com 2.31 data); IGN 67,824 ≈ T4 (see 1.4).
 - Which of the 23 Watson gigs are offered before The Heist.
 - Whether the one-time attribute reset is offered on brand-new 2.x saves (game8 says yes; the patch note wording is ambiguous).
 - Switch 2-specific aim-assist defaults, and whether the console FOV slider is present on Switch 2.

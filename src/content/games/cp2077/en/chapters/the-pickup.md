@@ -40,7 +40,7 @@ The wiki numbers the outcomes as "paths". Path 1 is just the instant death (taki
 - **Chaos (Royce's iconic pistol):** Royce must die. Path 4, or path 3 letting Royce fight Militech alone.
 - **Maelstrom Weapon Vendor:** path 2 only.
 - **Doom Doom (Dum Dum's iconic revolver, in Second Conflict):** Royce must stay alive. Path 2 (guaranteed) or path 3 if Royce survives the Militech assault. It clashes with Chaos: you can't have both.
-- **Venus in Furs (Meredith):** take the chip and turn Maelstrom hostile after meeting Dum Dum in person, **without** using the Body takedown on Royce.
+- **Venus in Furs (Meredith):** take the chip and turn Maelstrom hostile after meeting Dum Dum in person, **without** using the Body takedown on Royce. Sources disagree on the chip: the wiki's romance page says it doesn't matter whether you take it, as long as the Maelstrom outcome is violent. To be safe, take it.
 - **Brick:** paths 3 and 4 only, and he only pays off if Royce dies (see "Brick and Act 2").
 - **Militech crate (Nomad only):** read Gilchrist's message inside the factory and bring it up in the conversation at the gate.
 
@@ -167,7 +167,7 @@ If you start fighting before the elevator, the objectives switch to **defeat Mae
 Someone from Militech only waits at the gate **if you met Meredith**.
 
 - **Meredith waits** if you met her (deal or not) **and** Maelstrom turned hostile **before you got the Flathead**.
-  - If you **took the deal** and Maelstrom turned hostile **after meeting Dum Dum in person** (not sitting, infected chip, shooting Royce), Meredith is **impressed** and suggests working together again. It is the **only** way to unlock **Venus in Furs** (Act 2, No-Tell Motel; reward: Sir John Phallustiff).
+  - If you **took the deal** and Maelstrom turned hostile **after meeting Dum Dum in person** (not sitting, infected chip, shooting Royce), Meredith is **impressed** and suggests working together again. Per the wiki's Venus in Furs page, it is the **only** way to unlock it (Act 2, No-Tell Motel; reward: Sir John Phallustiff); its romance page says the chip doesn't matter if the outcome is violent: sources disagree.
   - If you **refused the deal** and fought anyway, or fought **before meeting Dum Dum**, Meredith is **colder**. The wiki doesn't confirm whether Venus in Furs still unlocks that way.
   - In the conversation, PowerPyx recommends answering **"Yeah, maybe."** so she contacts you later. With the Nomad intel, **"I know the mole's identity"** gets you the **Militech crate**.
   - Either way, Meredith ends up having Gilchrist killed.
@@ -204,7 +204,7 @@ Some guides mention the "Bladerunner" perk and Technical Ability 9: that is a pr
 ## Choices
 
 - **Calling Meredith** → opens the chip (Synapse Burnout, €$10,000), Venus in Furs and the Nomad crate; per the wiki it **rules out the peaceful deal** (PowerPyx disagrees).
-- **Taking the chip** → required for Venus in Furs. **Paying with it uncleaned and unannounced** → path 4 with a weakened Royce.
+- **Taking the chip** → required for Venus in Furs per one wiki page; another says it isn't (sources disagree, so take it if you want her). **Paying with it uncleaned and unannounced** → path 4 with a weakened Royce.
 - **Hacking the chip** → **copy** = Synapse Burnout; **neutralize** = €$10,000 later; you can do both (order and payout disputed, see above).
 - **Not sitting, not getting Jackie to sit, drawing a weapon or touching cameras/turrets** → path 4 with a strong Royce.
 - **Taking too long to answer Royce** → you die. Reload.
