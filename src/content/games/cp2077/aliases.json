@@ -1,0 +1,256 @@
+{
+  "aliases": [
+    {
+      "key": "enemies/the-mox",
+      "names": [
+        "las Mox",
+        "Las Mox",
+        "the Mox",
+        "The Mox"
+      ]
+    },
+    {
+      "key": "gear/basic-kiroshi-optics",
+      "names": [
+        "Kiroshi Optics"
+      ]
+    },
+    {
+      "key": "characters/johnny-silverhand",
+      "names": [
+        "Johnny"
+      ]
+    },
+    {
+      "key": "characters/jackie-welles",
+      "names": [
+        "Jackie"
+      ]
+    },
+    {
+      "key": "characters/dexter-deshawn",
+      "names": [
+        "Dex",
+        "DeShawn"
+      ]
+    },
+    {
+      "key": "characters/viktor-vektor",
+      "names": [
+        "Viktor",
+        "Vik"
+      ]
+    },
+    {
+      "key": "characters/misty-olszewski",
+      "names": [
+        "Misty"
+      ]
+    },
+    {
+      "key": "characters/evelyn-parker",
+      "names": [
+        "Evelyn"
+      ]
+    },
+    {
+      "key": "characters/judy-alvarez",
+      "names": [
+        "Judy",
+        "Judy Alvarez"
+      ]
+    },
+    {
+      "key": "characters/goro-takemura",
+      "names": [
+        "Takemura",
+        "Goro"
+      ]
+    },
+    {
+      "key": "characters/hanako-arasaka",
+      "names": [
+        "Hanako"
+      ]
+    },
+    {
+      "key": "characters/yorinobu-arasaka",
+      "names": [
+        "Yorinobu"
+      ]
+    },
+    {
+      "key": "characters/saburo-arasaka",
+      "names": [
+        "Saburo"
+      ]
+    },
+    {
+      "key": "characters/anders-hellman",
+      "names": [
+        "Hellman"
+      ]
+    },
+    {
+      "key": "characters/panam-palmer",
+      "names": [
+        "Panam"
+      ]
+    },
+    {
+      "key": "characters/saul-bright",
+      "names": [
+        "Saul"
+      ]
+    },
+    {
+      "key": "characters/mitch-anderson",
+      "names": [
+        "Mitch"
+      ]
+    },
+    {
+      "key": "characters/carol-emeka",
+      "names": [
+        "Carol"
+      ]
+    },
+    {
+      "key": "characters/river-ward",
+      "names": [
+        "River"
+      ]
+    },
+    {
+      "key": "characters/joss-kutcher",
+      "names": [
+        "Joss"
+      ]
+    },
+    {
+      "key": "characters/kerry-eurodyne",
+      "names": [
+        "Kerry"
+      ]
+    },
+    {
+      "key": "characters/rogue-amendiares",
+      "names": [
+        "Rogue"
+      ]
+    },
+    {
+      "key": "characters/alt-cunningham",
+      "names": [
+        "Alt"
+      ]
+    },
+    {
+      "key": "characters/jeremiah-grayson",
+      "names": [
+        "Grayson"
+      ]
+    },
+    {
+      "key": "characters/crispin-weyland",
+      "names": [
+        "Weyland"
+      ]
+    },
+    {
+      "key": "characters/meredith-stout",
+      "names": [
+        "Meredith"
+      ]
+    },
+    {
+      "key": "characters/lizzy-wizzy",
+      "names": [
+        "Lizzy"
+      ]
+    },
+    {
+      "key": "characters/rosalind-myers",
+      "names": [
+        "Myers"
+      ]
+    },
+    {
+      "key": "characters/aurore-cassel",
+      "names": [
+        "Aurore"
+      ]
+    },
+    {
+      "key": "characters/aymeric-cassel",
+      "names": [
+        "Aymeric"
+      ]
+    },
+    {
+      "key": "characters/claire-russell",
+      "names": [
+        "Claire"
+      ]
+    },
+    {
+      "key": "characters/wakako-okada",
+      "names": [
+        "Wakako"
+      ]
+    },
+    {
+      "key": "characters/regina-jones",
+      "names": [
+        "Regina"
+      ]
+    },
+    {
+      "key": "characters/dakota-smith",
+      "names": [
+        "Dakota"
+      ]
+    },
+    {
+      "key": "characters/cassidy-righter",
+      "names": [
+        "Cassidy"
+      ]
+    },
+    {
+      "key": "bosses/solomon-reed",
+      "names": [
+        "Reed"
+      ]
+    },
+    {
+      "key": "bosses/kurt-hansen",
+      "names": [
+        "Hansen"
+      ]
+    },
+    {
+      "key": "bosses/adam-smasher",
+      "names": [
+        "Smasher"
+      ]
+    },
+    {
+      "key": "bosses/sandayu-oda",
+      "names": [
+        "Oda"
+      ]
+    }
+  ],
+  "skip": [
+    "weapons/order"
+  ],
+  "protect": [
+    "Phantom Liberty",
+    "Lizzie's Bar",
+    "Lizzie's",
+    "Hour of Chaos",
+    "Tyger Claw",
+    "Noise Contagion"
+  ]
+}

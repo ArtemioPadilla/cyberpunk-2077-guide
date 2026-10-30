@@ -16,4 +16,615 @@ page falls back to text.
 
 | File | Wiki source |
 | ---- | ----------- |
-
+| `cp2077/bosses/adam-smasher.webp` | [Char profile adamsmash2077.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_adamsmash2077.png) |
+| `cp2077/bosses/akira.webp` | [Char profile Akira.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_Akira.png) |
+| `cp2077/bosses/andrew-newman.webp` | [Andrew Newman Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Andrew_Newman_Infobox_CP2077PL.png) |
+| `cp2077/bosses/boris-ribakov.webp` | [Boris Ribakov Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Boris_Ribakov_Database_CP2077PL.png) |
+| `cp2077/bosses/buck-arnold.webp` | [Buck Arnold 2.0.jpg](https://cyberpunk.fandom.com/wiki/File:Buck_Arnold_2.0.jpg) |
+| `cp2077/bosses/cesar-diego-ruiz.webp` | [Cesar Ruiz Infobox CP2077.jpg](https://cyberpunk.fandom.com/wiki/File:Cesar_Ruiz_Infobox_CP2077.jpg) |
+| `cp2077/bosses/esquerdo-certo.webp` | [Char Profile Esquerdo.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Esquerdo.png) |
+| `cp2077/bosses/garry-bates.webp` | [Garry Bates Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Garry_Bates_Infobox_CP2077.png) |
+| `cp2077/bosses/kurt-hansen.webp` | [Screenshot 029 CP2077PL.jpeg](https://cyberpunk.fandom.com/wiki/File:Screenshot_029_CP2077PL.jpeg) |
+| `cp2077/bosses/maggie-isley.webp` | [Maggie Isley Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Maggie_Isley_Infobox_CP2077PL.png) |
+| `cp2077/bosses/maxtac-squad.webp` | [MaxTac Logo CPRED.png](https://cyberpunk.fandom.com/wiki/File:MaxTac_Logo_CPRED.png) |
+| `cp2077/bosses/militech-cerberus.webp` | [Cerberus Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Cerberus_Database_CP2077PL.png) |
+| `cp2077/bosses/militech-chimera.webp` | [Militech Chimera CP2077PL 01.jpg](https://cyberpunk.fandom.com/wiki/File:Militech_Chimera_CP2077PL_01.jpg) |
+| `cp2077/bosses/nash.webp` | [Nash Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Nash_Infobox_CP2077.png) |
+| `cp2077/bosses/placide.webp` | [Char profile placide.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_placide.png) |
+| `cp2077/bosses/razor-hugh.webp` | [Char profile Razor Hugh.jpeg](https://cyberpunk.fandom.com/wiki/File:Char_profile_Razor_Hugh.jpeg) |
+| `cp2077/bosses/rhino.webp` | [Rhino HoNC CP2077.jpg](https://cyberpunk.fandom.com/wiki/File:Rhino_HoNC_CP2077.jpg) |
+| `cp2077/bosses/royce.webp` | [Royce Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Royce_Infobox_CP2077.png) |
+| `cp2077/bosses/sandayu-oda.webp` | [Oda Sandayu Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Oda_Sandayu_Infobox_CP2077.png) |
+| `cp2077/bosses/sasquatch.webp` | [Char Profile Sasquatch.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Sasquatch.png) |
+| `cp2077/bosses/scavenger-leader.webp` | [The Rescue Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:The_Rescue_Infobox_CP2077.png) |
+| `cp2077/bosses/solomon-reed.webp` | [Solomon Reed Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Solomon_Reed_Infobox_CP2077PL.png) |
+| `cp2077/characters/adam-smasher.webp` | [Char profile adamsmash2077.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_adamsmash2077.png) |
+| `cp2077/characters/albert-murphy.webp` | [Q304 Photo Albert Murphy CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Albert_Murphy_CP2077PL.png) |
+| `cp2077/characters/alex.webp` | [Alena Xenakis Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Alena_Xenakis_Infobox_CP2077PL.png) |
+| `cp2077/characters/alt-cunningham.webp` | [AltCunningham Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:AltCunningham_Infobox_CP2077.png) |
+| `cp2077/characters/anders-hellman.webp` | [Hellman pfp.png](https://cyberpunk.fandom.com/wiki/File:Hellman_pfp.png) |
+| `cp2077/characters/anthony-anderson.webp` | [Anthony Anderson Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Anthony_Anderson_Database_CP2077PL.png) |
+| `cp2077/characters/anthony-gilchrist.webp` | [Char profile gilchrist.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_gilchrist.png) |
+| `cp2077/characters/anthony-harris.webp` | [Anthony Harris Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Anthony_Harris_Infobox_CP2077.png) |
+| `cp2077/characters/arthur-jenkins.webp` | [Char profile jenkins.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_jenkins.png) |
+| `cp2077/characters/asher-peterson.webp` | [Asher Peterson Infobox CP2077PL.jpg](https://cyberpunk.fandom.com/wiki/File:Asher_Peterson_Infobox_CP2077PL.jpg) |
+| `cp2077/characters/aurore-cassel.webp` | [Aurore Cassel Infobox CP2077PL.jpg](https://cyberpunk.fandom.com/wiki/File:Aurore_Cassel_Infobox_CP2077PL.jpg) |
+| `cp2077/characters/aymeric-cassel.webp` | [Aymeric Cassel Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Aymeric_Cassel_Infobox_CP2077PL.png) |
+| `cp2077/characters/blue-moon.webp` | [Char Profile Blue.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Blue.png) |
+| `cp2077/characters/bob-sagan.webp` | [Infobox Bob Sagan2077.png](https://cyberpunk.fandom.com/wiki/File:Infobox_Bob_Sagan2077.png) |
+| `cp2077/characters/brick.webp` | [Char Profile brick.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_brick.png) |
+| `cp2077/characters/brigitte.webp` | [Brigitte Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Brigitte_Infobox_CP2077.png) |
+| `cp2077/characters/bryce-mosley.webp` | [Bryce Mosley Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Bryce_Mosley_Infobox_CP2077.png) |
+| `cp2077/characters/carl-robinson.webp` | [Q304 Photo Carl Robinson CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Carl_Robinson_CP2077PL.png) |
+| `cp2077/characters/carol-emeka.webp` | [Carol Emeka Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Carol_Emeka_Infobox_CP2077.png) |
+| `cp2077/characters/cassidy-righter.webp` | [Infobox Cassidy Righter2077.png](https://cyberpunk.fandom.com/wiki/File:Infobox_Cassidy_Righter2077.png) |
+| `cp2077/characters/cassius-ryder.webp` | [Char Profile cassisus.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_cassisus.png) |
+| `cp2077/characters/chang-hoon-nam.webp` | [Chang-HoonNam Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Chang-HoonNam_Infobox_CP2077.png) |
+| `cp2077/characters/charles-bucks.webp` | [Charles bucks cp77.png](https://cyberpunk.fandom.com/wiki/File:Charles_bucks_cp77.png) |
+| `cp2077/characters/chester-bennett.webp` | [Q304 Photo Chester Bennett CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Chester_Bennett_CP2077PL.png) |
+| `cp2077/characters/chiyo-omoto.webp` | [Ripperdoc japantown.png](https://cyberpunk.fandom.com/wiki/File:Ripperdoc_japantown.png) |
+| `cp2077/characters/claire-russell.webp` | [Claire Russell Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Claire_Russell_Infobox_CP2077.png) |
+| `cp2077/characters/costin-lahovary.webp` | [Lahovary's Clinic Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Lahovary%27s_Clinic_Infobox_CP2077PL.png) |
+| `cp2077/characters/crispin-weyland.webp` | [Crispin Weyland Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Crispin_Weyland_Infobox_CP2077.png) |
+| `cp2077/characters/dakota-smith.webp` | [Char Profile Dakota.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Dakota.png) |
+| `cp2077/characters/darius-clarke.webp` | [Ripperdoc (Downtown) Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Ripperdoc_(Downtown)_Infobox_CP2077.png) |
+| `cp2077/characters/delamain.webp` | [Delamain Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Delamain_Infobox_CP2077.png) |
+| `cp2077/characters/denny.webp` | [Denny Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Denny_Infobox_CP2077.png) |
+| `cp2077/characters/dexter-deshawn.webp` | [Char profile dexter.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_dexter.png) |
+| `cp2077/characters/dino-dinovic.webp` | [Char Profile Dino.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Dino.png) |
+| `cp2077/characters/dum-dum.webp` | [Dum Dum Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Dum_Dum_Infobox_CP2077.png) |
+| `cp2077/characters/el-capitan.webp` | [Char Profile Reyes.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Reyes.png) |
+| `cp2077/characters/elizabeth-peralez.webp` | [Char profile EPeralez.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_EPeralez.png) |
+| `cp2077/characters/eron-acedo.webp` | [Eron Acedo.jpg](https://cyberpunk.fandom.com/wiki/File:Eron_Acedo.jpg) |
+| `cp2077/characters/evelyn-parker.webp` | [Evelyn Parker Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Evelyn_Parker_Infobox_CP2077.png) |
+| `cp2077/characters/farida-nazeri.webp` | [Farida Nazeri Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Farida_Nazeri_Infobox_CP2077PL.png) |
+| `cp2077/characters/fingers.webp` | [Char Profile Fingers.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Fingers.png) |
+| `cp2077/characters/goro-takemura.webp` | [Goro Takemura Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Goro_Takemura_Infobox_CP2077.png) |
+| `cp2077/characters/hanako-arasaka.webp` | [Hanako Arasaka Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Hanako_Arasaka_Infobox_CP2077.png) |
+| `cp2077/characters/henry.webp` | [Henry 2077 Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Henry_2077_Infobox_CP2077.png) |
+| `cp2077/characters/herold-lowe.webp` | [Herold Lowe Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Herold_Lowe_Infobox_CP2077PL.png) |
+| `cp2077/characters/hutch-spindler.webp` | [Char Profile Ripperdoc Badlands.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Ripperdoc_Badlands.png) |
+| `cp2077/characters/jackie-welles.webp` | [Jackie Welles Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Jackie_Welles_Infobox_CP2077.png) |
+| `cp2077/characters/jacob-long.webp` | [Jacob Long Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Jacob_Long_Infobox_CP2077PL.png) |
+| `cp2077/characters/jago-szabo.webp` | [Jago Szabó Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Jago_Szab%C3%B3_Infobox_CP2077PL.png) |
+| `cp2077/characters/jasper-collins.webp` | [Jasper Collins Infobox CP2077PL.jpg](https://cyberpunk.fandom.com/wiki/File:Jasper_Collins_Infobox_CP2077PL.jpg) |
+| `cp2077/characters/jefferson-peralez.webp` | [Char profile JPeralez.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_JPeralez.png) |
+| `cp2077/characters/jeremiah-grayson.webp` | [JeremiahGrayson Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:JeremiahGrayson_Infobox_CP2077.png) |
+| `cp2077/characters/johnny-silverhand.webp` | [Johnny Silverhand Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Johnny_Silverhand_Infobox_CP2077PL.png) |
+| `cp2077/characters/joss-kutcher.webp` | [JossKutcher Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:JossKutcher_Infobox_CP2077.png) |
+| `cp2077/characters/jotaro-shobo.webp` | [Char Profile Jotaro.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Jotaro.png) |
+| `cp2077/characters/judy-alvarez.webp` | [Judy Álvarez Infobox CP2077.jpg](https://cyberpunk.fandom.com/wiki/File:Judy_%C3%81lvarez_Infobox_CP2077.jpg) |
+| `cp2077/characters/kerry-eurodyne.webp` | [Kerry Eurodyne Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Kerry_Eurodyne_Infobox_CP2077.png) |
+| `cp2077/characters/kirk-sawyer.webp` | [Kirk Sawyer Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Kirk_Sawyer_Infobox_CP2077.png) |
+| `cp2077/characters/kurt-hansen.webp` | [Screenshot 029 CP2077PL.jpeg](https://cyberpunk.fandom.com/wiki/File:Screenshot_029_CP2077PL.jpeg) |
+| `cp2077/characters/leon-rinder.webp` | [Leon Rinder Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Leon_Rinder_Infobox_CP2077PL.png) |
+| `cp2077/characters/lizzy-wizzy.webp` | [Char Profile lizzywizzy.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_lizzywizzy.png) |
+| `cp2077/characters/lucius-rhyne.webp` | [Lucius Rhyne Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Lucius_Rhyne_Infobox_CP2077.png) |
+| `cp2077/characters/maiko-maeda.webp` | [Char Profile Maiko.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Maiko.png) |
+| `cp2077/characters/mama-welles.webp` | [Char Profile Mama Welles.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Mama_Welles.png) |
+| `cp2077/characters/meredith-stout.webp` | [Meredith Stout Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Meredith_Stout_Infobox_CP2077.png) |
+| `cp2077/characters/misty-olszewski.webp` | [Misty Olszewski Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Misty_Olszewski_Infobox_CP2077.png) |
+| `cp2077/characters/mitch-anderson.webp` | [Mitch Anderson Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Mitch_Anderson_Infobox_CP2077.png) |
+| `cp2077/characters/mr-blue-eyes.webp` | [Mr.BlueEyes001.png](https://cyberpunk.fandom.com/wiki/File:Mr.BlueEyes001.png) |
+| `cp2077/characters/mr-hands.webp` | [Wade Bleecker Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Wade_Bleecker_Infobox_CP2077PL.png) |
+| `cp2077/characters/nancy-hartley.webp` | [Bes Isis 2077 Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Bes_Isis_2077_Infobox_CP2077.png) |
+| `cp2077/characters/nash.webp` | [Nash Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Nash_Infobox_CP2077.png) |
+| `cp2077/characters/nibbles.webp` | [Nibbles Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Nibbles_Infobox_CP2077.png) |
+| `cp2077/characters/nina-kraviz.webp` | [Nina Kraviz.png](https://cyberpunk.fandom.com/wiki/File:Nina_Kraviz.png) |
+| `cp2077/characters/nix.webp` | [Nix cp77.png](https://cyberpunk.fandom.com/wiki/File:Nix_cp77.png) |
+| `cp2077/characters/octavio-delgado.webp` | [Ripperdoc RanchoCoronado.png](https://cyberpunk.fandom.com/wiki/File:Ripperdoc_RanchoCoronado.png) |
+| `cp2077/characters/oleg-darkevich.webp` | [Char profile oleg.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_oleg.png) |
+| `cp2077/characters/padre.webp` | [Sebastian Ibarra Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Sebastian_Ibarra_Infobox_CP2077.png) |
+| `cp2077/characters/panam-palmer.webp` | [Panam Palmer Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Panam_Palmer_Infobox_CP2077.png) |
+| `cp2077/characters/pepe-najarro.webp` | [Char Profile Pepe.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Pepe.png) |
+| `cp2077/characters/placide.webp` | [Char profile placide.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_placide.png) |
+| `cp2077/characters/purple-force.webp` | [Char Profile PurpleForce.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_PurpleForce.png) |
+| `cp2077/characters/rafael-perez.webp` | [CP77 Ripperdoc Arroyo.jpg](https://cyberpunk.fandom.com/wiki/File:CP77_Ripperdoc_Arroyo.jpg) |
+| `cp2077/characters/randy-kutcher.webp` | [Randy guitar Picture CP2077.png](https://cyberpunk.fandom.com/wiki/File:Randy_guitar_Picture_CP2077.png) |
+| `cp2077/characters/red-menace.webp` | [Red Menace Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Red_Menace_Infobox_CP2077.png) |
+| `cp2077/characters/regina-jones.webp` | [Char Profile regina.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_regina.png) |
+| `cp2077/characters/river-ward.webp` | [River Ward Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:River_Ward_Infobox_CP2077.png) |
+| `cp2077/characters/robert-rainwater.webp` | [Robert Rainwater.png](https://cyberpunk.fandom.com/wiki/File:Robert_Rainwater.png) |
+| `cp2077/characters/robert-wilson.webp` | [Char Profile Wilson.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Wilson.png) |
+| `cp2077/characters/rogue-amendiares.webp` | [Rogue Amendiares 01 CP2077.png](https://cyberpunk.fandom.com/wiki/File:Rogue_Amendiares_01_CP2077.png) |
+| `cp2077/characters/rony-lafleur.webp` | [Ripperdoc (West Wind Estate) Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Ripperdoc_(West_Wind_Estate)_Infobox_CP2077.png) |
+| `cp2077/characters/rosalind-myers.webp` | [Rosalind Myers Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Rosalind_Myers_Infobox_CP2077.png) |
+| `cp2077/characters/roxanne-sumner.webp` | [Roxanne Sumner Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Roxanne_Sumner_Infobox_CP2077.png) |
+| `cp2077/characters/royce.webp` | [Royce Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Royce_Infobox_CP2077.png) |
+| `cp2077/characters/ruby-collins.webp` | [RubyCollins Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:RubyCollins_Infobox_CP2077.png) |
+| `cp2077/characters/saburo-arasaka.webp` | [Infobox Saburo Arasaka2077.png](https://cyberpunk.fandom.com/wiki/File:Infobox_Saburo_Arasaka2077.png) |
+| `cp2077/characters/sachiko-kusama.webp` | [Char profile sachiko.jpg](https://cyberpunk.fandom.com/wiki/File:Char_profile_sachiko.jpg) |
+| `cp2077/characters/sandayu-oda.webp` | [Oda Sandayu Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Oda_Sandayu_Infobox_CP2077.png) |
+| `cp2077/characters/sandra-dorsett.webp` | [Sandra Dorsett Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Sandra_Dorsett_Infobox_CP2077.png) |
+| `cp2077/characters/santiago-molina.webp` | [Ripperdoc Wellsprings.png](https://cyberpunk.fandom.com/wiki/File:Ripperdoc_Wellsprings.png) |
+| `cp2077/characters/sasquatch.webp` | [Char Profile Sasquatch.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Sasquatch.png) |
+| `cp2077/characters/saul-bright.webp` | [Char profile Saul.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_Saul.png) |
+| `cp2077/characters/scorpion.webp` | [Driss Meriana Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Driss_Meriana_Infobox_CP2077.png) |
+| `cp2077/characters/shaitan.webp` | [Shaitan 2023 Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Shaitan_2023_Infobox_CP2077.png) |
+| `cp2077/characters/slider.webp` | [Wilky "Slider" Laguerre Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Wilky_%22Slider%22_Laguerre_Database_CP2077PL.png) |
+| `cp2077/characters/sogo-watanabe.webp` | [Ripperdoc (Kabuki Slums) Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Ripperdoc_(Kabuki_Slums)_Infobox_CP2077.png) |
+| `cp2077/characters/solomon-reed.webp` | [Solomon Reed Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Solomon_Reed_Infobox_CP2077PL.png) |
+| `cp2077/characters/songbird.webp` | [Song So Mi Infobox 02 CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Song_So_Mi_Infobox_02_CP2077PL.png) |
+| `cp2077/characters/spider-murphy.webp` | [Spider Murphy 2023 Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Spider_Murphy_2023_Infobox_CP2077.png) |
+| `cp2077/characters/steve-sanchez.webp` | [Steve Sanchez Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Steve_Sanchez_Infobox_CP2077.png) |
+| `cp2077/characters/susan-abernathy.webp` | [SusanAbernathy Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:SusanAbernathy_Infobox_CP2077.png) |
+| `cp2077/characters/t-bug.webp` | [T-Bug Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:T-Bug_Infobox_CP2077.png) |
+| `cp2077/characters/taylor-gibbs.webp` | [Taylor Gibbs Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Taylor_Gibbs_Infobox_CP2077PL.png) |
+| `cp2077/characters/tom-caldera.webp` | [Cyberpunk 2077 Character Tom.jpg](https://cyberpunk.fandom.com/wiki/File:Cyberpunk_2077_Character_Tom.jpg) |
+| `cp2077/characters/v.webp` | [V Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:V_Infobox_CP2077.png) |
+| `cp2077/characters/viktor-vektor.webp` | [Char profile victor.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_victor.png) |
+| `cp2077/characters/wakako-okada.webp` | [Wakako Okada Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Wakako_Okada_Infobox_CP2077.png) |
+| `cp2077/characters/weldon-holt.webp` | [Char profile mayorholt.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_mayorholt.png) |
+| `cp2077/characters/will-gunner.webp` | [Will Gunner Infobox CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Will_Gunner_Infobox_CP2077PL.png) |
+| `cp2077/characters/woodman.webp` | [Char profile woodman.png](https://cyberpunk.fandom.com/wiki/File:Char_profile_woodman.png) |
+| `cp2077/characters/yoko-tsuru.webp` | [Yoko Tsuru Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Yoko_Tsuru_Infobox_CP2077.png) |
+| `cp2077/characters/yorinobu-arasaka.webp` | [Yorinobu Arasaka 2077 Profile.png](https://cyberpunk.fandom.com/wiki/File:Yorinobu_Arasaka_2077_Profile.png) |
+| `cp2077/characters/yuri-bychkov.webp` | [Q304 Photo Yuri Bychkov CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Q304_Photo_Yuri_Bychkov_CP2077PL.png) |
+| `cp2077/enemies/6th-street.webp` | [6th Street Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:6th_Street_Logo_CP2077.png) |
+| `cp2077/enemies/aldecaldos.webp` | [Aldecaldos Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Aldecaldos_Logo_CP2077.png) |
+| `cp2077/enemies/alec-johnson.webp` | [Alec Johnson Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Alec_Johnson_Infobox_CP2077.png) |
+| `cp2077/enemies/android.webp` | [Icon Enemy Android.png](https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Android.png) |
+| `cp2077/enemies/animals.webp` | [Animals Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Animals_Logo_CP2077.png) |
+| `cp2077/enemies/arasaka.webp` | [Arasaka Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Arasaka_Logo_CP2077.png) |
+| `cp2077/enemies/barghest.webp` | [Barghest Logo CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Barghest_Logo_CP2077PL.png) |
+| `cp2077/enemies/ben-debaillon.webp` | [Ben DeBaillon Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Ben_DeBaillon_Infobox_CP2077.png) |
+| `cp2077/enemies/biotechnica.webp` | [Biotechnica Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Biotechnica_Logo_CP2077.png) |
+| `cp2077/enemies/cedric-muller.webp` | [Cedric Muller Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Cedric_Muller_Infobox_CP2077.png) |
+| `cp2077/enemies/chase-coley.webp` | [Chase Coley Infobox CP2077.jpg](https://cyberpunk.fandom.com/wiki/File:Chase_Coley_Infobox_CP2077.jpg) |
+| `cp2077/enemies/chimera-type.webp` | [Militech Chimera CP2077PL 01.jpg](https://cyberpunk.fandom.com/wiki/File:Militech_Chimera_CP2077PL_01.jpg) |
+| `cp2077/enemies/dao-hyunh.webp` | [Dao Hyunh Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Dao_Hyunh_Infobox_CP2077.png) |
+| `cp2077/enemies/drone.webp` | [Militech Griffin Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Militech_Griffin_Database_CP2077.png) |
+| `cp2077/enemies/ellis-carter.webp` | [Char Profile Ellis Carter.png](https://cyberpunk.fandom.com/wiki/File:Char_Profile_Ellis_Carter.png) |
+| `cp2077/enemies/euralio-alma.webp` | [Euralio Alma Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Euralio_Alma_Infobox_CP2077.png) |
+| `cp2077/enemies/exosuit.webp` | [Militech Centaur Front.jpg](https://cyberpunk.fandom.com/wiki/File:Militech_Centaur_Front.jpg) |
+| `cp2077/enemies/fast-melee.webp` | [Icon Enemy FastMelee.png](https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_FastMelee.png) |
+| `cp2077/enemies/gaston-phillips.webp` | [Gaston Phillips Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Gaston_Phillips_Infobox_CP2077.png) |
+| `cp2077/enemies/heavy-gunner.webp` | [Icon Enemy Gunner.png](https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Gunner.png) |
+| `cp2077/enemies/heavy-melee.webp` | [Icon Enemy HeavyMelee.png](https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_HeavyMelee.png) |
+| `cp2077/enemies/kang-tao.webp` | [Kang Tao Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Kang_Tao_Logo_CP2077.png) |
+| `cp2077/enemies/lely-hein.webp` | [Lely Hein Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Lely_Hein_Infobox_CP2077.png) |
+| `cp2077/enemies/maelstrom.webp` | [Maelstrom Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Maelstrom_Logo_CP2077.png) |
+| `cp2077/enemies/matt-liaw.webp` | [Matt Liaw Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Matt_Liaw_Infobox_CP2077.png) |
+| `cp2077/enemies/maxtac.webp` | [MaxTac Logo CPRED.png](https://cyberpunk.fandom.com/wiki/File:MaxTac_Logo_CPRED.png) |
+| `cp2077/enemies/militech.webp` | [Militech Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Militech_Logo_CP2077.png) |
+| `cp2077/enemies/mower.webp` | [Mower Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Mower_Infobox_CP2077.png) |
+| `cp2077/enemies/ncpd.webp` | [NCPD Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:NCPD_Logo_CP2077.png) |
+| `cp2077/enemies/netrunner.webp` | [Icon Enemy Netrunner.png](https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Netrunner.png) |
+| `cp2077/enemies/netwatch.webp` | [NetWatch Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:NetWatch_Logo_CP2077.png) |
+| `cp2077/enemies/norio-akuhara.webp` | [Norio Akuhara.png](https://cyberpunk.fandom.com/wiki/File:Norio_Akuhara.png) |
+| `cp2077/enemies/nusa-black-ops.webp` | [New United States of America Flag CP2077.png](https://cyberpunk.fandom.com/wiki/File:New_United_States_of_America_Flag_CP2077.png) |
+| `cp2077/enemies/russel-greene.webp` | [Russel Greene Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Russel_Greene_Infobox_CP2077.png) |
+| `cp2077/enemies/scavengers.webp` | [Scavengers Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Scavengers_Database_CP2077.png) |
+| `cp2077/enemies/shotgunner.webp` | [Icon Enemy Shotgunner.png](https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Shotgunner.png) |
+| `cp2077/enemies/sniper.webp` | [Icon Enemy Sniper.png](https://cyberpunk.fandom.com/wiki/File:Icon_Enemy_Sniper.png) |
+| `cp2077/enemies/tamara-cosby.webp` | [Tamara Cosby Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Tamara_Cosby_Infobox_CP2077.png) |
+| `cp2077/enemies/the-mox.webp` | [The Mox Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:The_Mox_Logo_CP2077.png) |
+| `cp2077/enemies/trauma-team.webp` | [Trauma Team Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Trauma_Team_Logo_CP2077.png) |
+| `cp2077/enemies/turret.webp` | [Arasaka ST 2077.png](https://cyberpunk.fandom.com/wiki/File:Arasaka_ST_2077.png) |
+| `cp2077/enemies/tyger-claws.webp` | [Tyger Claws Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Tyger_Claws_Logo_CP2077.png) |
+| `cp2077/enemies/valentinos.webp` | [Valentinos Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Valentinos_Logo_CP2077.png) |
+| `cp2077/enemies/voodoo-boys.webp` | [Voodoo Boys Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Voodoo_Boys_Logo_CP2077.png) |
+| `cp2077/enemies/wraiths.webp` | [Wraiths Logo CP2077.png](https://cyberpunk.fandom.com/wiki/File:Wraiths_Logo_CP2077.png) |
+| `cp2077/enemies/zaria-hughes.webp` | [Char profile Zaria Hughes.jpeg](https://cyberpunk.fandom.com/wiki/File:Char_profile_Zaria_Hughes.jpeg) |
+| `cp2077/enemies/zion-wylde.webp` | [Char profile Zion Wylde.jpeg](https://cyberpunk.fandom.com/wiki/File:Char_profile_Zion_Wylde.jpeg) |
+| `cp2077/gear/adrenaline-booster.webp` | [StaminaRegenBooster.png](https://cyberpunk.fandom.com/wiki/File:StaminaRegenBooster.png) |
+| `cp2077/gear/adrenaline-converter.webp` | [DetectorRush.png](https://cyberpunk.fandom.com/wiki/File:DetectorRush.png) |
+| `cp2077/gear/adreno-trigger.webp` | [DetectorRush.png](https://cyberpunk.fandom.com/wiki/File:DetectorRush.png) |
+| `cp2077/gear/arasaka-cyberdeck.webp` | [ArasakaShadow.png](https://cyberpunk.fandom.com/wiki/File:ArasakaShadow.png) |
+| `cp2077/gear/atomic-sensors.webp` | [TroubleFinder.png](https://cyberpunk.fandom.com/wiki/File:TroubleFinder.png) |
+| `cp2077/gear/axolotl.webp` | [SubdermalCoProcessor.png](https://cyberpunk.fandom.com/wiki/File:SubdermalCoProcessor.png) |
+| `cp2077/gear/ballistic-coprocessor.webp` | [PowerGrip.png](https://cyberpunk.fandom.com/wiki/File:PowerGrip.png) |
+| `cp2077/gear/basic-kiroshi-optics.webp` | [KiroshiOptics.png](https://cyberpunk.fandom.com/wiki/File:KiroshiOptics.png) |
+| `cp2077/gear/behavioral-imprint-synced-faceplate.webp` | [MaskCW.png](https://cyberpunk.fandom.com/wiki/File:MaskCW.png) |
+| `cp2077/gear/bioconductor.webp` | [BioConductors.png](https://cyberpunk.fandom.com/wiki/File:BioConductors.png) |
+| `cp2077/gear/biodyne-berserk.webp` | [BerserkC2.png](https://cyberpunk.fandom.com/wiki/File:BerserkC2.png) |
+| `cp2077/gear/biomonitor.webp` | [Biomonitor.png](https://cyberpunk.fandom.com/wiki/File:Biomonitor.png) |
+| `cp2077/gear/bionic-joints.webp` | [BionicJoints.png](https://cyberpunk.fandom.com/wiki/File:BionicJoints.png) |
+| `cp2077/gear/biotech-sigma-cyberdeck.webp` | [BiotechSigma.png](https://cyberpunk.fandom.com/wiki/File:BiotechSigma.png) |
+| `cp2077/gear/black-mamba.webp` | [ViralVenom.png](https://cyberpunk.fandom.com/wiki/File:ViralVenom.png) |
+| `cp2077/gear/blood-pump.webp` | [BloodPump.png](https://cyberpunk.fandom.com/wiki/File:BloodPump.png) |
+| `cp2077/gear/camillo-ram-manager.webp` | [CamilloRamManager.png](https://cyberpunk.fandom.com/wiki/File:CamilloRamManager.png) |
+| `cp2077/gear/carapace.webp` | [WeirdTankyPlating.png](https://cyberpunk.fandom.com/wiki/File:WeirdTankyPlating.png) |
+| `cp2077/gear/cellular-adapter.webp` | [PainDistributor.png](https://cyberpunk.fandom.com/wiki/File:PainDistributor.png) |
+| `cp2077/gear/chitin.webp` | [Chiton.png](https://cyberpunk.fandom.com/wiki/File:Chiton.png) |
+| `cp2077/gear/chrome-compressor.webp` | [CyberwareCapacityBooster.png](https://cyberpunk.fandom.com/wiki/File:CyberwareCapacityBooster.png) |
+| `cp2077/gear/clutch-padding.webp` | [ShockAbsorber.png](https://cyberpunk.fandom.com/wiki/File:ShockAbsorber.png) |
+| `cp2077/gear/cogito-lattice.webp` | [CogitoFrame.png](https://cyberpunk.fandom.com/wiki/File:CogitoFrame.png) |
+| `cp2077/gear/countershell.webp` | [SuddenAid.png](https://cyberpunk.fandom.com/wiki/File:SuddenAid.png) |
+| `cp2077/gear/cox-2-cybersomatic-optimizer.webp` | [BioConductors.png](https://cyberpunk.fandom.com/wiki/File:BioConductors.png) |
+| `cp2077/gear/deep-field-visual-interface.webp` | [VisualCortexSupport.png](https://cyberpunk.fandom.com/wiki/File:VisualCortexSupport.png) |
+| `cp2077/gear/defenzikov.webp` | [PlatingGlitch.png](https://cyberpunk.fandom.com/wiki/File:PlatingGlitch.png) |
+| `cp2077/gear/dense-marrow.webp` | [DenseMarrow.png](https://cyberpunk.fandom.com/wiki/File:DenseMarrow.png) |
+| `cp2077/gear/dynalar-sandevistan.webp` | [SandevistanC2.png](https://cyberpunk.fandom.com/wiki/File:SandevistanC2.png) |
+| `cp2077/gear/electrifying-gorilla-arms.webp` | [StrongArms.png](https://cyberpunk.fandom.com/wiki/File:StrongArms.png) |
+| `cp2077/gear/electrifying-mantis-blades.webp` | [MantisBlades.png](https://cyberpunk.fandom.com/wiki/File:MantisBlades.png) |
+| `cp2077/gear/electrifying-monowire.webp` | [NanoWires.png](https://cyberpunk.fandom.com/wiki/File:NanoWires.png) |
+| `cp2077/gear/electrifying-projectile-launch-system.webp` | [ProjectileLauncher.png](https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png) |
+| `cp2077/gear/electromag-recycler.webp` | [DischargeConnector.png](https://cyberpunk.fandom.com/wiki/File:DischargeConnector.png) |
+| `cp2077/gear/epimorphic-skeleton.webp` | [Endoskeleton.png](https://cyberpunk.fandom.com/wiki/File:Endoskeleton.png) |
+| `cp2077/gear/ex-disk.webp` | [ExDisk.png](https://cyberpunk.fandom.com/wiki/File:ExDisk.png) |
+| `cp2077/gear/feedback-circuit.webp` | [DischargeConnector.png](https://cyberpunk.fandom.com/wiki/File:DischargeConnector.png) |
+| `cp2077/gear/feen-x.webp` | [NeuroMatrix.png](https://cyberpunk.fandom.com/wiki/File:NeuroMatrix.png) |
+| `cp2077/gear/fortified-ankles.webp` | [ReinforcedMuscles.png](https://cyberpunk.fandom.com/wiki/File:ReinforcedMuscles.png) |
+| `cp2077/gear/gorilla-arms.webp` | [StrongArms.png](https://cyberpunk.fandom.com/wiki/File:StrongArms.png) |
+| `cp2077/gear/handle-wrap.webp` | [KnifeSharpener.png](https://cyberpunk.fandom.com/wiki/File:KnifeSharpener.png) |
+| `cp2077/gear/heal-on-kill.webp` | [HealOnKill.png](https://cyberpunk.fandom.com/wiki/File:HealOnKill.png) |
+| `cp2077/gear/immovable-force.webp` | [GunStabilizer.png](https://cyberpunk.fandom.com/wiki/File:GunStabilizer.png) |
+| `cp2077/gear/isometric-stabilizer.webp` | [ShockAbsorber.png](https://cyberpunk.fandom.com/wiki/File:ShockAbsorber.png) |
+| `cp2077/gear/jenkins-tendons.webp` | [JenkinsTendons.png](https://cyberpunk.fandom.com/wiki/File:JenkinsTendons.png) |
+| `cp2077/gear/kerenzikov.webp` | [Kerenzikov.png](https://cyberpunk.fandom.com/wiki/File:Kerenzikov.png) |
+| `cp2077/gear/kerenzikov-boost-system.webp` | [KerenziovBoostSystem.png](https://cyberpunk.fandom.com/wiki/File:KerenziovBoostSystem.png) |
+| `cp2077/gear/kinetic-frame.webp` | [BoneMarrowCells.png](https://cyberpunk.fandom.com/wiki/File:BoneMarrowCells.png) |
+| `cp2077/gear/kiroshi-clairvoyant-optics.webp` | [KiroshiOpticsWallhack.png](https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsWallhack.png) |
+| `cp2077/gear/kiroshi-cockatrice-optics.webp` | [Iconic KiroshiOpticsBare.png](https://cyberpunk.fandom.com/wiki/File:Iconic_KiroshiOpticsBare.png) |
+| `cp2077/gear/kiroshi-doomsayer-optics.webp` | [KiroshiOpticsHunter.png](https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsHunter.png) |
+| `cp2077/gear/kiroshi-sentry-optics.webp` | [KiroshiOpticsSensor.png](https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsSensor.png) |
+| `cp2077/gear/kiroshi-stalker-optics.webp` | [KiroshiOpticsPiercing.png](https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsPiercing.png) |
+| `cp2077/gear/kiroshi-the-oracle-optics.webp` | [KiroshiOpticsCombined.png](https://cyberpunk.fandom.com/wiki/File:KiroshiOpticsCombined.png) |
+| `cp2077/gear/leeroy-ligament-system.webp` | [IconicJenkinsTendons.png](https://cyberpunk.fandom.com/wiki/File:IconicJenkinsTendons.png) |
+| `cp2077/gear/lynx-paws.webp` | [CatPaws.png](https://cyberpunk.fandom.com/wiki/File:CatPaws.png) |
+| `cp2077/gear/mantis-blades.webp` | [MantisBlades.png](https://cyberpunk.fandom.com/wiki/File:MantisBlades.png) |
+| `cp2077/gear/maxtac-mantis-blades.webp` | [MantisBlades.png](https://cyberpunk.fandom.com/wiki/File:MantisBlades.png) |
+| `cp2077/gear/mechatronic-core.webp` | [MechatronicCore.png](https://cyberpunk.fandom.com/wiki/File:MechatronicCore.png) |
+| `cp2077/gear/memory-boost.webp` | [MemoryBoost.png](https://cyberpunk.fandom.com/wiki/File:MemoryBoost.png) |
+| `cp2077/gear/microgenerator.webp` | [MicroGenerator.png](https://cyberpunk.fandom.com/wiki/File:MicroGenerator.png) |
+| `cp2077/gear/microrotors.webp` | [CyberRotors.png](https://cyberpunk.fandom.com/wiki/File:CyberRotors.png) |
+| `cp2077/gear/militech-apogee.webp` | [SandevistanApogee.png](https://cyberpunk.fandom.com/wiki/File:SandevistanApogee.png) |
+| `cp2077/gear/militech-berserk.webp` | [BerserkC4.png](https://cyberpunk.fandom.com/wiki/File:BerserkC4.png) |
+| `cp2077/gear/militech-canto.webp` | [HauntedCyberdeck.png](https://cyberpunk.fandom.com/wiki/File:HauntedCyberdeck.png) |
+| `cp2077/gear/militech-falcon.webp` | [SandevistanC4.png](https://cyberpunk.fandom.com/wiki/File:SandevistanC4.png) |
+| `cp2077/gear/militech-paraline.webp` | [MilitechParaline.png](https://cyberpunk.fandom.com/wiki/File:MilitechParaline.png) |
+| `cp2077/gear/monowire.webp` | [NanoWires.png](https://cyberpunk.fandom.com/wiki/File:NanoWires.png) |
+| `cp2077/gear/moore-tech-berserk.webp` | [BerserkC1.png](https://cyberpunk.fandom.com/wiki/File:BerserkC1.png) |
+| `cp2077/gear/nano-plating.webp` | [NanoTechPlates.png](https://cyberpunk.fandom.com/wiki/File:NanoTechPlates.png) |
+| `cp2077/gear/neofiber.webp` | [NeoFiber.png](https://cyberpunk.fandom.com/wiki/File:NeoFiber.png) |
+| `cp2077/gear/netwatch-netdriver.webp` | [NetWatchNetdriver.png](https://cyberpunk.fandom.com/wiki/File:NetWatchNetdriver.png) |
+| `cp2077/gear/newton-module.webp` | [SubdermalCoProcessor.png](https://cyberpunk.fandom.com/wiki/File:SubdermalCoProcessor.png) |
+| `cp2077/gear/optical-camo.webp` | [OpticalCamo.png](https://cyberpunk.fandom.com/wiki/File:OpticalCamo.png) |
+| `cp2077/gear/pain-editor.webp` | [PainReductor.png](https://cyberpunk.fandom.com/wiki/File:PainReductor.png) |
+| `cp2077/gear/painducer.webp` | [BloodDepleter.png](https://cyberpunk.fandom.com/wiki/File:BloodDepleter.png) |
+| `cp2077/gear/para-bellum.webp` | [T1000.png](https://cyberpunk.fandom.com/wiki/File:T1000.png) |
+| `cp2077/gear/peripheral-inverse.webp` | [ProximityReducer.png](https://cyberpunk.fandom.com/wiki/File:ProximityReducer.png) |
+| `cp2077/gear/projectile-launch-system.webp` | [ProjectileLauncher.png](https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png) |
+| `cp2077/gear/proxishield.webp` | [ProximityReducer.png](https://cyberpunk.fandom.com/wiki/File:ProximityReducer.png) |
+| `cp2077/gear/qiant-warp-dancer.webp` | [SandevistanC3.png](https://cyberpunk.fandom.com/wiki/File:SandevistanC3.png) |
+| `cp2077/gear/quantum-tuner.webp` | [TimeBank.png](https://cyberpunk.fandom.com/wiki/File:TimeBank.png) |
+| `cp2077/gear/ram-reallocator.webp` | [CamilloRamManager.png](https://cyberpunk.fandom.com/wiki/File:CamilloRamManager.png) |
+| `cp2077/gear/ram-recoup.webp` | [CompilingSkeleton.png](https://cyberpunk.fandom.com/wiki/File:CompilingSkeleton.png) |
+| `cp2077/gear/ram-upgrade.webp` | [RamUpgrade.png](https://cyberpunk.fandom.com/wiki/File:RamUpgrade.png) |
+| `cp2077/gear/rangeguard.webp` | [Cw integumentary extra.png](https://cyberpunk.fandom.com/wiki/File:Cw_integumentary_extra.png) |
+| `cp2077/gear/rara-avis.webp` | [T1000.png](https://cyberpunk.fandom.com/wiki/File:T1000.png) |
+| `cp2077/gear/raven-microcyber.webp` | [RavenMicrocyber.png](https://cyberpunk.fandom.com/wiki/File:RavenMicrocyber.png) |
+| `cp2077/gear/reflex-tuner.webp` | [ReflexRecorder.png](https://cyberpunk.fandom.com/wiki/File:ReflexRecorder.png) |
+| `cp2077/gear/reinforced-tendons.webp` | [BoostedTendons.png](https://cyberpunk.fandom.com/wiki/File:BoostedTendons.png) |
+| `cp2077/gear/revulsor.webp` | [ReflexRecorder.png](https://cyberpunk.fandom.com/wiki/File:ReflexRecorder.png) |
+| `cp2077/gear/scar-coalescer.webp` | [NoPainNoGain.png](https://cyberpunk.fandom.com/wiki/File:NoPainNoGain.png) |
+| `cp2077/gear/scarab.webp` | [RapidMuscleNurish.png](https://cyberpunk.fandom.com/wiki/File:RapidMuscleNurish.png) |
+| `cp2077/gear/second-heart.webp` | [SecondHeart.png](https://cyberpunk.fandom.com/wiki/File:SecondHeart.png) |
+| `cp2077/gear/self-ice.webp` | [SelfIce.png](https://cyberpunk.fandom.com/wiki/File:SelfIce.png) |
+| `cp2077/gear/shock-absorber.webp` | [JointLock.png](https://cyberpunk.fandom.com/wiki/File:JointLock.png) |
+| `cp2077/gear/shock-n-awe.webp` | [ElectroshockMechanism.png](https://cyberpunk.fandom.com/wiki/File:ElectroshockMechanism.png) |
+| `cp2077/gear/smart-link.webp` | [SmartLink.png](https://cyberpunk.fandom.com/wiki/File:SmartLink.png) |
+| `cp2077/gear/spring-joints.webp` | [AgileJoints.png](https://cyberpunk.fandom.com/wiki/File:AgileJoints.png) |
+| `cp2077/gear/stabber.webp` | [OilDispenser.png](https://cyberpunk.fandom.com/wiki/File:OilDispenser.png) |
+| `cp2077/gear/subdermal-armor.webp` | [BoringPlating.png](https://cyberpunk.fandom.com/wiki/File:BoringPlating.png) |
+| `cp2077/gear/synaptic-accelerator.webp` | [SynapticAccelerator.png](https://cyberpunk.fandom.com/wiki/File:SynapticAccelerator.png) |
+| `cp2077/gear/tattoo-johnnys-special.webp` | [CasiusTattoo.png](https://cyberpunk.fandom.com/wiki/File:CasiusTattoo.png) |
+| `cp2077/gear/tattoo-together-forever.webp` | [SilverhandTattoo.png](https://cyberpunk.fandom.com/wiki/File:SilverhandTattoo.png) |
+| `cp2077/gear/tattoo-tyger-claws-dermal-imprint.webp` | [YakuzaTattoo.png](https://cyberpunk.fandom.com/wiki/File:YakuzaTattoo.png) |
+| `cp2077/gear/tetratronic-rippler.webp` | [TetratronicRippler.png](https://cyberpunk.fandom.com/wiki/File:TetratronicRippler.png) |
+| `cp2077/gear/thermal-gorilla-arms.webp` | [StrongArms.png](https://cyberpunk.fandom.com/wiki/File:StrongArms.png) |
+| `cp2077/gear/thermal-mantis-blades.webp` | [MantisBlades.png](https://cyberpunk.fandom.com/wiki/File:MantisBlades.png) |
+| `cp2077/gear/thermal-monowire.webp` | [NanoWires.png](https://cyberpunk.fandom.com/wiki/File:NanoWires.png) |
+| `cp2077/gear/thermal-projectile-launch-system.webp` | [ProjectileLauncher.png](https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png) |
+| `cp2077/gear/threatevac.webp` | [CatchMeIfYouCan.png](https://cyberpunk.fandom.com/wiki/File:CatchMeIfYouCan.png) |
+| `cp2077/gear/titanium-bones.webp` | [TitaniumInfusedBones.png](https://cyberpunk.fandom.com/wiki/File:TitaniumInfusedBones.png) |
+| `cp2077/gear/toxic-gorilla-arms.webp` | [StrongArms.png](https://cyberpunk.fandom.com/wiki/File:StrongArms.png) |
+| `cp2077/gear/toxic-mantis-blades.webp` | [MantisBlades.png](https://cyberpunk.fandom.com/wiki/File:MantisBlades.png) |
+| `cp2077/gear/toxic-monowire.webp` | [NanoWires.png](https://cyberpunk.fandom.com/wiki/File:NanoWires.png) |
+| `cp2077/gear/toxic-projectile-launch-system.webp` | [ProjectileLauncher.png](https://cyberpunk.fandom.com/wiki/File:ProjectileLauncher.png) |
+| `cp2077/gear/tyrosine-injector.webp` | [TyrosineInjector.png](https://cyberpunk.fandom.com/wiki/File:TyrosineInjector.png) |
+| `cp2077/gear/universal-booster.webp` | [EnhancedBloodVessels.png](https://cyberpunk.fandom.com/wiki/File:EnhancedBloodVessels.png) |
+| `cp2077/gear/visual-cortex-support.webp` | [VisualCortexSupport.png](https://cyberpunk.fandom.com/wiki/File:VisualCortexSupport.png) |
+| `cp2077/gear/zetatech-berserk.webp` | [BerserkC3.png](https://cyberpunk.fandom.com/wiki/File:BerserkC3.png) |
+| `cp2077/gear/zetatech-sandevistan.webp` | [SandevistanC1.png](https://cyberpunk.fandom.com/wiki/File:SandevistanC1.png) |
+| `cp2077/items/arch-nazare.webp` | [Nazaré Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Nazar%C3%A9_Database_CP2077.png) |
+| `cp2077/items/arch-nazare-itsumade.webp` | [Arch Nazaré Itsumade Purple.jpg](https://cyberpunk.fandom.com/wiki/File:Arch_Nazar%C3%A9_Itsumade_Purple.jpg) |
+| `cp2077/items/arch-nazare-kobold.webp` | [ARCH Nazaré Kobold Icon CP2077.png](https://cyberpunk.fandom.com/wiki/File:ARCH_Nazar%C3%A9_Kobold_Icon_CP2077.png) |
+| `cp2077/items/arch-nazare-racer.webp` | [ARCH Nazare Racer.jpg](https://cyberpunk.fandom.com/wiki/File:ARCH_Nazare_Racer.jpg) |
+| `cp2077/items/archer-hella-ec-d-i360.webp` | [Archer Hella EC-D i360 Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Archer_Hella_EC-D_i360_Database_CP2077.png) |
+| `cp2077/items/archer-quartz-bandit.webp` | [Archer Quartz "Bandit" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_%22Bandit%22_Database_CP2077.png) |
+| `cp2077/items/archer-quartz-ec-l-r275.webp` | [Archer Quartz EC-L r275 (2041) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_EC-L_r275_(2041)_Database_CP2077.png) |
+| `cp2077/items/archer-quartz-ec-t2-r660.webp` | [Archer Quartz EC-L r275 (2041) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_EC-L_r275_(2041)_Database_CP2077.png) |
+| `cp2077/items/archer-quartz-sidewinder.webp` | [Archer Quartz "Sidewinder" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_%22Sidewinder%22_Database_CP2077.png) |
+| `cp2077/items/archer-quartz-specter.webp` | [Archer Quartz "Specter" Autofixer CP2077.png](https://cyberpunk.fandom.com/wiki/File:Archer_Quartz_%22Specter%22_Autofixer_CP2077.png) |
+| `cp2077/items/bait.webp` | [WhistleProgram.png](https://cyberpunk.fandom.com/wiki/File:WhistleProgram.png) |
+| `cp2077/items/blackwall-gateway.webp` | [GenericProgram.png](https://cyberpunk.fandom.com/wiki/File:GenericProgram.png) |
+| `cp2077/items/breach-protocol-quickhack.webp` | [BreachProtocol Icon CP2077.png](https://cyberpunk.fandom.com/wiki/File:BreachProtocol_Icon_CP2077.png) |
+| `cp2077/items/brennan-apollo.webp` | [Brennan Apollo Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Brennan_Apollo_Database_CP2077.png) |
+| `cp2077/items/brennan-apollo-650-s.webp` | [Brennan Apollo Sportbike.png](https://cyberpunk.fandom.com/wiki/File:Brennan_Apollo_Sportbike.png) |
+| `cp2077/items/chevillon-emperor-620-ragnar.webp` | [Chevillon Emperor 620 Ragnar Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Chevillon_Emperor_620_Ragnar_Database_CP2077.png) |
+| `cp2077/items/chevillon-legatus-450-aquila.webp` | [Chevillon Legatus 450 Aquila Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Chevillon_Legatus_450_Aquila_Database_CP2077.png) |
+| `cp2077/items/chevillon-thrax-388-jefferson.webp` | [Chevillon Thrax 388 Jefferson (2062) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Chevillon_Thrax_388_Jefferson_(2062)_Database_CP2077.png) |
+| `cp2077/items/contagion.webp` | [ContagionProgram.png](https://cyberpunk.fandom.com/wiki/File:ContagionProgram.png) |
+| `cp2077/items/cripple-movement.webp` | [LocomotionMalfunctionProgram.png](https://cyberpunk.fandom.com/wiki/File:LocomotionMalfunctionProgram.png) |
+| `cp2077/items/cyberpsychosis-quickhack.webp` | [MadnessProgram.png](https://cyberpunk.fandom.com/wiki/File:MadnessProgram.png) |
+| `cp2077/items/cyberware-malfunction.webp` | [DisableCyberwareProgram.png](https://cyberpunk.fandom.com/wiki/File:DisableCyberwareProgram.png) |
+| `cp2077/items/delamain-no-21.webp` | [Delamain no. 21 Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Delamain_no._21_Database_CP2077.png) |
+| `cp2077/items/detonate-grenade.webp` | [GrenadeExplodeProgram.png](https://cyberpunk.fandom.com/wiki/File:GrenadeExplodeProgram.png) |
+| `cp2077/items/emergency-brake.webp` | [GenericProgram.png](https://cyberpunk.fandom.com/wiki/File:GenericProgram.png) |
+| `cp2077/items/floor-it.webp` | [GenericProgram.png](https://cyberpunk.fandom.com/wiki/File:GenericProgram.png) |
+| `cp2077/items/herrera-outlaw-gts.webp` | [Herrera Outlaw GTS Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Herrera_Outlaw_GTS_Database_CP2077.png) |
+| `cp2077/items/herrera-outlaw-weiler.webp` | [Herrera Outlaw Weiler Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Herrera_Outlaw_Weiler_Icon_CP2077PL.png) |
+| `cp2077/items/herrera-riptide-terrier.webp` | [Herrera Riptide Terrier Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Herrera_Riptide_Terrier_Icon_CP2077PL.png) |
+| `cp2077/items/jackies-arch.webp` | [Jackie's ARCH 2.png](https://cyberpunk.fandom.com/wiki/File:Jackie%27s_ARCH_2.png) |
+| `cp2077/items/mahir-supron-fs3.webp` | [Mahir Supron FS3 Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Mahir_Supron_FS3_Database_CP2077.png) |
+| `cp2077/items/mahir-supron-fs3-t.webp` | [Mahir Supron FS3-T Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Mahir_Supron_FS3-T_Icon_CP2077PL.png) |
+| `cp2077/items/mahir-supron-trailbruiser.webp` | [Mahir Supron Trailbruiser Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Mahir_Supron_Trailbruiser_Icon_CP2077PL.png) |
+| `cp2077/items/makigai-maimai-p126.webp` | [Makigai MaiMai P126 V Message CP2077.png](https://cyberpunk.fandom.com/wiki/File:Makigai_MaiMai_P126_V_Message_CP2077.png) |
+| `cp2077/items/makigai-tanishi-kuma.webp` | [Makigai Tanishi Kuma Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Makigai_Tanishi_Kuma_Icon_CP2077PL.png) |
+| `cp2077/items/makigai-tanishi-t400.webp` | [Makigai Tanishi T400 - Front quarter view.png](https://cyberpunk.fandom.com/wiki/File:Makigai_Tanishi_T400_-_Front_quarter_view.png) |
+| `cp2077/items/malina-mobile.webp` | [ARCH Nazaré Malina-mobile Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:ARCH_Nazar%C3%A9_Malina-mobile_Icon_CP2077PL.png) |
+| `cp2077/items/memory-wipe.webp` | [MemoryWipeProgram.png](https://cyberpunk.fandom.com/wiki/File:MemoryWipeProgram.png) |
+| `cp2077/items/militech-hellhound.webp` | [Militech Hellhound Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Militech_Hellhound_Database_CP2077PL.png) |
+| `cp2077/items/mizutani-hozuki-hoseki.webp` | [Mizutani Hozuki Hoseki Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Mizutani_Hozuki_Hoseki_Icon_CP2077PL.png) |
+| `cp2077/items/mizutani-hozuki-mh2.webp` | [Mizutani Hozuki MH2 Icon CP2077.png](https://cyberpunk.fandom.com/wiki/File:Mizutani_Hozuki_MH2_Icon_CP2077.png) |
+| `cp2077/items/mizutani-shion-bonewrecker.webp` | [Mizutani Shion Bonewrecker 1.png](https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_Bonewrecker_1.png) |
+| `cp2077/items/mizutani-shion-coyote.webp` | [Mizutani Shion "Coyote" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_%22Coyote%22_Database_CP2077.png) |
+| `cp2077/items/mizutani-shion-mz1.webp` | [Mizutani Shion MZ2 (2060) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_MZ2_(2060)_Database_CP2077.png) |
+| `cp2077/items/mizutani-shion-mz2.webp` | [Mizutani Shion MZ2 (2060) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_MZ2_(2060)_Database_CP2077.png) |
+| `cp2077/items/mizutani-shion-samum.webp` | [Mizutani Shion Samum Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Mizutani_Shion_Samum_Icon_CP2077PL.png) |
+| `cp2077/items/mizutani-shion-targa-mzt.webp` | [Vehicle MizutaniShion-Targa.png](https://cyberpunk.fandom.com/wiki/File:Vehicle_MizutaniShion-Targa.png) |
+| `cp2077/items/overheat.webp` | [OverheatProgram.png](https://cyberpunk.fandom.com/wiki/File:OverheatProgram.png) |
+| `cp2077/items/ping.webp` | [PingProgram.png](https://cyberpunk.fandom.com/wiki/File:PingProgram.png) |
+| `cp2077/items/porsche-911-turbo-930.webp` | [Porsche 911 Turbo (930) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Porsche_911_Turbo_(930)_Database_CP2077.png) |
+| `cp2077/items/porsche-911-turbo-cabriolet-930.webp` | [New Porsche 911 Patch 2.1 CP2077.jpeg](https://cyberpunk.fandom.com/wiki/File:New_Porsche_911_Patch_2.1_CP2077.jpeg) |
+| `cp2077/items/quadra-sport-r-7-charon.webp` | [Photomode 12102023 091845.png](https://cyberpunk.fandom.com/wiki/File:Photomode_12102023_091845.png) |
+| `cp2077/items/quadra-sport-r-7-chiaroscuro.webp` | [Quadra Sport R-7 Chiaroscuro Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Sport_R-7_Chiaroscuro_Icon_CP2077PL.png) |
+| `cp2077/items/quadra-sport-r-7-sterling.webp` | [Quadra Sport R-7 "Sterling" Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Sport_R-7_%22Sterling%22_Database_CP2077PL.png) |
+| `cp2077/items/quadra-sport-r-7-vigilante.webp` | [Quadra Sport R-7 Vigilante CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Sport_R-7_Vigilante_CP2077.png) |
+| `cp2077/items/quadra-turbo-r-740.webp` | [Quadra Turbo-R 740 Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Turbo-R_740_Database_CP2077.png) |
+| `cp2077/items/quadra-turbo-r-v-tech.webp` | [Quadra Turbo-R V-Tech Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Turbo-R_V-Tech_Database_CP2077.png) |
+| `cp2077/items/quadra-type-66-640-ts.webp` | [Quadra Type-66 640 TS Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_640_TS_Database_CP2077.png) |
+| `cp2077/items/quadra-type-66-680-ts.webp` | [CP2077-Quadra-Type-66-680-TS.jpg](https://cyberpunk.fandom.com/wiki/File:CP2077-Quadra-Type-66-680-TS.jpg) |
+| `cp2077/items/quadra-type-66-avenger.webp` | [Quadra Type-66 Avenger Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_Avenger_Database_CP2077.png) |
+| `cp2077/items/quadra-type-66-bulitt.webp` | [Quadra Type-66 640 TS V Message CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_640_TS_V_Message_CP2077.png) |
+| `cp2077/items/quadra-type-66-cthulhu.webp` | [Quadra Type-66 "Cthulhu" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Cthulhu%22_Database_CP2077.png) |
+| `cp2077/items/quadra-type-66-hoon.webp` | [Quadra Type-66 "Hoon" Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Hoon%22_Infobox_CP2077.png) |
+| `cp2077/items/quadra-type-66-javelina.webp` | [Quadra Type-66 "Javelina" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Javelina%22_Database_CP2077.png) |
+| `cp2077/items/quadra-type-66-jen-rowley.webp` | [Quadra Type-66 "Jen Rowley" V Message CP2077.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_%22Jen_Rowley%22_V_Message_CP2077.png) |
+| `cp2077/items/quadra-type-66-wingate.webp` | [Quadra Type-66 Wingate Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Quadra_Type-66_Wingate_Icon_CP2077PL.png) |
+| `cp2077/items/rayfield-aerondight-guinevere.webp` | [Rayfield Aerondight "Guinevere" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Rayfield_Aerondight_%22Guinevere%22_Database_CP2077.png) |
+| `cp2077/items/rayfield-caliburn.webp` | [Rayfield Caliburn Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Rayfield_Caliburn_Database_CP2077.png) |
+| `cp2077/items/rayfield-caliburn-mordred.webp` | [Rayfield Caliburn "Mordred" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Rayfield_Caliburn_%22Mordred%22_Database_CP2077.png) |
+| `cp2077/items/rayfield-caliburn-murkmobile.webp` | [Rayfield Caliburn Version player.png](https://cyberpunk.fandom.com/wiki/File:Rayfield_Caliburn_Version_player.png) |
+| `cp2077/items/reboot-optics.webp` | [BlindProgram.png](https://cyberpunk.fandom.com/wiki/File:BlindProgram.png) |
+| `cp2077/items/request-backup.webp` | [CommsCallInProgram.png](https://cyberpunk.fandom.com/wiki/File:CommsCallInProgram.png) |
+| `cp2077/items/scorpions-apollo.webp` | [Brennan Apollo Scorpion Side.png](https://cyberpunk.fandom.com/wiki/File:Brennan_Apollo_Scorpion_Side.png) |
+| `cp2077/items/self-destruct.webp` | [GenericProgram.png](https://cyberpunk.fandom.com/wiki/File:GenericProgram.png) |
+| `cp2077/items/short-circuit.webp` | [EMPOverloadProgram.png](https://cyberpunk.fandom.com/wiki/File:EMPOverloadProgram.png) |
+| `cp2077/items/sonic-shock.webp` | [CommsNoiseProgram.png](https://cyberpunk.fandom.com/wiki/File:CommsNoiseProgram.png) |
+| `cp2077/items/suicide.webp` | [SuicideProgram.png](https://cyberpunk.fandom.com/wiki/File:SuicideProgram.png) |
+| `cp2077/items/synapse-burnout.webp` | [BrainMeltProgram.png](https://cyberpunk.fandom.com/wiki/File:BrainMeltProgram.png) |
+| `cp2077/items/system-collapse.webp` | [SystemCollapseProgram.png](https://cyberpunk.fandom.com/wiki/File:SystemCollapseProgram.png) |
+| `cp2077/items/take-control.webp` | [TakeControlProgram.png](https://cyberpunk.fandom.com/wiki/File:TakeControlProgram.png) |
+| `cp2077/items/thorton-colby-barghest.webp` | [Thorton Colby BARGHEST Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_BARGHEST_Database_CP2077PL.png) |
+| `cp2077/items/thorton-colby-c125.webp` | [Thorton Colby C125.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_C125.png) |
+| `cp2077/items/thorton-colby-cst40.webp` | [Thorton Colby C240t Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_C240t_Database_CP2077.png) |
+| `cp2077/items/thorton-colby-cx410-butte.webp` | [Thorton Colby CX410 Butte V Message CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_CX410_Butte_V_Message_CP2077.png) |
+| `cp2077/items/thorton-colby-cx410-gran-butte.webp` | [Thorton Colby CX410 Butte Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_CX410_Butte_Database_CP2077.png) |
+| `cp2077/items/thorton-colby-little-mule.webp` | [Thorton Colby "Little Mule" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_%22Little_Mule%22_Database_CP2077.png) |
+| `cp2077/items/thorton-colby-vulture.webp` | [Thorton Colby Shootin' Brake1.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Colby_Shootin%27_Brake1.png) |
+| `cp2077/items/thorton-galena-g240.webp` | [Thorton Galena G240 (2031) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_G240_(2031)_Database_CP2077.png) |
+| `cp2077/items/thorton-galena-ga32t.webp` | [Thorton Galena GA32T.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_GA32T.png) |
+| `cp2077/items/thorton-galena-gecko.webp` | [Thorton Galena "Gecko" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_%22Gecko%22_Database_CP2077.png) |
+| `cp2077/items/thorton-galena-locust.webp` | [Thorton Galena Locust Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_Locust_Icon_CP2077PL.png) |
+| `cp2077/items/thorton-galena-rattler.webp` | [Thorton Galena GA40xt "Rattler" Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Galena_GA40xt_%22Rattler%22_Database_CP2077.png) |
+| `cp2077/items/thorton-mackinaw-beast.webp` | [Beast Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Beast_Database_CP2077.png) |
+| `cp2077/items/thorton-mackinaw-demiurge.webp` | [Thorton Mackinaw "Demiurge" Infobox CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Mackinaw_%22Demiurge%22_Infobox_CP2077.png) |
+| `cp2077/items/thorton-mackinaw-mtl1.webp` | [Thorton Mackinaw MTL1 Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Mackinaw_MTL1_Database_CP2077.png) |
+| `cp2077/items/thorton-mackinaw-saguaro.webp` | [Thorton Mackinaw Saguaro V Message CP2077.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Mackinaw_Saguaro_V_Message_CP2077.png) |
+| `cp2077/items/thorton-merrimac-warlock.webp` | [Thorton Merrimac Warlock Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Thorton_Merrimac_Warlock_Icon_CP2077PL.png) |
+| `cp2077/items/villefort-alvarado-v4f-570-delegate.webp` | [Villefort Alvarado V4F 570 Delegate (2044) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Villefort_Alvarado_V4F_570_Delegate_(2044)_Database_CP2077.png) |
+| `cp2077/items/villefort-alvarado-v4fh-570-herman.webp` | [Villefort Alvarado V4FH 570 Herman Database CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Villefort_Alvarado_V4FH_570_Herman_Database_CP2077PL.png) |
+| `cp2077/items/villefort-alvarado-vato.webp` | [Villefort Alvarado Vato Front quarter.png](https://cyberpunk.fandom.com/wiki/File:Villefort_Alvarado_Vato_Front_quarter.png) |
+| `cp2077/items/villefort-columbus-v340-f-freight.webp` | [Villefort Columbus V340-F Freight (2068) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Villefort_Columbus_V340-F_Freight_(2068)_Database_CP2077.png) |
+| `cp2077/items/villefort-cortes-v5000-valor.webp` | [Villefort Cortes V5000 Valor (2040) Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Villefort_Cortes_V5000_Valor_(2040)_Database_CP2077.png) |
+| `cp2077/items/villefort-deleon-v410-s-coupe.webp` | [Villefort Deleon V410-S Coupé Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Villefort_Deleon_V410-S_Coup%C3%A9_Icon_CP2077PL.png) |
+| `cp2077/items/villefort-deleon-vindicator.webp` | [Villefort Deleon Vindicator Icon CP2077PL.png](https://cyberpunk.fandom.com/wiki/File:Villefort_Deleon_Vindicator_Icon_CP2077PL.png) |
+| `cp2077/items/weapon-glitch.webp` | [WeaponMalfunctionProgram.png](https://cyberpunk.fandom.com/wiki/File:WeaponMalfunctionProgram.png) |
+| `cp2077/items/yaiba-arv-q340-semimaru.webp` | [Yaiba ARV-Q340 Semimaru Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Yaiba_ARV-Q340_Semimaru_Database_CP2077.png) |
+| `cp2077/items/yaiba-asm-r250-muramasa.webp` | [Yaiba ASM-R250 Muramasa Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Yaiba_ASM-R250_Muramasa_Database_CP2077.png) |
+| `cp2077/items/yaiba-kusanagi-akashita.webp` | [Yaiba Kusanagi Akashita Icon CP2077.png](https://cyberpunk.fandom.com/wiki/File:Yaiba_Kusanagi_Akashita_Icon_CP2077.png) |
+| `cp2077/items/yaiba-kusanagi-ct-3x.webp` | [Yaiba Kusanagi CT-3X Database CP2077.png](https://cyberpunk.fandom.com/wiki/File:Yaiba_Kusanagi_CT-3X_Database_CP2077.png) |
+| `cp2077/items/yaiba-kusanagi-peacekeeper.webp` | [Yaiba Kusanagi Peacekeeper Icon CP2077.png](https://cyberpunk.fandom.com/wiki/File:Yaiba_Kusanagi_Peacekeeper_Icon_CP2077.png) |
+| `cp2077/weapons/achilles.webp` | [Achilles_Default.png](https://cyberpunk.fandom.com/wiki/File:Achilles_Default.png) |
+| `cp2077/weapons/achilles-x-mod2.webp` | [Achilles_Collectible.png](https://cyberpunk.fandom.com/wiki/File:Achilles_Collectible.png) |
+| `cp2077/weapons/agaou.webp` | [VB_Axe.png](https://cyberpunk.fandom.com/wiki/File:VB_Axe.png) |
+| `cp2077/weapons/ajax.webp` | [Ajax_Default.png](https://cyberpunk.fandom.com/wiki/File:Ajax_Default.png) |
+| `cp2077/weapons/alabai.webp` | [Pozhar_AirDrop.png](https://cyberpunk.fandom.com/wiki/File:Pozhar_AirDrop.png) |
+| `cp2077/weapons/ambition.webp` | [Kenshin_Spy.png](https://cyberpunk.fandom.com/wiki/File:Kenshin_Spy.png) |
+| `cp2077/weapons/amnesty.webp` | [Overture_Cassidy.png](https://cyberpunk.fandom.com/wiki/File:Overture_Cassidy.png) |
+| `cp2077/weapons/amstaff.webp` | [Crusher_Amazon.png](https://cyberpunk.fandom.com/wiki/File:Crusher_Amazon.png) |
+| `cp2077/weapons/apparition.webp` | [Kenshin_Frank.png](https://cyberpunk.fandom.com/wiki/File:Kenshin_Frank.png) |
+| `cp2077/weapons/ar-raygun-supreme-9000.webp` | [Lexington_Toygun.png](https://cyberpunk.fandom.com/wiki/File:Lexington_Toygun.png) |
+| `cp2077/weapons/archangel.webp` | [Overture_Kerry.png](https://cyberpunk.fandom.com/wiki/File:Overture_Kerry.png) |
+| `cp2077/weapons/ashura.webp` | [Ashura_Default.png](https://cyberpunk.fandom.com/wiki/File:Ashura_Default.png) |
+| `cp2077/weapons/ba-xing-chong.webp` | [Zhuo_Eight_Star.png](https://cyberpunk.fandom.com/wiki/File:Zhuo_Eight_Star.png) |
+| `cp2077/weapons/baby-boomer.webp` | [Baseball_Bat_Malina.png](https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Malina.png) |
+| `cp2077/weapons/bald-eagle.webp` | [Metel_Kurt.png](https://cyberpunk.fandom.com/wiki/File:Metel_Kurt.png) |
+| `cp2077/weapons/baseball-bat.webp` | [Baseball_Bat_Default.png](https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Default.png) |
+| `cp2077/weapons/baseball-bat-x-mod2.webp` | [Baseball_Bat_Legendary.png](https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Legendary.png) |
+| `cp2077/weapons/bfc-9000.webp` | [Dildo_SexShop.png](https://cyberpunk.fandom.com/wiki/File:Dildo_SexShop.png) |
+| `cp2077/weapons/black-unicorn.webp` | [Katana_GoG.png](https://cyberpunk.fandom.com/wiki/File:Katana_GoG.png) |
+| `cp2077/weapons/bloody-maria.webp` | [Tactician_Dino.png](https://cyberpunk.fandom.com/wiki/File:Tactician_Dino.png) |
+| `cp2077/weapons/blue-fang.webp` | [Neurotoxin_Knife_Iconic.png](https://cyberpunk.fandom.com/wiki/File:Neurotoxin_Knife_Iconic.png) |
+| `cp2077/weapons/boar-carver.webp` | [Knife_Witcher.png](https://cyberpunk.fandom.com/wiki/File:Knife_Witcher.png) |
+| `cp2077/weapons/borzaya.webp` | [Grad_AirDrop.png](https://cyberpunk.fandom.com/wiki/File:Grad_AirDrop.png) |
+| `cp2077/weapons/breakthrough.webp` | [Nekomata_Breakthrough.png](https://cyberpunk.fandom.com/wiki/File:Nekomata_Breakthrough.png) |
+| `cp2077/weapons/burya.webp` | [Burya_Default.png](https://cyberpunk.fandom.com/wiki/File:Burya_Default.png) |
+| `cp2077/weapons/butchers-cleaver.webp` | [Butchers_Knife_Iconic.png](https://cyberpunk.fandom.com/wiki/File:Butchers_Knife_Iconic.png) |
+| `cp2077/weapons/buzzsaw.webp` | [Pulsar_Buzzsaw.png](https://cyberpunk.fandom.com/wiki/File:Pulsar_Buzzsaw.png) |
+| `cp2077/weapons/byakko.webp` | [Katana_Wakako.png](https://cyberpunk.fandom.com/wiki/File:Katana_Wakako.png) |
+| `cp2077/weapons/caretakers-spade.webp` | [Shovel_Caretaker.png](https://cyberpunk.fandom.com/wiki/File:Shovel_Caretaker.png) |
+| `cp2077/weapons/carmen.webp` | [Umbra_Bebe.png](https://cyberpunk.fandom.com/wiki/File:Umbra_Bebe.png) |
+| `cp2077/weapons/carnage.webp` | [Carnage_Default.png](https://cyberpunk.fandom.com/wiki/File:Carnage_Default.png) |
+| `cp2077/weapons/catahoula.webp` | [Grit_Amazon.png](https://cyberpunk.fandom.com/wiki/File:Grit_Amazon.png) |
+| `cp2077/weapons/chao.webp` | [Chao_Default.png](https://cyberpunk.fandom.com/wiki/File:Chao_Default.png) |
+| `cp2077/weapons/chaos.webp` | [Kenshin_Royce.png](https://cyberpunk.fandom.com/wiki/File:Kenshin_Royce.png) |
+| `cp2077/weapons/cheetah.webp` | [Unity_Angelica.png](https://cyberpunk.fandom.com/wiki/File:Unity_Angelica.png) |
+| `cp2077/weapons/chefs-knife.webp` | [Chef's_Knife_Default.png](https://cyberpunk.fandom.com/wiki/File:Chef%27s_Knife_Default.png) |
+| `cp2077/weapons/chesapeake.webp` | [Warden_Amazon.png](https://cyberpunk.fandom.com/wiki/File:Warden_Amazon.png) |
+| `cp2077/weapons/chinook.webp` | [Kyubi_Amazon.png](https://cyberpunk.fandom.com/wiki/File:Kyubi_Amazon.png) |
+| `cp2077/weapons/claw.webp` | [Fanged_Axe_Default.png](https://cyberpunk.fandom.com/wiki/File:Fanged_Axe_Default.png) |
+| `cp2077/weapons/claw-x-mod2.webp` | [Fanged_Axe_Collectible.png](https://cyberpunk.fandom.com/wiki/File:Fanged_Axe_Collectible.png) |
+| `cp2077/weapons/cocktail-stick.webp` | [Katana_Cocktail.png](https://cyberpunk.fandom.com/wiki/File:Katana_Cocktail.png) |
+| `cp2077/weapons/comrades-hammer.webp` | [Burya_Comrade.png](https://cyberpunk.fandom.com/wiki/File:Burya_Comrade.png) |
+| `cp2077/weapons/copperhead.webp` | [Copperhead_Default.png](https://cyberpunk.fandom.com/wiki/File:Copperhead_Default.png) |
+| `cp2077/weapons/coronation.webp` | [Burya_King.png](https://cyberpunk.fandom.com/wiki/File:Burya_King.png) |
+| `cp2077/weapons/cottonmouth.webp` | [Cane_Fingers.png](https://cyberpunk.fandom.com/wiki/File:Cane_Fingers.png) |
+| `cp2077/weapons/crash.webp` | [Overture_River.png](https://cyberpunk.fandom.com/wiki/File:Overture_River.png) |
+| `cp2077/weapons/crimestopper.webp` | [Kappa_George.png](https://cyberpunk.fandom.com/wiki/File:Kappa_George.png) |
+| `cp2077/weapons/crowbar.webp` | [Crowbar_Default.png](https://cyberpunk.fandom.com/wiki/File:Crowbar_Default.png) |
+| `cp2077/weapons/crowbar-iconic.webp` | [Crowbar_Bunker.png](https://cyberpunk.fandom.com/wiki/File:Crowbar_Bunker.png) |
+| `cp2077/weapons/crusher.webp` | [Crusher_Default.png](https://cyberpunk.fandom.com/wiki/File:Crusher_Default.png) |
+| `cp2077/weapons/cut-o-matic.webp` | [Chainsword_Default.png](https://cyberpunk.fandom.com/wiki/File:Chainsword_Default.png) |
+| `cp2077/weapons/cut-o-matic-x-mod2.webp` | [Chainsword_Legendary.png](https://cyberpunk.fandom.com/wiki/File:Chainsword_Legendary.png) |
+| `cp2077/weapons/death-and-taxes.webp` | [Nue_Maiko.png](https://cyberpunk.fandom.com/wiki/File:Nue_Maiko.png) |
+| `cp2077/weapons/defender.webp` | [Defender_Default.png](https://cyberpunk.fandom.com/wiki/File:Defender_Default.png) |
+| `cp2077/weapons/dezerter.webp` | [Testera_Nicolas.png](https://cyberpunk.fandom.com/wiki/File:Testera_Nicolas.png) |
+| `cp2077/weapons/dian.webp` | [Dian_Default.png](https://cyberpunk.fandom.com/wiki/File:Dian_Default.png) |
+| `cp2077/weapons/divided-we-stand.webp` | [Sidewinder_Divided.png](https://cyberpunk.fandom.com/wiki/File:Sidewinder_Divided.png) |
+| `cp2077/weapons/doom-doom.webp` | [Nova_Doom_Doom.png](https://cyberpunk.fandom.com/wiki/File:Nova_Doom_Doom.png) |
+| `cp2077/weapons/dying-night.webp` | [Lexington_Wilson.png](https://cyberpunk.fandom.com/wiki/File:Lexington_Wilson.png) |
+| `cp2077/weapons/electric-baton-alpha.webp` | [Baton_Alpha.png](https://cyberpunk.fandom.com/wiki/File:Baton_Alpha.png) |
+| `cp2077/weapons/electric-baton-beta.webp` | [Baton_Beta.png](https://cyberpunk.fandom.com/wiki/File:Baton_Beta.png) |
+| `cp2077/weapons/electric-baton-gamma.webp` | [Baton_Gamma.png](https://cyberpunk.fandom.com/wiki/File:Baton_Gamma.png) |
+| `cp2077/weapons/erebus.webp` | [Borg4a_HauntedGun.png](https://cyberpunk.fandom.com/wiki/File:Borg4a_HauntedGun.png) |
+| `cp2077/weapons/errata.webp` | [Katana_E3.png](https://cyberpunk.fandom.com/wiki/File:Katana_E3.png) |
+| `cp2077/weapons/fang.webp` | [Knife_Kurtz.png](https://cyberpunk.fandom.com/wiki/File:Knife_Kurtz.png) |
+| `cp2077/weapons/fenrir.webp` | [Saratoga_Maelstrom.png](https://cyberpunk.fandom.com/wiki/File:Saratoga_Maelstrom.png) |
+| `cp2077/weapons/foxhound.webp` | [Nekomata_Amazon.png](https://cyberpunk.fandom.com/wiki/File:Nekomata_Amazon.png) |
+| `cp2077/weapons/genjiroh.webp` | [Yukimura_Kiji.png](https://cyberpunk.fandom.com/wiki/File:Yukimura_Kiji.png) |
+| `cp2077/weapons/gold-plated-baseball-bat.webp` | [Baseball_Bat_Denny.png](https://cyberpunk.fandom.com/wiki/File:Baseball_Bat_Denny.png) |
+| `cp2077/weapons/grad.webp` | [Grad_Default.png](https://cyberpunk.fandom.com/wiki/File:Grad_Default.png) |
+| `cp2077/weapons/gris-gris.webp` | [Quasar_Baron.png](https://cyberpunk.fandom.com/wiki/File:Quasar_Baron.png) |
+| `cp2077/weapons/grit.webp` | [Grit_Default.png](https://cyberpunk.fandom.com/wiki/File:Grit_Default.png) |
+| `cp2077/weapons/guillotine.webp` | [Guillotine_Default.png](https://cyberpunk.fandom.com/wiki/File:Guillotine_Default.png) |
+| `cp2077/weapons/guillotine-x-mod2.webp` | [Guillotine_Legendary.png](https://cyberpunk.fandom.com/wiki/File:Guillotine_Legendary.png) |
+| `cp2077/weapons/guts.webp` | [Carnage_Edgerunners.png](https://cyberpunk.fandom.com/wiki/File:Carnage_Edgerunners.png) |
+| `cp2077/weapons/gwynbleidd.webp` | [Sword_Witcher.png](https://cyberpunk.fandom.com/wiki/File:Sword_Witcher.png) |
+| `cp2077/weapons/hammer.webp` | [Hammer_Default.png](https://cyberpunk.fandom.com/wiki/File:Hammer_Default.png) |
+| `cp2077/weapons/hawk.webp` | [Kyubi_Myers.png](https://cyberpunk.fandom.com/wiki/File:Kyubi_Myers.png) |
+| `cp2077/weapons/headhunter.webp` | [Punk_Knife_Iconic.png](https://cyberpunk.fandom.com/wiki/File:Punk_Knife_Iconic.png) |
+| `cp2077/weapons/her-majesty.webp` | [Unity_Agent.png](https://cyberpunk.fandom.com/wiki/File:Unity_Agent.png) |
+| `cp2077/weapons/hercules-3ax.webp` | [Hercules_Prototype.png](https://cyberpunk.fandom.com/wiki/File:Hercules_Prototype.png) |
+| `cp2077/weapons/hypercritical.webp` | [Kolac_Tiny_Mike.png](https://cyberpunk.fandom.com/wiki/File:Kolac_Tiny_Mike.png) |
+| `cp2077/weapons/igla.webp` | [Igla_Default.png](https://cyberpunk.fandom.com/wiki/File:Igla_Default.png) |
+| `cp2077/weapons/jinchu-maru.webp` | [Katana_Takemura.png](https://cyberpunk.fandom.com/wiki/File:Katana_Takemura.png) |
+| `cp2077/weapons/kaiken.webp` | [Tanto_Default.png](https://cyberpunk.fandom.com/wiki/File:Tanto_Default.png) |
+| `cp2077/weapons/kanabo.webp` | [Kanabo_Default.png](https://cyberpunk.fandom.com/wiki/File:Kanabo_Default.png) |
+| `cp2077/weapons/kappa.webp` | [Kappa_Default.png](https://cyberpunk.fandom.com/wiki/File:Kappa_Default.png) |
+| `cp2077/weapons/kappa-x-mod2.webp` | [Kappa_Legendary.png](https://cyberpunk.fandom.com/wiki/File:Kappa_Legendary.png) |
+| `cp2077/weapons/katana.webp` | [Katana_Default.png](https://cyberpunk.fandom.com/wiki/File:Katana_Default.png) |
+| `cp2077/weapons/kenshin.webp` | [Kenshin_Default.png](https://cyberpunk.fandom.com/wiki/File:Kenshin_Default.png) |
+| `cp2077/weapons/knife.webp` | [Knife_Military.png](https://cyberpunk.fandom.com/wiki/File:Knife_Military.png) |
+| `cp2077/weapons/kolac.webp` | [Kolac_Default.png](https://cyberpunk.fandom.com/wiki/File:Kolac_Default.png) |
+| `cp2077/weapons/kongou.webp` | [Liberty_Yorinobu.png](https://cyberpunk.fandom.com/wiki/File:Liberty_Yorinobu.png) |
+| `cp2077/weapons/kukri.webp` | [Kukri_Default.png](https://cyberpunk.fandom.com/wiki/File:Kukri_Default.png) |
+| `cp2077/weapons/kyubi.webp` | [Kyubi_Default.png](https://cyberpunk.fandom.com/wiki/File:Kyubi_Default.png) |
+| `cp2077/weapons/kyubi-x-mod2.webp` | [Kyubi_Legendary.png](https://cyberpunk.fandom.com/wiki/File:Kyubi_Legendary.png) |
+| `cp2077/weapons/la-chingona-dorada.webp` | [Nue_Jackie.png](https://cyberpunk.fandom.com/wiki/File:Nue_Jackie.png) |
+| `cp2077/weapons/laika.webp` | [Burya_AirDrop.png](https://cyberpunk.fandom.com/wiki/File:Burya_AirDrop.png) |
+| `cp2077/weapons/lexington.webp` | [Lexington_Default.png](https://cyberpunk.fandom.com/wiki/File:Lexington_Default.png) |
+| `cp2077/weapons/lexington-x-mod2.webp` | [Lexington_Shooting_Competition.png](https://cyberpunk.fandom.com/wiki/File:Lexington_Shooting_Competition.png) |
+| `cp2077/weapons/liberty.webp` | [Liberty_Default.png](https://cyberpunk.fandom.com/wiki/File:Liberty_Default.png) |
+| `cp2077/weapons/lizzie.webp` | [Omaha_Suzie.png](https://cyberpunk.fandom.com/wiki/File:Omaha_Suzie.png) |
+| `cp2077/weapons/ma70-hb.webp` | [MA70_Default.png](https://cyberpunk.fandom.com/wiki/File:MA70_Default.png) |
+| `cp2077/weapons/ma70-hb-x-mod2.webp` | [MA70_Collectible.png](https://cyberpunk.fandom.com/wiki/File:MA70_Collectible.png) |
+| `cp2077/weapons/machete.webp` | [Machete_Default.png](https://cyberpunk.fandom.com/wiki/File:Machete_Default.png) |
+| `cp2077/weapons/malorian-arms-3516.webp` | [Silverhand_3516.png](https://cyberpunk.fandom.com/wiki/File:Silverhand_3516.png) |
+| `cp2077/weapons/mancinella.webp` | [Nova_Hitman.png](https://cyberpunk.fandom.com/wiki/File:Nova_Hitman.png) |
+| `cp2077/weapons/masamune.webp` | [Masamune_Default.png](https://cyberpunk.fandom.com/wiki/File:Masamune_Default.png) |
+| `cp2077/weapons/metel.webp` | [Metel_Default.png](https://cyberpunk.fandom.com/wiki/File:Metel_Default.png) |
+| `cp2077/weapons/mk-31-hmg.webp` | [HMG_Default.png](https://cyberpunk.fandom.com/wiki/File:HMG_Default.png) |
+| `cp2077/weapons/moron-labe.webp` | [Ajax_Moron.png](https://cyberpunk.fandom.com/wiki/File:Ajax_Moron.png) |
+| `cp2077/weapons/mox.webp` | [Carnage_Mox.png](https://cyberpunk.fandom.com/wiki/File:Carnage_Mox.png) |
+| `cp2077/weapons/murphys-law.webp` | [Baton_Murphy.png](https://cyberpunk.fandom.com/wiki/File:Baton_Murphy.png) |
+| `cp2077/weapons/nehan.webp` | [Tanto_Saburo.png](https://cyberpunk.fandom.com/wiki/File:Tanto_Saburo.png) |
+| `cp2077/weapons/nekomata.webp` | [Nekomata_Default.png](https://cyberpunk.fandom.com/wiki/File:Nekomata_Default.png) |
+| `cp2077/weapons/neurotoxin-knife.webp` | [Neurotoxin_Knife_Default.png](https://cyberpunk.fandom.com/wiki/File:Neurotoxin_Knife_Default.png) |
+| `cp2077/weapons/nova.webp` | [Nova_Default.png](https://cyberpunk.fandom.com/wiki/File:Nova_Default.png) |
+| `cp2077/weapons/nowaki.webp` | [Masamune_Arasaka_2077.png](https://cyberpunk.fandom.com/wiki/File:Masamune_Arasaka_2077.png) |
+| `cp2077/weapons/nue.webp` | [Nue_Default.png](https://cyberpunk.fandom.com/wiki/File:Nue_Default.png) |
+| `cp2077/weapons/o-five.webp` | [Grad_Buck.png](https://cyberpunk.fandom.com/wiki/File:Grad_Buck.png) |
+| `cp2077/weapons/ogou.webp` | [Chao_VooDoo.png](https://cyberpunk.fandom.com/wiki/File:Chao_VooDoo.png) |
+| `cp2077/weapons/ol-reliable.webp` | [Overture_Cassidy.png](https://cyberpunk.fandom.com/wiki/File:Overture_Cassidy.png) |
+| `cp2077/weapons/omaha.webp` | [Omaha_Default.png](https://cyberpunk.fandom.com/wiki/File:Omaha_Default.png) |
+| `cp2077/weapons/order.webp` | [Satara_Brick.png](https://cyberpunk.fandom.com/wiki/File:Satara_Brick.png) |
+| `cp2077/weapons/osprey.webp` | [Osprey_Prototype.png](https://cyberpunk.fandom.com/wiki/File:Osprey_Prototype.png) |
+| `cp2077/weapons/overture.webp` | [Overture_Default.png](https://cyberpunk.fandom.com/wiki/File:Overture_Default.png) |
+| `cp2077/weapons/overwatch.webp` | [Grad_Panam.png](https://cyberpunk.fandom.com/wiki/File:Grad_Panam.png) |
+| `cp2077/weapons/ozobs-nose.webp` | [GrenadeOzobsNose.png](https://cyberpunk.fandom.com/wiki/File:GrenadeOzobsNose.png) |
+| `cp2077/weapons/palica.webp` | [Palica_Default.png](https://cyberpunk.fandom.com/wiki/File:Palica_Default.png) |
+| `cp2077/weapons/pariah.webp` | [Ticon_Reed.png](https://cyberpunk.fandom.com/wiki/File:Ticon_Reed.png) |
+| `cp2077/weapons/pit-bull.webp` | [Ajax_Amazon.png](https://cyberpunk.fandom.com/wiki/File:Ajax_Amazon.png) |
+| `cp2077/weapons/pizdets.webp` | [Warden_Boris.png](https://cyberpunk.fandom.com/wiki/File:Warden_Boris.png) |
+| `cp2077/weapons/plan-b.webp` | [Liberty_Dex.png](https://cyberpunk.fandom.com/wiki/File:Liberty_Dex.png) |
+| `cp2077/weapons/pozhar.webp` | [Pozhar_Default.png](https://cyberpunk.fandom.com/wiki/File:Pozhar_Default.png) |
+| `cp2077/weapons/pozhar-x-mod2.webp` | [Pozhar_Legendary.png](https://cyberpunk.fandom.com/wiki/File:Pozhar_Legendary.png) |
+| `cp2077/weapons/prejudice.webp` | [Masamune_Rogue.png](https://cyberpunk.fandom.com/wiki/File:Masamune_Rogue.png) |
+| `cp2077/weapons/pride.webp` | [Liberty_Rogue.png](https://cyberpunk.fandom.com/wiki/File:Liberty_Rogue.png) |
+| `cp2077/weapons/problem-solver.webp` | [Saratoga_Raffen.png](https://cyberpunk.fandom.com/wiki/File:Saratoga_Raffen.png) |
+| `cp2077/weapons/prototype-shingen-mark-v.webp` | [Shingen_Prototype.png](https://cyberpunk.fandom.com/wiki/File:Shingen_Prototype.png) |
+| `cp2077/weapons/psalm-11-6.webp` | [Copperhead_Genesis.png](https://cyberpunk.fandom.com/wiki/File:Copperhead_Genesis.png) |
+| `cp2077/weapons/pulsar.webp` | [Pulsar_Default.png](https://cyberpunk.fandom.com/wiki/File:Pulsar_Default.png) |
+| `cp2077/weapons/punknife.webp` | [Punk_Knife_Default.png](https://cyberpunk.fandom.com/wiki/File:Punk_Knife_Default.png) |
+| `cp2077/weapons/quasar.webp` | [Quasar_Default.png](https://cyberpunk.fandom.com/wiki/File:Quasar_Default.png) |
+| `cp2077/weapons/raiju.webp` | [Senkoh_Prototype.png](https://cyberpunk.fandom.com/wiki/File:Senkoh_Prototype.png) |
+| `cp2077/weapons/rasetsu.webp` | [Rasetsu_Prototype.png](https://cyberpunk.fandom.com/wiki/File:Rasetsu_Prototype.png) |
+| `cp2077/weapons/razor.webp` | [Machete_Borg_Default.png](https://cyberpunk.fandom.com/wiki/File:Machete_Borg_Default.png) |
+| `cp2077/weapons/riskit.webp` | [Nue_Bree.png](https://cyberpunk.fandom.com/wiki/File:Nue_Bree.png) |
+| `cp2077/weapons/rook.webp` | [Lexington_Rook.png](https://cyberpunk.fandom.com/wiki/File:Lexington_Rook.png) |
+| `cp2077/weapons/rosco.webp` | [Overture_Dodger.png](https://cyberpunk.fandom.com/wiki/File:Overture_Dodger.png) |
+| `cp2077/weapons/saratoga.webp` | [Saratoga_Default.png](https://cyberpunk.fandom.com/wiki/File:Saratoga_Default.png) |
+| `cp2077/weapons/sasquatchs-hammer.webp` | [Hammer_Sasquatch.png](https://cyberpunk.fandom.com/wiki/File:Hammer_Sasquatch.png) |
+| `cp2077/weapons/satara.webp` | [Satara_Default.png](https://cyberpunk.fandom.com/wiki/File:Satara_Default.png) |
+| `cp2077/weapons/satori.webp` | [Katana_Saburo.png](https://cyberpunk.fandom.com/wiki/File:Katana_Saburo.png) |
+| `cp2077/weapons/scalpel.webp` | [Katana_Surgeon.png](https://cyberpunk.fandom.com/wiki/File:Katana_Surgeon.png) |
+| `cp2077/weapons/scorch.webp` | [Ticon_Gwent.png](https://cyberpunk.fandom.com/wiki/File:Ticon_Gwent.png) |
+| `cp2077/weapons/senkoh-lx.webp` | [Senkoh_Default.png](https://cyberpunk.fandom.com/wiki/File:Senkoh_Default.png) |
+| `cp2077/weapons/seraph.webp` | [Liberty_Padre.png](https://cyberpunk.fandom.com/wiki/File:Liberty_Padre.png) |
+| `cp2077/weapons/shigure.webp` | [Saratoga_Arasaka_2077.png](https://cyberpunk.fandom.com/wiki/File:Saratoga_Arasaka_2077.png) |
+| `cp2077/weapons/shingen.webp` | [Shingen_Default.png](https://cyberpunk.fandom.com/wiki/File:Shingen_Default.png) |
+| `cp2077/weapons/sidewinder.webp` | [Sidewinder_Default.png](https://cyberpunk.fandom.com/wiki/File:Sidewinder_Default.png) |
+| `cp2077/weapons/sihil.webp` | [Sword_Sihil.png](https://cyberpunk.fandom.com/wiki/File:Sword_Sihil.png) |
+| `cp2077/weapons/sir-john-phallustiff.webp` | [Dildo_Stout.png](https://cyberpunk.fandom.com/wiki/File:Dildo_Stout.png) |
+| `cp2077/weapons/skippy.webp` | [Yukimura_Skippy.png](https://cyberpunk.fandom.com/wiki/File:Yukimura_Skippy.png) |
+| `cp2077/weapons/slaught-o-matic.webp` | [Slaughtomatic_Default.png](https://cyberpunk.fandom.com/wiki/File:Slaughtomatic_Default.png) |
+| `cp2077/weapons/sor-22.webp` | [Sor22_Default.png](https://cyberpunk.fandom.com/wiki/File:Sor22_Default.png) |
+| `cp2077/weapons/sovereign.webp` | [Igla_Sovereign.png](https://cyberpunk.fandom.com/wiki/File:Igla_Sovereign.png) |
+| `cp2077/weapons/sparky.webp` | [Grad_Scav.png](https://cyberpunk.fandom.com/wiki/File:Grad_Scav.png) |
+| `cp2077/weapons/steel-pipe.webp` | [Iron_Pipe_Default.png](https://cyberpunk.fandom.com/wiki/File:Iron_Pipe_Default.png) |
+| `cp2077/weapons/stinger.webp` | [Knife_Stinger.png](https://cyberpunk.fandom.com/wiki/File:Knife_Stinger.png) |
+| `cp2077/weapons/tactician.webp` | [Tactician_Default.png](https://cyberpunk.fandom.com/wiki/File:Tactician_Default.png) |
+| `cp2077/weapons/taigan.webp` | [Metel_AirDrop.png](https://cyberpunk.fandom.com/wiki/File:Metel_AirDrop.png) |
+| `cp2077/weapons/tamayura.webp` | [Nue_Tamayura_2077.png](https://cyberpunk.fandom.com/wiki/File:Nue_Tamayura_2077.png) |
+| `cp2077/weapons/testera.webp` | [Testera_Default.png](https://cyberpunk.fandom.com/wiki/File:Testera_Default.png) |
+| `cp2077/weapons/the-headsman.webp` | [Tactician_Headsman.png](https://cyberpunk.fandom.com/wiki/File:Tactician_Headsman.png) |
+| `cp2077/weapons/ticon.webp` | [Ticon_Default.png](https://cyberpunk.fandom.com/wiki/File:Ticon_Default.png) |
+| `cp2077/weapons/tinker-bell.webp` | [Baton_Tinker_Bell.png](https://cyberpunk.fandom.com/wiki/File:Baton_Tinker_Bell.png) |
+| `cp2077/weapons/tire-iron.webp` | [Tire_Iron_Default.png](https://cyberpunk.fandom.com/wiki/File:Tire_Iron_Default.png) |
+| `cp2077/weapons/tomahawk.webp` | [Tomahawk_Default.png](https://cyberpunk.fandom.com/wiki/File:Tomahawk_Default.png) |
+| `cp2077/weapons/tsumetogi.webp` | [Katana_Hiromi.png](https://cyberpunk.fandom.com/wiki/File:Katana_Hiromi.png) |
+| `cp2077/weapons/umbra.webp` | [Umbra_Default.png](https://cyberpunk.fandom.com/wiki/File:Umbra_Default.png) |
+| `cp2077/weapons/umbra-x-mod2.webp` | [Umbra_Legendary.png](https://cyberpunk.fandom.com/wiki/File:Umbra_Legendary.png) |
+| `cp2077/weapons/unity.webp` | [Unity_Default.png](https://cyberpunk.fandom.com/wiki/File:Unity_Default.png) |
+| `cp2077/weapons/volkodav.webp` | [Machete_Borg_AirDrop.png](https://cyberpunk.fandom.com/wiki/File:Machete_Borg_AirDrop.png) |
+| `cp2077/weapons/warden.webp` | [Warden_Default.png](https://cyberpunk.fandom.com/wiki/File:Warden_Default.png) |
+| `cp2077/weapons/widow-maker.webp` | [Achilles_Nash.png](https://cyberpunk.fandom.com/wiki/File:Achilles_Nash.png) |
+| `cp2077/weapons/wild-dog.webp` | [Defender_Kurt.png](https://cyberpunk.fandom.com/wiki/File:Defender_Kurt.png) |
+| `cp2077/weapons/yasha.webp` | [Ashura_Twitch.png](https://cyberpunk.fandom.com/wiki/File:Ashura_Twitch.png) |
+| `cp2077/weapons/yinglong.webp` | [Dian_Yinglong.png](https://cyberpunk.fandom.com/wiki/File:Dian_Yinglong.png) |
+| `cp2077/weapons/yukimura.webp` | [Yukimura_Default.png](https://cyberpunk.fandom.com/wiki/File:Yukimura_Default.png) |
+| `cp2077/weapons/zhuo.webp` | [Zhuo_Default.png](https://cyberpunk.fandom.com/wiki/File:Zhuo_Default.png) |
