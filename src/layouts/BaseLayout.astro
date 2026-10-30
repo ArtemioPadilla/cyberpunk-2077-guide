@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import FeedbackFAB from '../components/common/FeedbackFAB.astro';
 import InstallPrompt from '../components/common/InstallPrompt.astro';
+import UpdatePrompt from '../components/common/UpdatePrompt.astro';
 import SiteHeader from '../components/common/SiteHeader.astro';
 import { withBase } from '../lib/href';
 import { gameHref, swapLocaleHref, useTranslations } from '@/i18n/utils';
@@ -16,11 +17,14 @@ interface Props {
   title?: string;
   description?: string;
   lang?: Locale;
+  /** The page's picture (an entity's art, base included): drawn on its share card. */
+  image?: string;
 }
-const { description = '', lang = 'es' } = Astro.props;
+const { lang = 'es', image } = Astro.props;
 const otherLang: Locale = lang === 'es' ? 'en' : 'es';
 const t = useTranslations(lang);
 const title = Astro.props.title ?? t('site.name');
+const description = Astro.props.description || t('site.description');
 const skipLinkLabel = t('a11y.skipToContent');
 // Every route in this site is a directory (no file extensions), so the
 // canonical form always ends in '/' — Astro.url.pathname omits it for the
@@ -37,6 +41,14 @@ const active = (path: string) =>
   path === '/' ? routePath === '/' : isRouteActive(routePath, path);
 
 const h = (path: string) => gameHref(lang, gameId, path);
+
+// Share card (Open Graph): one picture per page, shared by both locales,
+// drawn after the build by scripts/og-images.ts from the x-og-* metas below.
+const canonical = new URL(ensureSlash(Astro.url.pathname), Astro.site).href;
+const ogKey = routePath === '/' ? 'index' : routePath.replace(/^\/|\/$/g, '');
+const ogImage = new URL(withBase(`/og/${ogKey}.jpg`), Astro.site).href;
+const ogSection = ENGINE_SECTIONS.find((s) => s.path !== '/' && routePath.startsWith(s.path));
+const ogKicker = ogSection ? t(ogSection.key) : 'Ultimate Edition · Update 2.5';
 const has = await gameSections(gameId);
 const sections = ENGINE_SECTIONS.filter((s) => s.needs === null || has.has(s.needs));
 const nav: NavLink[] = sections.map((s) => ({
@@ -142,6 +154,21 @@ const tabs: Tab[] = [
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <title>{title}</title>
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t('site.name')} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={title} />
+    <meta property="og:locale" content={lang === 'es' ? 'es_MX' : 'en_US'} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="x-og-key" content={ogKey} />
+    <meta name="x-og-kicker" content={ogKicker} />
+    {image && <meta name="x-og-art" content={image} />}
     <link
       rel="alternate"
       hreflang={lang}
@@ -210,6 +237,7 @@ const tabs: Tab[] = [
     }
     <FeedbackFAB lang={lang} />
     <InstallPrompt lang={lang} />
+    <UpdatePrompt lang={lang} />
     <script is:inline src={withBase('/registerSW.js')} defer></script>
   </body>
 </html>

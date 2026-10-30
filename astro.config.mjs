@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 import AstroPWA from '@vite-pwa/astro';
+import ogImages from './scripts/og-images.ts';
 import { fileURLToPath } from 'node:url';
 import remarkEntityLinks from './src/lib/remark-entity-links.ts';
 import { RUNTIME_IMAGE_CACHE } from './src/lib/runtime-cache.ts';
@@ -69,6 +70,47 @@ export default defineConfig({
         display: 'standalone',
         start_url: SCOPE,
         scope: SCOPE,
+        categories: ['games', 'entertainment'],
+        // Long-press the app icon: jump straight to these sections.
+        shortcuts: [
+          {
+            name: 'Misiones',
+            url: `${SCOPE}chapters/`,
+            icons: [{ src: asset('icons/pwa-192.png'), sizes: '192x192' }],
+          },
+          {
+            name: 'Preguntas frecuentes',
+            url: `${SCOPE}guide/#section-faq`,
+            icons: [{ src: asset('icons/pwa-192.png'), sizes: '192x192' }],
+          },
+          {
+            name: 'Arsenal',
+            url: `${SCOPE}arsenal/`,
+            icons: [{ src: asset('icons/pwa-192.png'), sizes: '192x192' }],
+          },
+          {
+            name: 'Personajes',
+            url: `${SCOPE}characters/`,
+            icons: [{ src: asset('icons/pwa-192.png'), sizes: '192x192' }],
+          },
+        ],
+        // The richer install dialog (Chrome/Android) shows these.
+        screenshots: [
+          {
+            src: asset('screenshots/phone.png'),
+            sizes: '780x1688',
+            type: 'image/png',
+            form_factor: 'narrow',
+            label: 'Una misión en el celular',
+          },
+          {
+            src: asset('screenshots/desktop.png'),
+            sizes: '1280x800',
+            type: 'image/png',
+            form_factor: 'wide',
+            label: 'Preguntas frecuentes',
+          },
+        ],
         icons: [
           { src: asset('icons/pwa-192.png'), sizes: '192x192', type: 'image/png', purpose: 'any' },
           { src: asset('icons/pwa-512.png'), sizes: '512x512', type: 'image/png', purpose: 'any' },
@@ -91,7 +133,8 @@ export default defineConfig({
         // cached on first view instead (runtimeCaching below), and the
         // offline panel (/offline-images.json + the OfflineImages island)
         // can fetch them all into that cache ahead of time.
-        globIgnores: ['img/games/**'],
+        // og/: share cards, fetched only by link previews (scripts/og-images.ts).
+        globIgnores: ['img/games/**', 'og/**'],
         runtimeCaching: [
           {
             // Keep in sync with RUNTIME_IMAGE_DIRS (src/lib/runtime-cache.ts):
@@ -112,6 +155,7 @@ export default defineConfig({
       },
       experimental: { directoryAndTrailingSlashHandler: true },
     }),
+    ogImages(),
   ],
   vite: { plugins: [tailwindcss()] },
   output: 'static',

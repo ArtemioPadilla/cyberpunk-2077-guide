@@ -26,6 +26,10 @@ const row = rows.find((r) => r.data.slug === slug)!;
 const d = row.data as Record<string, unknown> & { name: string; slug: string };
 const skip = [`${kind}/${slug}`];
 const numberLocale = locale === 'es' ? 'de-DE' : 'en-US';
+// Share-card text: the row's first descriptive field.
+const shareText = ['role', 'kind', 'effect', 'note', 'verdict', 'where']
+  .map((k) => d[k])
+  .find((v): v is string => typeof v === 'string' && v.length > 0);
 
 // Facts shown as a definition list; long copy as paragraphs; per-kind extras below.
 type Fact = { label: string; text: string; href?: string };
@@ -110,7 +114,7 @@ if (kind === 'weapons') {
 }
 ---
 
-<BaseLayout title={title(d.name)} lang={locale}>
+<BaseLayout title={title(d.name)} lang={locale} image={image?.src} description={shareText}>
   <main id="main" class="mx-auto max-w-3xl px-5 py-7 md:py-14">
     <a
       href={h(kind === 'gear' ? `${gameListPath(kind)}#gear` : gameListPath(kind))}
