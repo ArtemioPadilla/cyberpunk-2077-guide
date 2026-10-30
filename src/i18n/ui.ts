@@ -74,7 +74,19 @@ export const ui = {
     'game.itemType.quickhack': 'Hackeos rápidos',
     'game.itemType.vehicle': 'Vehículos',
     'game.section.mechanics': 'Sistemas y builds',
+    'install.title': 'Instala la guía como app',
+    'install.body':
+      'Se abre a pantalla completa, sin barra del navegador, y funciona sin internet mientras juegas.',
+    'install.ios':
+      'En iPhone o iPad: toca Compartir (el cuadro con la flecha) y luego «Agregar a inicio».',
+    'install.manual':
+      'Abre el menú del navegador (⋮) y elige «Instalar app» o «Agregar a la pantalla principal».',
+    'install.button': 'Instalar',
+    'install.later': 'Ahora no',
+    'install.open': 'Instalar como app',
+    'game.section.faq': 'Preguntas frecuentes',
     'game.section.survival': 'Primeros pasos en Night City',
+    'game.seeAlso': 'Ver también',
     'game.section.modes': 'Modos',
     'game.section.dlc': 'DLC',
     'game.section.unlocks': 'Desbloqueables',
@@ -248,7 +260,18 @@ export const ui = {
     'game.itemType.quickhack': 'Quickhacks',
     'game.itemType.vehicle': 'Vehicles',
     'game.section.mechanics': 'Systems and builds',
+    'install.title': 'Install the guide as an app',
+    'install.body':
+      'It opens full screen, without the browser bar, and works offline while you play.',
+    'install.ios':
+      'On iPhone or iPad: tap Share (the square with the arrow), then “Add to Home Screen”.',
+    'install.manual': 'Open the browser menu (⋮) and choose “Install app” or “Add to Home screen”.',
+    'install.button': 'Install',
+    'install.later': 'Not now',
+    'install.open': 'Install as an app',
+    'game.section.faq': 'FAQ',
     'game.section.survival': 'First steps in Night City',
+    'game.seeAlso': 'See also',
     'game.section.modes': 'Modes',
     'game.section.dlc': 'DLC',
     'game.section.unlocks': 'Unlockables',

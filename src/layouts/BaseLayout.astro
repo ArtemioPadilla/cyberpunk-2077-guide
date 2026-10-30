@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import FeedbackFAB from '../components/common/FeedbackFAB.astro';
+import InstallPrompt from '../components/common/InstallPrompt.astro';
 import SiteHeader from '../components/common/SiteHeader.astro';
 import { withBase } from '../lib/href';
 import { gameHref, swapLocaleHref, useTranslations } from '@/i18n/utils';
@@ -187,6 +188,11 @@ const tabs: Tab[] = [
         {t('footer.notice')}
       </p>
       <p class="mt-2 font-mono text-[11px] text-muted-foreground">{t('footer.sources')}</p>
+      <p class="mt-2 font-mono text-[11px]">
+        <a href="#" data-install-open class="text-primary underline-offset-2 hover:underline">
+          {t('install.open')}
+        </a>
+      </p>
     </footer>
     {
       tabs.length > 0 && (
@@ -203,6 +209,7 @@ const tabs: Tab[] = [
       )
     }
     <FeedbackFAB lang={lang} />
+    <InstallPrompt lang={lang} />
     <script is:inline src={withBase('/registerSW.js')} defer></script>
   </body>
 </html>

@@ -226,10 +226,13 @@ const gameCharacterShape = {
 };
 
 // Copy cards grouped by the page that shows them: the game's home (rules,
-// lore), the Guide page (mechanics, survival) and Extras (modes, dlc,
-// unlocks, endings, secrets).
+// lore), the Guide page (faq, survival, mechanics) and Extras (modes, dlc,
+// unlocks, endings, secrets). `see` lists what to read next, comma
+// separated: another card's id, or an entity as `<kind>/<id>`
+// (`gear/reinforced-tendons`).
 const gameCardShape = {
   section: z.enum([
+    'faq',
     'rules',
     'lore',
     'mechanics',
@@ -242,6 +245,7 @@ const gameCardShape = {
   ]),
   title: z.string(),
   body: z.string(),
+  see: z.string().optional(),
 };
 
 // In-game maps (public/img/games/<game>/maps/<id>.webp): one row per map,
