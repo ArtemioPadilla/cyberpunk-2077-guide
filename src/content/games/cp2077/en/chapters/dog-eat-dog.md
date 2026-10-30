@@ -32,7 +32,7 @@ pills:
 
 - It auto-completes your lifepath prologue and every main job up to Transmission, plus the Delamain jobs up to Don't Lose Your Mind (with Delamain's core reset). Down on the Street and Ghost Town are still available.
 - You start reading a book at a stand in Coastview, outside the Voodoo Boys' chapel in Pacifica, with a starter kit. **You cannot edit that character's attributes.**
-- According to game8, attribute checks are lower on a skip-ahead save. Sources disagree on that shortcut's starting level, so don't count on a specific number.
+- According to game8, attribute checks are lower on a skip-ahead save. Per rpgsite, you start at **level 20** with uncommon (green) gear; it is the only source with a number, so treat it as approximate.
 
 **Level.** No reliable source gives a recommended level; since 2.0 enemies scale with your level. Phantom Liberty raises the level cap from 50 to **60**.
 
@@ -48,7 +48,7 @@ pills:
 - **3** more from Songbird in Birds with Broken Wings.
 - **9** at the **Operational Data Terminals** spread across Dogtown: EBM Petrochem Stadium (behind scaffolding at the northern end of the market), Brave Atlas (2nd floor of the parking garage), Elizabeth Kress Street (ground floor by the elevator), Montezuma's Throne (northeastern ruined tower), Eventide Resort & Spa (below the elevated platform at the entrance), Luxor High Wellness Spa (south section, at the Voodoo Boys Increased Criminal Activity), ESC Explorer (inside, at the Scavengers Increased Criminal Activity), The Tunnel (at the BARGHEST Increased Criminal Activity) and George Washington Street (balcony up a staircase north of Heavy Hearts).
 
-The tree's perks are Data Tunneling, Emergency Cloaking, Jailbreak, Launch Capacity Override, Limiter Removal, Machine Learning, Sensory Protocol, Spatial Mapping and Vulnerability Analytics. You can spend the 3 points right away; you'll come across the terminals as you move around Dogtown in the next jobs.
+The tree's perks are Data Tunneling, Emergency Cloaking, Jailbreak (it gives the Monowire a Control quickhack slot), Launch Capacity Override, Limiter Removal, Machine Learning, Sensory Protocol, Spatial Mapping and Vulnerability Analytics. You can spend the 3 points right away; you'll come across the terminals as you move around Dogtown in the next jobs.
 
 ## The stadium's underground parking
 

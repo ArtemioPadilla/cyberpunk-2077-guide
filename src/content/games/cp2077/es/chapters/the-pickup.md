@@ -43,7 +43,7 @@ La wiki numera los desenlaces como «rutas». La ruta 1 es solo la muerte instan
 - **Chaos (pistola emblemática de Royce):** Royce tiene que morir. Ruta 4, o ruta 3 dejando que Royce pelee solo contra Militech.
 - **Vendedor de armas de Maelstrom:** solo ruta 2.
 - **Doom Doom (revólver emblemático de Dum Dum, en Second Conflict):** Royce tiene que seguir vivo. Ruta 2 (lo garantiza) o ruta 3 si Royce sobrevive al asalto de Militech. Choca con Chaos: no puedes tener los dos.
-- **Venus in Furs (Meredith):** acepta el chip y vuelve hostil a Maelstrom después de ver a Dum Dum en persona, **sin** usar el derribo de Constitución contra Royce.
+- **Venus in Furs (Meredith):** acepta el chip y vuelve hostil a Maelstrom después de ver a Dum Dum en persona, **sin** usar el derribo de Constitución contra Royce. Las fuentes no coinciden en el chip: la página de romances de la wiki dice que da igual si lo aceptas, siempre que el final con Maelstrom sea violento. Para ir a lo seguro, acéptalo.
 - **Brick:** solo rutas 3 y 4, y solo te sirve si Royce muere (ver «Brick y el Acto 2»).
 - **Caja de Militech (solo Nómada):** lee el mensaje de Gilchrist dentro de la fábrica y menciónalo en la conversación de la salida.
 
@@ -170,7 +170,7 @@ Si empiezas a pelear antes del elevador, los objetivos cambian a **derrotar a Ma
 Solo hay alguien de Militech esperando en la puerta **si te reuniste con Meredith**.
 
 - **Te espera Meredith** si la viste (con o sin trato) **y** Maelstrom se volvió hostil **antes de que consiguieras el Flathead**.
-  - Si **aceptaste el trato** y Maelstrom se volvió hostil **después de ver a Dum Dum en persona** (no sentarte, chip infectado, dispararle a Royce), Meredith queda **impresionada** y propone trabajar juntos. Es la **única** forma de desbloquear **Venus in Furs** (Acto 2, No-Tell Motel; recompensa: Sir John Phallustiff).
+  - Si **aceptaste el trato** y Maelstrom se volvió hostil **después de ver a Dum Dum en persona** (no sentarte, chip infectado, dispararle a Royce), Meredith queda **impresionada** y propone trabajar juntos. Según la página de Venus in Furs de la wiki, es la **única** forma de desbloquearla (Acto 2, No-Tell Motel; recompensa: Sir John Phallustiff); su página de romances dice que el chip da igual si el final es violento: las fuentes no coinciden.
   - Si **rechazaste el trato** y peleaste igual, o peleaste **antes de ver a Dum Dum**, Meredith está más **fría**. La wiki no confirma si así se desbloquea Venus in Furs.
   - En la conversación, PowerPyx recomienda responder **«Yeah, maybe.»** para que te contacte después. Con la información del Nómada, **«I know the mole's identity»** te da la **caja de Militech**.
   - En los dos casos, Meredith termina mandando matar a Gilchrist.
@@ -207,7 +207,7 @@ Algunas guías mencionan la ventaja «Bladerunner» y Habilidad técnica 9: es u
 ## Decisiones
 
 - **Llamar a Meredith** → abre el chip (Synapse Burnout, €$10,000), Venus in Furs y la caja del Nómada; según la wiki **descarta el trato en paz** (PowerPyx discrepa).
-- **Aceptar el chip** → necesario para Venus in Furs. **Pagar con él sin limpiarlo ni avisar** → ruta 4 con Royce debilitado.
+- **Aceptar el chip** → necesario para Venus in Furs según una página de la wiki; otra dice que no (las fuentes no coinciden, así que acéptalo si la quieres). **Pagar con él sin limpiarlo ni avisar** → ruta 4 con Royce debilitado.
 - **Hackear el chip** → **copiar** = Synapse Burnout; **neutralizar** = €$10,000 más tarde; se pueden hacer las dos (el orden y el cobro están en duda, ver arriba).
 - **No sentarte, no hacer que Jackie se siente, sacar un arma o tocar cámaras/torretas** → ruta 4 con Royce fuerte.
 - **Tardar en responderle a Royce** → mueres. Carga.

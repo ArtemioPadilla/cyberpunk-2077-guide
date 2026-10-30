@@ -42,7 +42,7 @@ The next two jobs can be done **in either order** and **both are needed** for **
 
 ## After the job
 
-- **Fast travel:** fast travel terminals (_dataterms_) are added to the map as you pass near them and **can only be used from The Ride on**.
+- **Fast travel:** fast travel terminals (_dataterms_) are added to the map as you pass near them and **can only be used from The Ride on**. There are 166 in all, 37 of them in Watson; the Frequent Flyer achievement only needs about 120.
 - **Regina Jones:** you can call her to ask about **Royce**, the Maelstrom leader you will deal with in The Pickup.
 - **The Gift:** you are dropped off near **Kabuki Roundabout**, home to **Yoko Tsuru**'s netrunner shop: IGN suggests picking up your **free Ping quickhack** now.
 - During Act 1 you can only explore **Watson**.

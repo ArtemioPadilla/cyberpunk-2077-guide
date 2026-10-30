@@ -35,6 +35,25 @@ Confidence legend: **high** = official CDPR string, or ≥3 independent LatAm so
 agree; **medium** = 2 sources, or 1 official source with indirect support; **(UNVERIFIED)** =
 one weak source or inferred from play order. "same" = identical in es-MX and es-ES.
 
+> **Warning, added 2026-10-30 (from `faq-switch2-settings-names.md`): YouTube
+> auto-translates video titles and descriptions** into the viewer's language. A search
+> made with `hl=es` shows English videos under machine-translated Spanish titles (for
+> example Nizar GG's English "Charged Jump Or Double Jump?" shows as "¿Salto cargado o
+> doble salto? (Tobillos Fortificados…)"). **Before using a YouTube title as a source,
+> check the original title with oEmbed** (`https://www.youtube.com/oembed?url=…&format=json`).
+> The YouTube-based rows below were collected before this was known and should get the
+> same check; GAMESTATION PS4's titles were re-checked and are original. Also: many LatAm
+> players use **es-ES text with LatAm voices** ("Español Latino" in a title can mean the
+> voices only), so a LatAm channel is not proof of es-MX text. Use marker names to tell
+> the locales apart: nanocable/monocable, rifle/fusil, Lagunas mentales/Bailaré sobre tu
+> tumba, Boleto a las ligas mayores/Billete a primera división.
+
+**Sources added 2026-10-30** (FAQ research, see the four `faq-*.md` notes):
+**ESHOP-MX** = Nintendo eShop Mexico page of the Ultimate Edition (Nintendo's store copy,
+not game text); **CDPR-ER2-MX** = `https://www.cyberpunk.net/us/es-mx/edgerunners-2-update`
+(es-MX 2.5 page); **CDPR-SUP-ES** = CD PROJEKT RED support pages in Spanish, which exist only
+in **es-ES** (`/es/`), so their menu names are es-ES, not es-MX.
+
 ---
 
 ## 1. Quest names
@@ -51,7 +70,7 @@ one weak source or inferred from play order. "same" = identical in es-MX and es-
 | The Ripperdoc | El matasanos | YT-iRail, YT-GS, YT-JAM | high | — |
 | The Ride | El paseo | YT-iRail, YT-GS | medium | — |
 | The Information | La información | YT-iRail, YT-GS, YT-JAM, YT-PIAMA | high | same |
-| The Pickup | La recolección | YT-iRail, YT-GS ("La recolección . Reúnete con la agente de Militech"), YT-JAM, YT-PIAMA | high | La prueba (Lpcast, Marcosxy, Zona Gamer). CONFLICT: one "Español Latino" channel (DSTROY) also writes "La prueba", maybe with es-ES text |
+| The Pickup | La recolección | YT-iRail, YT-GS (4 videos: "La recolección . Reúnete con la agente de Militech", "… Escapa de All Foods"…), YT-JAM ("CAP. 04 l LA RECOLECCIÓN"), YT-PIAMA, DuncanSix, ZeroX, CyonBlade (all oEmbed-checked) | high | **La prueba = es-ES** (Lpcast, Marcosxy, Zona Gamer). CONFLICT resolved 2026-10-30: the "Español Latino" channel DSTROY uses es-ES text (his chapter 10 is "Tengo un pasajero", the es-ES name of Life During Wartime); Eichdoland and Izahal pair "La prueba" with es-ES "Bailaré sobre tu tumba". Never print "La prueba" |
 | The Heist | El golpe | YT-iRail, YT-GS, YT-JAM, YT-PIAMA; CDPR-SITE "el golpe al Konpeki Plaza" | high | same |
 | Love Like Fire | La bala | YT-iRail, YT-GS ("La bala . Sal al escenario"), YT-JAM, AliroJuega | high | — |
 | Playing for Time | Lagunas mentales | YT-iRail, YT-GS ("Habla con el desconocido"), YT-JAM | high | Bailaré sobre tu tumba (VIDAEXTRA) |
@@ -132,6 +151,7 @@ The sub-job titles come from YouTube.
 | Delamain: Human Nature / Tune Up / Don't Lose Your Mind | not found | Spain-side titles show "Algo personal" (Delamain HQ) | — | Algo personal (iMapGenX, Ale Gameplay; UNVERIFIED) |
 | Sinnerman (not in the guide) | El pecador | Pandora Game, YT-PIAMA | medium | — |
 | Burning Desire / Night Moves | Night Moves (after The Heist) | YT-GS | (UNVERIFIED) | Deseo ardiente → Amante bandido (ES-WIKI) |
+| The Gift (side job, Yoko Tsuru) | El regalo | YT-GS es-MX HUD "EL REGALO . Recupera El Hackeo Rapido Ping Del Netrunner" | medium | — |
 | Fool on the Hill (tarot graffiti job) | La Luna | STEAM-MX (achievement "Demente errante": "…para el trabajo La Luna") | high | Todo se transforma (PSN-ES "Loco errante") |
 
 ### 1d. Phantom Liberty jobs
@@ -209,6 +229,27 @@ in-game.
 | Nomad / Streetkid / Corpo | Nómada / Buscavidas / Corpo | YouTube LatAm titles ("BuscaVidas", "Nómada"); ES-WIKI "Nómada", "Corpo" | medium | same |
 | Superhero Landing | Aterrizaje de superhéroe | STEAM-MX | high | same |
 | Second Heart | Segundo corazón | STEAM-MX | high | same |
+| dual wield (2.5 playstyle) | **empuñadura doble** ("utilizar la empuñadura doble") | CDPR-ER2-MX; CDPR-PLANNER | high | same. The eShop MX copy says "blandir un arma con cada mano"; "doble empuñadura" is fan wording |
+| double jump | **salto doble** ("saltos dobles") | CDPR-PLANNER (Reflexes perk description) | high | — |
+| Armor (stat) | blindaje | CDPR-PLANNER | high | same |
+| takedown | derribo ("al realizar un derribo") | CDPR-PLANNER | high | same |
+| trace (netrunner trace) | rastreo / progreso de rastreo / rastreabilidad | CDPR-PLANNER | high | same |
+| access point | punto de acceso | CDPR-PLANNER | high | same |
+| upload (a quickhack) | cargar ("se cargan automáticamente") | CDPR-PLANNER | high | same |
+| health item charge | carga ("+1 carga adicional de un objeto de salud") | CDPR-PLANNER | high | same |
+| combat gadget slot | espacio rápido de dispositivos de combate | CDPR-PLANNER | high | same |
+| Assault in Progress (NCPD hustle) | **Asalto en curso** | AliroJuega (Chile, uses es-MX quest names "Destrucción", "Amor cibernético", "En el limbo") `KDQ3s_4fW50`; RoDz_Games (Puerto Rico) | medium-high | same (Eichdoland, walterarce7) |
+| Suspected Organized Crime Activity / Reported Crime | not verified for es-MX | — | (UNVERIFIED) | **es-ES**: "Posible crimen organizado", "Delito notificado" (CRazrael, JaviBonus, Poyrott) |
+| Ripperdoc (generic) | matasanos ("clínicas de matasanos") | CDPR-PLANNER (Cellular Adapter description) | high | — |
+| vehicles for sale | vehículos a la venta ("Compra todos los vehículos a la venta", achievement Motorexia = Autojock) | STEAM-MX | high | — |
+| Ultimate Edition (store name) | **Cyberpunk 2077: Edición definitiva** on the Nintendo eShop MX; CDPR's es-MX site keeps "Ultimate Edition" | ESHOP-MX, CDPR-ER2-MX | high (store name, not game text) | — |
+| Save Data Cloud (Nintendo Switch Online) | Guardado de datos en la nube | ESHOP-MX | high (Nintendo string) | — |
+| cross-platform mods (2.5) | mods multiplataforma | CDPR-ER2-MX | high | — |
+| glamdoc (2.5) | glamdocs | CDPR-ER2-MX, ESHOP-MX | high | — |
+| Aim Assist / Snap to Target (Accessibility) | not verified for es-MX. **Do not print "Asistencia de apuntado"** (no source) | — | (UNVERIFIED) | **es-ES** (CDPR-SUP-ES): "Ayuda al apuntar" (No / Mínima / Estándar / Significativa), "Fijación rápida del objetivo"; tab "Accesibilidad" |
+| Gyroscope Mode / Motion Patterns / mouse sensor (Switch 2 menus) | not verified for es-MX (es-MX probably says "mouse": ESHOP-MX "usa tu Joy-Con 2 (R) como un mouse") | — | (UNVERIFIED) | **es-ES** (CDPR-SUP-ES): "Modo Giroscopio" ("Al mantener el botón de apuntar"…), "Patrones de movimiento", "Sensor del ratón" |
+| Quality / Performance mode | not verified for es-MX | — | (UNVERIFIED) | **es-ES** (CDPR-SUP-ES): "Calidad" / "Rendimiento" |
+| Clampdown, Welcome to Paradise (2.5 quests), Venus in Furs, Psycho Killer, Paid in Full, Drop Point, Perk Shard, Skip Time, wardrobe, stash, junk | not found | — | (UNVERIFIED): keep English | — |
 
 ### 2b. Weapons
 
@@ -237,10 +278,15 @@ in-game.
 | Kerenzikov | Kerenzikov | CDPR-PLANNER | high | same |
 | Optical Camo | camuflaje óptico | CDPR-PLANNER | high | same |
 | Blood Pump | Bomba de sangre | CDPR-PLANNER | high | same |
-| Reinforced Tendons | not found | — | (UNVERIFIED) | — |
-| Kiroshi optics | Kiroshi (brand kept); the generic term is not verified | ES-WIKI "Kiroshi Opticals" | (UNVERIFIED) | — |
+| Reinforced Tendons | not found for es-MX | — | (UNVERIFIED) | **es-ES** lead "Tendones reforzados" (ES-WIKI, SiferYT, 3DJuegos); very likely the same in es-MX, but not seen |
+| Fortified Ankles | not found for es-MX | — | (UNVERIFIED) | **es-ES** "Tobillos fortalecidos" (ES-WIKI, SiferYT, ElDoctorGafas); "Tobillos reforzados" (the_evil0023, España). "Tobillos Fortificados" is a YouTube auto-translation |
+| Lynx Paws | not found for es-MX | — | (UNVERIFIED) | **es-ES** "Garras de lince" (ES-WIKI). "Patas de lince" appears only in auto-translated titles |
+| Ballistic Coprocessor / Subdermal Armor / RAM Upgrade / Memory Boost | not found for es-MX | — | (UNVERIFIED) | **es-ES** (ES-WIKI): Coprocesador balístico, Blindaje subcutáneo, Mejora de RAM, Impulso de memoria |
+| Cellular Adapter | Adaptador celular | CDPR-PLANNER | high | same |
+| Operating System (slot) | sistema operativo ("ciberware del sistema operativo (Berserker, Sandevistan)") | CDPR-PLANNER | high | same |
+| Kiroshi optics | Kiroshi (brand kept); the generic term is not verified | ES-WIKI "Kiroshi Opticals" | (UNVERIFIED) | **es-ES** (ES-WIKI): "Ópticas Kiroshi básicas", "Ópticas 'Sentry' de Kiroshi"; LatAm titles say "ópticas Kiroshi" (fan wording) |
 | Militech Paraline | not found (brand + model, probably kept) | — | (UNVERIFIED) | — |
-| Smart Link | not found | — | (UNVERIFIED) | — |
+| Smart Link | not found (LatAm videos write "Smart Link" in English) | — | (UNVERIFIED) | **es-ES** "Smartlink" (ES-WIKI) |
 | Bounce Back / MaxDoc | not found (brand names, probably kept) | — | (UNVERIFIED) | — |
 
 ### 2d. Quickhacks
@@ -249,8 +295,9 @@ in-game.
 |---|---|---|---|
 | Detonate Grenade | Detonar granada | STEAM-MX "Neuromante" | high (same in es-ES) |
 | Distract Enemies | Distraer enemigos | STEAM-MX "Luz de gas", CDPR-PLANNER | high (same in es-ES) |
-| Ping | Ping (seen in English planner only) | — | (UNVERIFIED) |
-| Short Circuit, Overheat, Contagion, Synapse Burnout, Cyberpsychosis, System Collapse, Reboot Optics, Sonic Shock, Suicide, Cripple Movement, Weapon Glitch, Memory Wipe | not found in any official es-MX string. Do **not** guess ("Cortocircuito", "Sobrecalentamiento", "Contagio"… are plausible but unverified) | — | (UNVERIFIED) |
+| Ping | Ping | YT-GS es-MX HUD "EL REGALO . Recupera El Hackeo Rapido Ping Del Netrunner" (`ImOyhNNNwas`) | medium-high |
+| Short Circuit, Overheat, Contagion, Synapse Burnout, Cyberpsychosis, System Collapse, Reboot Optics, Sonic Shock, Suicide, Cripple Movement, Weapon Glitch, Memory Wipe, Request Backup, Cyberware Malfunction | not found in any official es-MX string (re-checked 2026-10-30). Do **not** guess ("Cortocircuito", "Sobrecalentamiento", "Contagio"… are plausible but unverified; "Cortocircuito" is es-ES, ElDoctorGafas España; the Italian game says "Ebollizione" for Overheat, so a literal translation is not safe) | — | (UNVERIFIED) |
+| Combat / Control / Covert quickhack (category) | hackeo de combate / de control / encubierto | CDPR-PLANNER | high |
 
 ### 2e. Corporations, gangs, districts
 
@@ -326,3 +373,32 @@ Ninjutsu = Ninjutsu · Deadeye = Precisión letal · Killer Instinct = Instinto 
 Scorpion Sting = Picadura de escorpión · Juggler = Malabarista · Jailbreak (Relic) =
 Liberación · Emergency Cloaking = Ocultación de emergencia · Vulnerability Analytics =
 Análisis de vulnerabilidades. The full list is in the es-MX chunk linked above (about 180 perks).
+
+**Added 2026-10-30** (CDPR-PLANNER es-MX chunk, read again for the FAQ notes; it already
+contains the 2.5 perks; high; grouped loosely, not by tree). Optimization = Optimización ·
+Hack Queue = Hackeo en cola · Encryption = Encriptado · Subordination = Subordinación ·
+Eye In The Sky = Ojos en el cielo · Shadowrunner = Hackeo en la sombra · System Overwhelm =
+Sobrecarga del sistema · Speculation = Especulación · Feedback Loop = Bucle de
+retroalimentación · Queue Acceleration = Saltarse la cola · Spillover = Repercusión ·
+Counter-A-Hack = Contrahackeo · Copy-Paste = Copia-Pega · Proximate Propagation =
+Propagación aproximada · Forcekill Cypher = Cifra mortal · Smart Synergy = Sinergia
+inteligente · Blood Daemon = Daemon de sangre · Sublimation = Sublimación · Power Surge =
+Subida de tensión · Siphon = Sifón · Finisher: Live Wire = Remate: Hilo conductor ·
+Acquisition Specialist = Especialista en objetivos · Target Lock Transfer = Transferencia
+de objetivos · Targeting Prism = Prisma de objetivos · Terminal Velocity = Velocidad
+terminal · All Things Cyber = Todo lo de ciber · Driver Update =
+Actualización de controlador · Chipware Connoisseur = Conocedora de chips · Renaissance
+Punk = Renacimiento punk · Lucky Day = Día de suerte · Ambidextrous =
+Ambidiestra · Mad Dash = Impulso frenético · Submachine Fun = Diversión con subfusiles ·
+Salt in the Wound = Sal en la herida · Tailwind = Viento de cola · Ready, Rested, Reloaded =
+Lista, descansada y recargada · Glutton For War = Sed de guerra · Focus =
+Concentración · Feline Footwork = Pasos felinos · Vanishing Act = Esfumación · Creeping
+Death = Muerte rastrera · **Double Trouble (2.5) = Doble o nada** (its level 2 burst,
+Heywood Hurricane = **Huracán de Heywood**) · Two Right Hands = Dos manos diestras ·
+Triple Tequila = Tequila triple · Splash of Love = Pizca de amor · Keep 'Em Comin' = Otra
+ronda (all four 2.5 support perks are identical in es-ES) · Data Tunneling =
+Tunelización de datos · Sensory Protocol = Protocolo sensorial · Machine Learning =
+Aprendizaje automático (these three are Relic perks) · Precision Subroutines = Subrutinas de precisión · Recirculation =
+Recirculación. Feminine forms as in the planner; use the masculine form for a male V
+(Conocedor de chips, Ambidiestro…). Still not found: Pax (weapon mod), the "Power" weapon
+class, the grab/takedown prompts and the in-game "Reset Attributes" button.

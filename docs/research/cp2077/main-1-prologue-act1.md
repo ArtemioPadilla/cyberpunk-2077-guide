@@ -768,10 +768,10 @@ Everything else in Act 1 (Afterlife, Konpeki and Lizzie's lines) is flavor. [W][
 
 - **Update 2.5 release date** (CONFLICT within the wiki):
   - PC, PS5, Xbox and Mac: October 22, 2026. [W:Update 2.5][IGN 2.5]
-  - Switch 2: the infobox says October 26, 2026; the body text says October 27. IGN says "shortly afterwards".
+  - Switch 2: the infobox says October 26, 2026; the body text says October 27. IGN says "shortly afterwards". **Resolved 2026-10-30: 27 Oct** (CDPR's official YouTube post, RPG Site, perfectly-nintendo) [faq-switch2-settings-names.md].
 - 2.5 fixed a Switch 2 bug where saving could fail with "Save failed - insufficient space". [W:Update 2.5]
 - 2.5 adds an FOV slider on consoles, saves grouped by playthrough, and stash item filters. [W][IGN]
-- **Console mod support (mod.io) is listed for PC, Mac, PS5 and Xbox. Switch 2 is not listed.** [W:Update 2.5]
+- ~~**Console mod support (mod.io) is listed for PC, Mac, PS5 and Xbox. Switch 2 is not listed.** [W:Update 2.5]~~ **Corrected 2026-10-30:** that is only the wiki's copy of the notes. CDPR's official 2.5 notes (cyberpunk.net 52120) list "PC, Mac, PlayStation 5, PlayStation 5 Pro, Xbox Series X|S, and Nintendo Switch 2", and CDPR's support page "Cross-Platform Mod Support - how to" (issue 3034, Switch 2 section) covers Switch 2 too. Mods are available on Switch 2 per CDPR [faq-switch2-settings-names.md, faq-world-progression.md].
 - New **Double Trouble** Cool perk (dual-wield Power pistols and revolvers). Relevant because Act 1 hands out several Power pistols: Kongou here, Plan B in Playing for Time, La Chingona Dorada from Heroes. [W][IGN]
 - Nothing in the 2.5 notes changes prologue or Act 1 quest logic. [W:Update 2.5]
 - Patch 2.3 added the Practice Makes Perfect replay. Patch 2.0 changed Satori and Dying Night and added Nehan. [W]

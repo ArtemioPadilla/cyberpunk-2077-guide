@@ -38,7 +38,7 @@ pills:
 
 - Completa en automático el prólogo de tu pasado y todas las misiones principales hasta Un millón de años luz, y las misiones de Delamain hasta Don't Lose Your Mind (con el núcleo de Delamain reiniciado). Amigos (Down on the Street) y Ciudad fantasma (Ghost Town) siguen disponibles.
 - Empiezas leyendo un libro en un puesto de Coastview, frente a la capilla de los Voodoo Boys en Pacífica, con un equipo inicial. **No puedes editar los atributos** de ese personaje.
-- Según game8, las pruebas de atributo son más bajas en una partida que salta adelante. Las fuentes no coinciden en el nivel inicial de ese atajo, así que no cuentes con un número concreto.
+- Según game8, las pruebas de atributo son más bajas en una partida que salta adelante. Según rpgsite, empiezas en el **nivel 20** con equipo poco común (verde); es la única fuente con un número, así que tómalo como aproximado.
 
 **Nivel.** Ninguna fuente fiable da un nivel recomendado; desde la versión 2.0 los enemigos escalan con tu nivel. Phantom Liberty sube el límite de nivel de 50 a **60**.
 
@@ -54,7 +54,7 @@ pills:
 - **3** más de Songbird en Birds with Broken Wings.
 - **9** en las **terminales de datos operativas** (Operational Data Terminals) repartidas por Dogtown: EBM Petrochem Stadium (detrás de unos andamios en el extremo norte del mercado), Brave Atlas (2.º piso del estacionamiento), Elizabeth Kress Street (planta baja junto al ascensor), Montezuma's Throne (torre en ruinas del noreste), Eventide Resort & Spa (bajo la plataforma elevada de la entrada), Luxor High Wellness Spa (sección sur, donde está la Actividad criminal intensificada (Increased Criminal Activity) de los Voodoo Boys), ESC Explorer (dentro, en la Actividad criminal intensificada de los chatarreros), The Tunnel (en la Actividad criminal intensificada de BARGHEST) y George Washington Street (balcón al que se sube por una escalera al norte de Heavy Hearts).
 
-Las ventajas del árbol son Data Tunneling, Ocultación de emergencia (Emergency Cloaking), Liberación (Jailbreak), Launch Capacity Override, Limiter Removal, Machine Learning, Sensory Protocol, Spatial Mapping y Análisis de vulnerabilidades (Vulnerability Analytics). Puedes gastar ya los 3 puntos; las terminales las irás encontrando al recorrer Dogtown en las misiones siguientes.
+Las ventajas del árbol son Tunelización de datos (Data Tunneling), Ocultación de emergencia (Emergency Cloaking), Liberación (Jailbreak, que da al nanocable (Monowire) un espacio para un hackeo de control), Launch Capacity Override, Limiter Removal, Aprendizaje automático (Machine Learning), Protocolo sensorial (Sensory Protocol), Spatial Mapping y Análisis de vulnerabilidades (Vulnerability Analytics). Puedes gastar ya los 3 puntos; las terminales las irás encontrando al recorrer Dogtown en las misiones siguientes.
 
 ## El estacionamiento subterráneo del estadio
 
