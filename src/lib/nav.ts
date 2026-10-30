@@ -18,7 +18,7 @@ export interface Section {
 }
 
 /** Card sections shown on the Guide page and on the Extras page. */
-export const GUIDE_CARD_SECTIONS = ['survival', 'mechanics'] as const;
+export const GUIDE_CARD_SECTIONS = ['faq', 'survival', 'mechanics'] as const;
 export const EXTRAS_CARD_SECTIONS = ['modes', 'dlc', 'unlocks', 'endings', 'secrets'] as const;
 
 /**

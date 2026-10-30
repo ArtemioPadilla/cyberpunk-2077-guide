@@ -28,6 +28,7 @@ const DATA_FIELDS = new Set([
   'cost',
   'recommended',
   'section',
+  'see',
 ]);
 
 // Published games only: a draft is still being written (games.ts `status`).
@@ -166,6 +167,18 @@ describe.each(games)('engine game %s', (game) => {
         .filter(Boolean);
       expect(refs.length, `bosses › ${b.id} has chapters`).toBeGreaterThan(0);
       for (const r of refs) expect(chapterIds, `bosses › ${b.id}`).toContain(r);
+    }
+  });
+
+  it("cards: every `see` is another card or an entity's page", () => {
+    const cards = rows('cards.json');
+    const known = new Set(cards.map((c) => c.id));
+    for (const kind of ['weapons', 'gear', 'bosses', 'enemies', 'items', 'characters'])
+      for (const r of rows(`${kind}.json`)) known.add(`${kind}/${r.id}`);
+    for (const c of cards) {
+      if (typeof c.see !== 'string') continue;
+      for (const k of c.see.split(',').map((x) => x.trim()))
+        expect(known, `cards › ${c.id} › see`).toContain(k);
     }
   });
 });

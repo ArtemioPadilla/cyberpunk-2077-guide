@@ -8,7 +8,7 @@ import {
 } from '@/lib/game-content';
 import { collectibleTypeOf, localizedTypeName } from '@/lib/game-collectible-types';
 import { gameEntityPath } from '@/lib/game-entity-pages';
-import { ENGINE_SECTIONS } from '@/lib/nav';
+import { ENGINE_SECTIONS, GUIDE_CARD_SECTIONS } from '@/lib/nav';
 import type { GameId } from '@/lib/games';
 import type { Locale } from '@/i18n/ui';
 
@@ -92,7 +92,7 @@ export async function buildGameSearchIndex(game: GameId, locale: Locale): Promis
   const chapterName = new Map(chapters.map((c) => [chapterSlug(c), c.data.number]));
   const sub = (k: SearchKind, chapter?: string) =>
     chapter ? `${kind(k)} · ${chapterName.get(chapter) ?? chapter}` : kind(k);
-  const guideSections = new Set(['mechanics', 'survival']);
+  const guideSections = new Set<string>(GUIDE_CARD_SECTIONS);
 
   return [
     ...ENGINE_SECTIONS.filter((s) => s.needs === null || has.has(s.needs)).map((s) => ({
