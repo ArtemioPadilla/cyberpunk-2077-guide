@@ -17,7 +17,16 @@ interface Props {
 const { locale, game } = Astro.props;
 const { t, h, title, chapterLabel } = await gamePage(game, locale);
 const items = await gameEntries('items', game, locale);
-const TYPES = ['key', 'healing', 'crafting', 'special', 'treasure', 'ammo'] as const;
+const TYPES = [
+  'key',
+  'quickhack',
+  'healing',
+  'crafting',
+  'special',
+  'vehicle',
+  'treasure',
+  'ammo',
+] as const;
 const numberLocale = locale === 'es' ? 'de-DE' : 'en-US';
 ---
 

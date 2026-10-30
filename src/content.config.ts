@@ -127,6 +127,7 @@ const gameCollectibleShape = {
 const levelRow = z.object({ v: z.string(), p: z.number().optional() });
 const gameWeaponShape = {
   name: z.string(),
+  original: z.string().optional(),
   // Localized display group ("Pistolas", "Escopetas", "DLC").
   category: z.string(),
   // How and where you get it ("Guest house, 1st floor bathroom — Chapter 2").
@@ -145,6 +146,7 @@ const gameWeaponShape = {
 
 const gameGearShape = {
   name: z.string(),
+  original: z.string().optional(),
   kind: z.string(),
   where: z.string(),
   chapter: z.string().optional(),
@@ -155,6 +157,7 @@ const gameGearShape = {
 
 const gameBossShape = {
   name: z.string(),
+  original: z.string().optional(),
   chapters: z.string(),
   arena: z.string().optional(),
   weak: z.string().optional(),
@@ -167,6 +170,7 @@ const gameBossShape = {
 
 const gameEnemyShape = {
   name: z.string(),
+  original: z.string().optional(),
   group: z.string(),
   chapters: z.string(),
   weak: z.string(),
@@ -177,7 +181,17 @@ const gameEnemyShape = {
 
 const gameItemShape = {
   name: z.string(),
-  type: z.enum(['key', 'healing', 'crafting', 'ammo', 'special', 'treasure']),
+  original: z.string().optional(),
+  type: z.enum([
+    'key',
+    'healing',
+    'crafting',
+    'ammo',
+    'special',
+    'treasure',
+    'quickhack',
+    'vehicle',
+  ]),
   chapter: z.string().optional(),
   where: z.string().optional(),
   use: z.string(),
@@ -204,6 +218,8 @@ const gameAchievementShape = {
 
 const gameCharacterShape = {
   name: z.string(),
+  // The English in-game name, shown under a Spanish name and linked too.
+  original: z.string().optional(),
   role: z.string(),
   appears: z.string(),
   note: z.string(),
