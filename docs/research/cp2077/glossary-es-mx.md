@@ -152,6 +152,7 @@ The sub-job titles come from YouTube.
 | Sinnerman (not in the guide) | El pecador | Pandora Game, YT-PIAMA | medium | — |
 | Burning Desire / Night Moves | Night Moves (after The Heist) | YT-GS | (UNVERIFIED) | Deseo ardiente → Amante bandido (ES-WIKI) |
 | The Gift (side job, Yoko Tsuru) | El regalo | YT-GS es-MX HUD "EL REGALO . Recupera El Hackeo Rapido Ping Del Netrunner" | medium | — |
+| Psycho Killer (Regina's cyberpsycho job) | Loco un poco | YT Pandora Game (LatAm), "Cyberpunk 2077 LOCO UN POCO \| Mision Secundaria #12 Recompensa de Regina Jones" (youtube.com/watch?v=txUnRsugigA, original title via oEmbed) | medium-high | — |
 | Fool on the Hill (tarot graffiti job) | La Luna | STEAM-MX (achievement "Demente errante": "…para el trabajo La Luna") | high | Todo se transforma (PSN-ES "Loco errante") |
 
 ### 1d. Phantom Liberty jobs
