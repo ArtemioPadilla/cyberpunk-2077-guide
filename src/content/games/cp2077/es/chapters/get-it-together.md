@@ -48,7 +48,7 @@ pills:
 
 ## Lo que se abre al terminar
 
-- **Encargos de nivel 3 de Mr. Hands:** The Man Who Killed Jason Foreman, Spy in the Jungle y Talent Academy. (En Spy in the Jungle, perdonar a Ana abre más tarde las misiones secundarias Money for Nothing y No Easy Way Out.)
+- **Encargos de nivel 3 de Mr. Hands:** The Man Who Killed Jason Foreman, Spy in the Jungle y Talent Academy. (En Spy in the Jungle, perdonar a **Katya** a cambio de su alijo abre el trabajo menor **Money For Nothing**.)
 - La siguiente misión, **You Know My Name**, te lleva directo al Black Sapphire.
 
 ## Decisiones

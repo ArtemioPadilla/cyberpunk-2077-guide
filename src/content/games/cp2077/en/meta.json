@@ -4,5 +4,8 @@
   {"id": "act2", "kind": "part", "label": "Act 2"},
   {"id": "act3", "kind": "part", "label": "Act 3"},
   {"id": "pl", "kind": "part", "label": "Phantom Liberty"},
-  {"id": "side", "kind": "part", "label": "Side jobs"}
+  {"id": "side", "kind": "part", "label": "Companions and romances"},
+  {"id": "jobs", "kind": "part", "label": "Side jobs", "note": "Stories with their own characters; many open in Act 2."},
+  {"id": "minor", "kind": "part", "label": "Minor jobs", "note": "Short jobs you run into around the city."},
+  {"id": "gigs", "kind": "part", "label": "Fixer gigs", "note": "By district, from each area's fixer."}
 ]

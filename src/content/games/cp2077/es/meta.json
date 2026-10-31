@@ -4,5 +4,8 @@
   {"id": "act2", "kind": "part", "label": "Acto 2"},
   {"id": "act3", "kind": "part", "label": "Acto 3"},
   {"id": "pl", "kind": "part", "label": "Phantom Liberty"},
-  {"id": "side", "kind": "part", "label": "Misiones secundarias"}
+  {"id": "side", "kind": "part", "label": "Compañeros y romances"},
+  {"id": "jobs", "kind": "part", "label": "Trabajos secundarios", "note": "Historias con su propio personaje; muchas se abren en el acto 2."},
+  {"id": "minor", "kind": "part", "label": "Trabajos menores", "note": "Trabajos cortos que encuentras por la ciudad."},
+  {"id": "gigs", "kind": "part", "label": "Encargos de fixers", "note": "Por distrito, del fixer de cada zona."}
 ]
