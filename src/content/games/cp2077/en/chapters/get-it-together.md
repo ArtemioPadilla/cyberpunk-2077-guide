@@ -48,7 +48,7 @@ pills:
 
 ## What opens when it's done
 
-- **Mr. Hands' Tier 3 gigs:** The Man Who Killed Jason Foreman, Spy in the Jungle and Talent Academy. (In Spy in the Jungle, sparing Ana later opens the side jobs Money for Nothing and No Easy Way Out.)
+- **Mr. Hands' Tier 3 gigs:** The Man Who Killed Jason Foreman, Spy in the Jungle and Talent Academy. (In Spy in the Jungle, sparing **Katya** in exchange for her stash opens the minor job **Money For Nothing**.)
 - The next job, **You Know My Name**, takes you straight to the Black Sapphire.
 
 ## Choices

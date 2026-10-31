@@ -763,9 +763,9 @@ Sources: [W:Firestarter] [G8:Firestarter] [G8:PL-Endings] [PP:dlc-walkthrough].
     - Smuggle Paco out in the trunk: **Carmen** DA8 Umbra at the Afterlife.
     - Call friends (River, Panam or Rogue, by completed chains): Carmen, Skill Shard: Solo, €$8000.
   - **Dazed and Confused**: Mr. Hands, after You Know My Name.
-  - **Dirty Second Hands**: Reed path only.
+  - **Dirty Second Hands**: ~~Reed path only~~ CORRECTED: appears if V left their gear in the Firestarter locker, on either path [W:Dirty_Second_Hands].
   - **Go Your Own Way**, **Shot by Both Sides**: Mr. Hands.
-  - **Money for Nothing** and **No Easy Way Out**: spare Ana in the Spy in the Jungle gig.
+  - **Money for Nothing**: CORRECTED: spare **Katya** (the fake Bana) in the Spy in the Jungle gig, for her stash [W:Money_For_Nothing]. **No Easy Way Out** comes from Coach Fred after Spider and the Fly, not from this gig.
   - **El Capitán car thefts** ("Mysterious Signal" markers): Push It to the Limit (after 1 theft), Baby Let Me Take You (call after about 8 thefts), Just Another Story (repeatable).
   - **Moving Heat**, **New Person, Same Old Mistakes** (Bill Mitchel), **Shot by Both Sides**.
     - (CONFLICT) PowerPyx says these trigger during Who Wants to Live Forever, "after going to balcony Point of No Return and walking back".
